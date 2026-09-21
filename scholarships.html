@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scholarships - ScholarConnect</title>
+<meta name="description" content="Search and filter scholarships by category, education level, field, location, income, and deadline.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container">
+    <a href="index.html" class="nav-logo"><span class="mark"></span>ScholarConnect</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="scholarships.html" class="active">Scholarships</a></li>
+      <li><a href="students.html">Students</a></li>
+      <li><a href="institutions.html">Institutions</a></li>
+      <li><a href="index.html#about">About</a></li>
+      <li><a href="login.html">Log In</a></li>
+    </ul>
+    <div class="nav-actions">
+      <a href="student-form.html" class="btn btn-ghost btn-sm">Check Eligibility</a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+        <span class="bar1"></span><span class="bar2"></span><span class="bar3"></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<header class="page-hero">
+  <div class="container">
+    <span class="eyebrow">Scholarship directory</span>
+    <h1 style="font-size:clamp(1.8rem,3vw,2.6rem);">Find scholarships that fit you.</h1>
+    <p>Search by name or provider, or narrow the directory using the filters - everything updates instantly, no page reloads.</p>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container">
+    <div class="search-row">
+      <input type="text" id="search-input" placeholder="Search by scholarship name, provider, or keyword…" aria-label="Search scholarships">
+      <button class="btn btn-primary" id="search-btn" type="button">Search</button>
+    </div>
+
+    <div class="cat-strip" id="category-strip" style="margin-bottom:28px;"></div>
+
+    <div class="discover">
+      <aside class="filters" aria-label="Filter scholarships">
+        <h3>Filters</h3>
+
+        <div class="filter-group">
+          <label for="f-level">Education Level</label>
+          <select id="f-level">
+            <option value="">All levels</option>
+            <option>Class 11-12</option>
+            <option>Undergraduate</option>
+            <option>Postgraduate</option>
+            <option>Doctoral</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="f-field">Field of Study</label>
+          <select id="f-field">
+            <option value="">All fields</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="f-location">Location</label>
+          <select id="f-location">
+            <option value="">All locations</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="f-income">Maximum Family Income</label>
+          <select id="f-income">
+            <option value="">Any income</option>
+            <option value="300000">Up to ₹3,00,000</option>
+            <option value="600000">Up to ₹6,00,000</option>
+            <option value="1000000">Up to ₹10,00,000</option>
+            <option value="1500000">Up to ₹15,00,000</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="f-amount">Minimum Scholarship Amount</label>
+          <select id="f-amount">
+            <option value="0">Any amount</option>
+            <option value="50000">₹50,000+</option>
+            <option value="100000">₹1,00,000+</option>
+            <option value="150000">₹1,50,000+</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="f-deadline">Deadline Within</label>
+          <select id="f-deadline">
+            <option value="">Any time</option>
+            <option value="14">Next 14 days</option>
+            <option value="30">Next 30 days</option>
+            <option value="90">Next 90 days</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="f-gender">Gender Eligibility</label>
+          <select id="f-gender">
+            <option value="">All</option>
+            <option>All</option>
+            <option>Female</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="f-type">Provider Type</label>
+          <select id="f-type">
+            <option value="">Any type</option>
+            <option>Government</option>
+            <option>Private</option>
+            <option>Foundation</option>
+            <option>NGO</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label>Basis</label>
+          <div class="chip-group" id="f-basis">
+            <button class="chip" type="button" data-basis="merit" aria-pressed="false">Merit-based</button>
+            <button class="chip" type="button" data-basis="need" aria-pressed="false">Need-based</button>
+          </div>
+        </div>
+
+        <button class="btn btn-ghost btn-block" id="clear-filters" type="button">Clear Filters</button>
+      </aside>
+
+      <div>
+        <div class="result-summary">
+          <span id="result-count">Showing all scholarships</span>
+          <span id="saved-count-wrap"><a href="#saved-section" style="color:var(--blue-600);font-weight:600;">View Saved (<span id="saved-count">0</span>)</a></span>
+        </div>
+        <div class="card-grid" id="results-grid"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--soft" id="saved-section">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Your list</span>
+      <h2>Saved Scholarships</h2>
+      <p>Saved directly to this browser using local storage - clear your browser data and this list resets.</p>
+    </div>
+    <div class="card-grid" id="saved-grid"></div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <span class="footer-logo">ScholarConnect</span>
+        <p style="color:#9CC9B8;font-size:0.88rem;">Connecting students to opportunities that matter - one match at a time.</p>
+      </div>
+      <div>
+        <h4>Platform</h4>
+        <ul>
+          <li><a href="index.html#about">About</a></li>
+          <li><a href="students.html">Students</a></li>
+          <li><a href="institutions.html">Institutions</a></li>
+          <li><a href="scholarships.html">Scholarships</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="student-form.html">Eligibility Form</a></li>
+          <li><a href="student-register.html">Create Student Account</a></li>
+          <li><a href="institution-form.html">Register Institution</a></li>
+          <li><a href="login.html">Log In</a></li>
+          <li><a href="scholarships.html">Browse Directory</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="mailto:hello@scholarconnect.demo">hello@scholarconnect.demo</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Terms of Use</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span id="year"></span> ScholarConnect. A demo student project - no real backend connected.</span>
+      <div class="social-icons">
+        <a href="#" aria-label="Twitter">𝕏</a>
+        <a href="#" aria-label="LinkedIn">in</a>
+        <a href="#" aria-label="Instagram">◎</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/scholarships.js"></script>
+</body>
+</html>

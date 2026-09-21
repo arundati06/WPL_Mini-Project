@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Create Student Account - ScholarConnect</title>
+<meta name="description" content="Create a free ScholarConnect student account to save scholarships and track your eligibility results.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container">
+    <a href="index.html" class="nav-logo"><span class="mark"></span>ScholarConnect</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="scholarships.html">Scholarships</a></li>
+      <li><a href="students.html">Students</a></li>
+      <li><a href="institutions.html">Institutions</a></li>
+      <li><a href="index.html#about">About</a></li>
+      <li><a href="login.html">Log In</a></li>
+    </ul>
+    <div class="nav-actions">
+      <a href="login.html" class="btn btn-ghost btn-sm">Log In</a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+        <span class="bar1"></span><span class="bar2"></span><span class="bar3"></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<header class="page-hero">
+  <div class="container">
+    <span class="eyebrow">Student account</span>
+    <h1 style="font-size:clamp(1.8rem,3vw,2.6rem);">Create your student account.</h1>
+    <p>Save scholarships, keep your eligibility results, and track deadlines across sessions. This is a demo account - no data is sent to a server.</p>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container form-shell">
+
+    <form id="student-register-form" novalidate>
+      <div class="form-progress">
+        <span class="done"></span>
+      </div>
+
+      <div class="form-section">
+        <h3>Your Details</h3>
+        <p class="fs-desc">A few basics to set up your account.</p>
+        <div class="form-grid">
+          <div class="field full">
+            <label for="r-name">Full Name</label>
+            <input type="text" id="r-name" required>
+            <span class="err-msg">Please enter your full name.</span>
+          </div>
+          <div class="field full">
+            <label for="r-email">Email Address</label>
+            <input type="email" id="r-email" required>
+            <span class="err-msg">Enter a valid email address.</span>
+          </div>
+          <div class="field">
+            <label for="r-phone">Phone <span class="hint">(optional)</span></label>
+            <input type="tel" id="r-phone" placeholder="10-digit mobile number">
+            <span class="err-msg">Enter a valid 10-digit phone number.</span>
+          </div>
+          <div class="field">
+            <label for="r-level">Current Education Level</label>
+            <select id="r-level" required>
+              <option value="">Select</option>
+              <option>Class 11-12</option>
+              <option>Undergraduate</option>
+              <option>Postgraduate</option>
+              <option>Doctoral</option>
+            </select>
+            <span class="err-msg">Please select your education level.</span>
+          </div>
+          <div class="field">
+            <label for="r-password">Password</label>
+            <input type="password" id="r-password" minlength="8" required>
+            <span class="err-msg">Password must be at least 8 characters.</span>
+          </div>
+          <div class="field">
+            <label for="r-confirm">Confirm Password</label>
+            <input type="password" id="r-confirm" required>
+            <span class="err-msg">Passwords do not match.</span>
+          </div>
+          <div class="field full">
+            <label class="hint" style="display:flex;align-items:center;gap:8px;font-weight:400;">
+              <input type="checkbox" id="r-terms" style="width:auto;" required>
+              I agree to the Terms of Use and Privacy Policy.
+            </label>
+            <span class="err-msg">Please accept the terms to continue.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-actions">
+        <p style="margin:0;font-size:0.82rem;color:var(--ink-500);">This is a demo account - nothing is stored on a server.</p>
+        <button type="submit" class="btn btn-primary">Create Account</button>
+      </div>
+    </form>
+
+    <p class="text-center" style="margin-top:18px;font-size:0.9rem;">
+      Already have an account? <a href="login.html" style="color:var(--blue-600);font-weight:600;">Log in</a>
+    </p>
+
+    <div id="success-panel" class="success-panel" style="display:none;">
+      <div class="mark">&check;</div>
+      <h2>Account created successfully.</h2>
+      <p>This is a demo account - no real backend or database is connected, so nothing was actually saved. In a production version, you'd now be signed in automatically.</p>
+      <div class="hero-ctas" style="justify-content:center;margin-top:20px;">
+        <a href="student-form.html" class="btn btn-primary">Continue to Eligibility Form</a>
+        <a href="login.html" class="btn btn-ghost">Go to Log In</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom" style="border-top:none;padding-top:0;">
+      <span>&copy; <span id="year"></span> ScholarConnect. A demo student project - no real backend connected.</span>
+      <div class="social-icons">
+        <a href="#" aria-label="Twitter">𝕏</a>
+        <a href="#" aria-label="LinkedIn">in</a>
+        <a href="#" aria-label="Instagram">◎</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+<script src="js/student-register.js"></script>
+</body>
+</html>

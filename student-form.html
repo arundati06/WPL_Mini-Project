@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eligibility Form - ScholarConnect</title>
+<meta name="description" content="Tell us about yourself and get matched to scholarships you may be eligible for.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container">
+    <a href="index.html" class="nav-logo"><span class="mark"></span>ScholarConnect</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="scholarships.html">Scholarships</a></li>
+      <li><a href="students.html">Students</a></li>
+      <li><a href="institutions.html">Institutions</a></li>
+      <li><a href="index.html#about">About</a></li>
+      <li><a href="login.html">Log In</a></li>
+    </ul>
+    <div class="nav-actions">
+      <a href="scholarships.html" class="btn btn-ghost btn-sm">Browse Directory</a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+        <span class="bar1"></span><span class="bar2"></span><span class="bar3"></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<header class="page-hero">
+  <div class="container">
+    <span class="eyebrow">Eligibility form</span>
+    <h1 style="font-size:clamp(1.8rem,3vw,2.6rem);">Tell us about yourself.</h1>
+    <p>This takes about three minutes. We only ask what's needed to match you against scholarship criteria - nothing more.</p>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container form-shell">
+
+    <form id="eligibility-form" novalidate>
+      <div class="form-progress">
+        <span class="done"></span><span class="done"></span><span class="done"></span><span class="done"></span>
+      </div>
+
+      <!-- Personal Information -->
+      <div class="form-section">
+        <h3>Personal Information</h3>
+        <p class="fs-desc">Basic details used to check location and category-based eligibility.</p>
+        <div class="form-grid">
+          <div class="field">
+            <label for="p-name">Full Name</label>
+            <input type="text" id="p-name" required>
+            <span class="err-msg">Please enter your full name.</span>
+          </div>
+          <div class="field">
+            <label for="p-age">Age</label>
+            <input type="number" id="p-age" min="10" max="80" required>
+            <span class="err-msg">Enter a valid age.</span>
+          </div>
+          <div class="field">
+            <label for="p-gender">Gender</label>
+            <select id="p-gender" required>
+              <option value="">Select</option>
+              <option>Female</option>
+              <option>Male</option>
+              <option>Other</option>
+              <option>Prefer not to say</option>
+            </select>
+            <span class="err-msg">Please select an option.</span>
+          </div>
+          <div class="field">
+            <label for="p-state">State</label>
+            <select id="p-state" required></select>
+            <span class="err-msg">Please select your state.</span>
+          </div>
+          <div class="field">
+            <label for="p-city">City</label>
+            <input type="text" id="p-city" required>
+            <span class="err-msg">Please enter your city.</span>
+          </div>
+          <div class="field">
+            <label for="p-category">Category</label>
+            <select id="p-category" required>
+              <option value="">Select</option>
+              <option>General</option>
+              <option>OBC</option>
+              <option>SC</option>
+              <option>ST</option>
+              <option>EWS</option>
+            </select>
+            <span class="err-msg">Please select a category.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Academic Information -->
+      <div class="form-section">
+        <h3>Academic Information</h3>
+        <p class="fs-desc">Used to match education level, field of study, and merit-based scholarships.</p>
+        <div class="form-grid">
+          <div class="field">
+            <label for="a-level">Current Education Level</label>
+            <select id="a-level" required>
+              <option value="">Select</option>
+              <option>Class 11-12</option>
+              <option>Undergraduate</option>
+              <option>Postgraduate</option>
+              <option>Doctoral</option>
+            </select>
+            <span class="err-msg">Please select your education level.</span>
+          </div>
+          <div class="field">
+            <label for="a-institute">College / University</label>
+            <input type="text" id="a-institute" required>
+            <span class="err-msg">Please enter your institution.</span>
+          </div>
+          <div class="field">
+            <label for="a-course">Course</label>
+            <input type="text" id="a-course" placeholder="e.g. B.Tech, B.A., MBA" required>
+            <span class="err-msg">Please enter your course.</span>
+          </div>
+          <div class="field">
+            <label for="a-field">Field of Study</label>
+            <select id="a-field" required></select>
+            <span class="err-msg">Please select a field of study.</span>
+          </div>
+          <div class="field">
+            <label for="a-year">Year of Study</label>
+            <select id="a-year" required>
+              <option value="">Select</option>
+              <option>1st Year</option>
+              <option>2nd Year</option>
+              <option>3rd Year</option>
+              <option>4th Year</option>
+              <option>Final Year</option>
+            </select>
+            <span class="err-msg">Please select your year of study.</span>
+          </div>
+          <div class="field">
+            <label for="a-score">CGPA / Percentage <span class="hint">(0–100)</span></label>
+            <input type="number" id="a-score" min="0" max="100" step="0.1" required>
+            <span class="err-msg">Enter a value between 0 and 100.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Financial Information -->
+      <div class="form-section">
+        <h3>Financial Information</h3>
+        <p class="fs-desc">Most scholarships set an income ceiling - this is the single biggest eligibility factor.</p>
+        <div class="form-grid">
+          <div class="field">
+            <label for="f-income">Annual Family Income (₹)</label>
+            <input type="number" id="f-income" min="0" required>
+            <span class="err-msg">Enter a valid income amount.</span>
+          </div>
+          <div class="field">
+            <label for="f-incomecat">Income Category</label>
+            <select id="f-incomecat" required>
+              <option value="">Select</option>
+              <option>Below ₹3,00,000</option>
+              <option>₹3,00,000 – ₹6,00,000</option>
+              <option>₹6,00,000 – ₹10,00,000</option>
+              <option>Above ₹10,00,000</option>
+            </select>
+            <span class="err-msg">Please select an income category.</span>
+          </div>
+          <div class="field full">
+            <label>Financial Assistance Required</label>
+            <div class="radio-row">
+              <label><input type="radio" name="f-assist" value="yes" required> Yes, I need financial assistance</label>
+              <label><input type="radio" name="f-assist" value="no"> No, I'm exploring merit-based options</label>
+            </div>
+            <span class="err-msg">Please choose one option.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Other Eligibility Information -->
+      <div class="form-section">
+        <h3>Other Eligibility Information</h3>
+        <p class="fs-desc">These help match category-specific scholarships - skip any that don't apply to you.</p>
+        <div class="form-grid">
+          <div class="field">
+            <label for="o-domicile">Domicile State</label>
+            <select id="o-domicile"></select>
+          </div>
+          <div class="field">
+            <label for="o-disability">Disability Status</label>
+            <select id="o-disability">
+              <option value="no">No disability</option>
+              <option value="yes">I have a disability</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="o-firstgen">First-Generation Learner</label>
+            <select id="o-firstgen">
+              <option value="no">No</option>
+              <option value="yes">Yes</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="o-sports">Sports Achievement</label>
+            <select id="o-sports">
+              <option value="no">None</option>
+              <option value="yes">State / National level</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="o-academic">Academic Achievement</label>
+            <select id="o-academic">
+              <option value="no">None notable</option>
+              <option value="yes">Award / rank / publication</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="o-extra">Extracurricular Achievement</label>
+            <select id="o-extra">
+              <option value="no">None</option>
+              <option value="yes">Arts / cultural / leadership</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="o-govt">Government Scholarship Already Received</label>
+            <select id="o-govt">
+              <option value="no">No</option>
+              <option value="yes">Yes</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="o-special">Special Eligibility Category</label>
+            <select id="o-special">
+              <option value="">None</option>
+              <option>Minority Community</option>
+              <option>Orphan / Ward of Armed Forces</option>
+              <option>Single Parent Household</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-actions">
+        <p style="margin:0;font-size:0.82rem;color:var(--ink-500);">Your information is only used to run the matching demo below - nothing is submitted to a server.</p>
+        <button type="submit" class="btn btn-primary">Find My Scholarships</button>
+      </div>
+    </form>
+
+    <div id="results" style="margin-top:48px;display:none;"></div>
+
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom" style="border-top:none;padding-top:0;">
+      <span>&copy; <span id="year"></span> ScholarConnect. A demo student project - no real backend connected.</span>
+      <div class="social-icons">
+        <a href="#" aria-label="Twitter">𝕏</a>
+        <a href="#" aria-label="LinkedIn">in</a>
+        <a href="#" aria-label="Instagram">◎</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/eligibility.js"></script>
+<script src="js/student-form.js"></script>
+</body>
+</html>
