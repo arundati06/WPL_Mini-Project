@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Register Your Institution - ScholarConnect</title>
+<meta name="description" content="Register your institution and submit scholarship opportunities to ScholarConnect.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container">
+    <a href="index.html" class="nav-logo"><span class="mark"></span>ScholarConnect</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="scholarships.html">Scholarships</a></li>
+      <li><a href="students.html">Students</a></li>
+      <li><a href="institutions.html">Institutions</a></li>
+      <li><a href="index.html#about">About</a></li>
+      <li><a href="login.html">Log In</a></li>
+    </ul>
+    <div class="nav-actions">
+      <a href="scholarships.html" class="btn btn-ghost btn-sm">Find Scholarships</a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+        <span class="bar1"></span><span class="bar2"></span><span class="bar3"></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<header class="page-hero">
+  <div class="container">
+    <span class="eyebrow">Institution registration</span>
+    <h1 style="font-size:clamp(1.8rem,3vw,2.6rem);">Register your institution.</h1>
+    <p>Add your organisation's details, then submit your first scholarship's eligibility criteria. This is a demo submission - no real backend or database is connected.</p>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container form-shell">
+
+    <form id="institution-form" novalidate>
+      <div class="form-progress">
+        <span class="done"></span><span class="done"></span>
+      </div>
+
+      <!-- Institution Details -->
+      <div class="form-section">
+        <h3>Institution Details</h3>
+        <p class="fs-desc">Basic information about your organisation.</p>
+        <div class="form-grid">
+          <div class="field full">
+            <label for="i-name">Institution Name</label>
+            <input type="text" id="i-name" required>
+            <span class="err-msg">Please enter your institution's name.</span>
+          </div>
+          <div class="field">
+            <label for="i-type">Institution Type</label>
+            <select id="i-type" required>
+              <option value="">Select</option>
+              <option>College / University</option>
+              <option>Foundation</option>
+              <option>Trust</option>
+              <option>NGO</option>
+              <option>Government Body</option>
+              <option>Company (CSR)</option>
+            </select>
+            <span class="err-msg">Please select an institution type.</span>
+          </div>
+          <div class="field">
+            <label for="i-website">Website</label>
+            <input type="url" id="i-website" placeholder="https://example.org">
+            <span class="err-msg">Enter a valid URL.</span>
+          </div>
+          <div class="field full">
+            <label for="i-address">Address</label>
+            <input type="text" id="i-address" required>
+            <span class="err-msg">Please enter an address.</span>
+          </div>
+          <div class="field">
+            <label for="i-city">City</label>
+            <input type="text" id="i-city" required>
+            <span class="err-msg">Please enter a city.</span>
+          </div>
+          <div class="field">
+            <label for="i-state">State</label>
+            <input type="text" id="i-state" required>
+            <span class="err-msg">Please enter a state.</span>
+          </div>
+          <div class="field">
+            <label for="i-contact">Contact Person</label>
+            <input type="text" id="i-contact" required>
+            <span class="err-msg">Please enter a contact person.</span>
+          </div>
+          <div class="field">
+            <label for="i-email">Email</label>
+            <input type="email" id="i-email" required>
+            <span class="err-msg">Enter a valid email address.</span>
+          </div>
+          <div class="field">
+            <label for="i-phone">Phone</label>
+            <input type="tel" id="i-phone" placeholder="10-digit mobile number" required>
+            <span class="err-msg">Enter a valid 10-digit phone number.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Scholarship Details -->
+      <div class="form-section">
+        <h3>Scholarship Details</h3>
+        <p class="fs-desc">The eligibility criteria you provide here is what powers automatic matching for students.</p>
+        <div class="form-grid">
+          <div class="field full">
+            <label for="s-name">Scholarship Name</label>
+            <input type="text" id="s-name" required>
+            <span class="err-msg">Please enter a scholarship name.</span>
+          </div>
+          <div class="field">
+            <label for="s-amount">Scholarship Amount (₹)</label>
+            <input type="number" id="s-amount" min="0" required>
+            <span class="err-msg">Enter a valid amount.</span>
+          </div>
+          <div class="field">
+            <label for="s-recipients">Number of Recipients</label>
+            <input type="number" id="s-recipients" min="1" required>
+            <span class="err-msg">Enter a valid number.</span>
+          </div>
+          <div class="field">
+            <label for="s-deadline">Application Deadline</label>
+            <input type="date" id="s-deadline" required>
+            <span class="err-msg">Please select a deadline.</span>
+          </div>
+          <div class="field">
+            <label for="s-level">Education Levels</label>
+            <select id="s-level" required>
+              <option value="">Select</option>
+              <option>Class 11-12</option>
+              <option>Undergraduate</option>
+              <option>Postgraduate</option>
+              <option>Doctoral</option>
+            </select>
+            <span class="err-msg">Please select an education level.</span>
+          </div>
+          <div class="field">
+            <label for="s-fields">Eligible Courses / Fields</label>
+            <input type="text" id="s-fields" placeholder="e.g. Engineering, Computer Science" required>
+            <span class="err-msg">Please list at least one field.</span>
+          </div>
+          <div class="field">
+            <label for="s-minscore">Minimum Academic Requirement (%)</label>
+            <input type="number" id="s-minscore" min="0" max="100" required>
+            <span class="err-msg">Enter a value between 0 and 100.</span>
+          </div>
+          <div class="field">
+            <label for="s-maxincome">Maximum Family Income (₹)</label>
+            <input type="number" id="s-maxincome" min="0" required>
+            <span class="err-msg">Enter a valid income limit.</span>
+          </div>
+          <div class="field">
+            <label for="s-location">Location / Domicile Requirement</label>
+            <input type="text" id="s-location" placeholder="e.g. Maharashtra, or All India">
+          </div>
+          <div class="field">
+            <label for="s-other">Other Eligibility Criteria</label>
+            <input type="text" id="s-other" placeholder="Optional">
+          </div>
+          <div class="field full">
+            <label for="s-docs">Required Documents <span class="hint">(comma-separated)</span></label>
+            <input type="text" id="s-docs" placeholder="e.g. Income Certificate, Marksheet, ID Proof">
+          </div>
+          <div class="field">
+            <label for="s-link">Application Link</label>
+            <input type="url" id="s-link" placeholder="https://apply.example.org">
+          </div>
+          <div class="field full">
+            <label for="s-desc">Scholarship Description</label>
+            <textarea id="s-desc" rows="4" required></textarea>
+            <span class="err-msg">Please add a short description.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-actions">
+        <p style="margin:0;font-size:0.82rem;color:var(--ink-500);">This is a demo submission - no real backend or database is connected.</p>
+        <button type="submit" class="btn btn-primary">Submit Scholarship</button>
+      </div>
+    </form>
+
+    <div id="success-panel" class="success-panel" style="display:none;">
+      <div class="mark">✓</div>
+      <h2>Thank you! Your scholarship information has been submitted successfully.</h2>
+      <p>This is a demo submission - no real backend or database is connected, so nothing was actually saved. In a production version, your listing would now appear in the ScholarConnect directory pending a brief review.</p>
+      <div class="hero-ctas" style="justify-content:center;margin-top:20px;">
+        <a href="scholarships.html" class="btn btn-primary">Browse the Directory</a>
+        <a href="institution-form.html" class="btn btn-ghost">Submit Another Scholarship</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom" style="border-top:none;padding-top:0;">
+      <span>&copy; <span id="year"></span> ScholarConnect. A demo student project - no real backend connected.</span>
+      <div class="social-icons">
+        <a href="#" aria-label="Twitter">𝕏</a>
+        <a href="#" aria-label="LinkedIn">in</a>
+        <a href="#" aria-label="Instagram">◎</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+<script src="js/institution-form.js"></script>
+</body>
+</html>
