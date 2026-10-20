@@ -29,13 +29,29 @@ document.addEventListener('DOMContentLoaded', () => {
     institutionForm.style.display = isStudent ? 'none' : 'block';
   });
 
-  /* ---------- Forgot password (demo) ---------- */
+  /* ---------- Forgot password ---------- */
   document.querySelectorAll('.forgot-link').forEach(link => {
     link.addEventListener('click', (e) => {
       e.preventDefault();
-      showToast("Password reset isn't available in this demo.");
+      showToast('Please contact the site admin to reset your password.');
     });
   });
+
+  /* Already logged in? Go straight to the dashboard. */
+  SC.me().then(user => { if(user) location.href = SC.dashboardFor(user.role); });
+
+  /* Show a message inside a form */
+  function formMessage(form, text){
+    let el = form.querySelector('.form-error');
+    if(!el){
+      el = document.createElement('p');
+      el.className = 'form-error';
+      el.setAttribute('role', 'alert');
+      form.querySelector('button[type="submit"]').before(el);
+    }
+    el.textContent = text || '';
+    el.style.display = text ? 'block' : 'none';
+  }
 
   /* ---------- Shared validation ---------- */
   function validateLogin(form){
@@ -73,21 +89,31 @@ document.addEventListener('DOMContentLoaded', () => {
     successPanel.scrollIntoView({ behavior:'smooth', block:'start' });
   }
 
-  studentForm.addEventListener('submit', (e) => {
-    e.preventDefault();
-    if(!validateLogin(studentForm)){
+  async function doLogin(form, role, emailId, pwId){
+    formMessage(form, '');
+    if(!validateLogin(form)){
       showToast('Please fix the highlighted fields.');
       return;
     }
-    showSuccess('student');
-  });
+    const btn = form.querySelector('button[type="submit"]');
+    btn.disabled = true; btn.textContent = 'Logging in…';
+    try{
+      const { user } = await SC.api('/auth/login', { method: 'POST', body: {
+        email: document.getElementById(emailId).value.trim(),
+        password: document.getElementById(pwId).value,
+        role,
+      }});
+      showSuccess(user.role === 'institution' ? 'institution' : 'student');
+      successHeading.textContent = `Welcome back, ${user.name.split(' ')[0]}.`;
+      successCta.href = SC.dashboardFor(user.role);
+      if(user.role === 'admin') successCta.textContent = 'Go to Admin Dashboard';
+      setTimeout(() => { location.href = SC.dashboardFor(user.role); }, 900);
+    }catch(err){
+      formMessage(form, err.message);
+      btn.disabled = false; btn.textContent = 'Log In';
+    }
+  }
 
-  institutionForm.addEventListener('submit', (e) => {
-    e.preventDefault();
-    if(!validateLogin(institutionForm)){
-      showToast('Please fix the highlighted fields.');
-      return;
-    }
-    showSuccess('institution');
-  });
+  studentForm.addEventListener('submit', (e) => { e.preventDefault(); doLogin(studentForm, 'student', 'sl-email', 'sl-password'); });
+  institutionForm.addEventListener('submit', (e) => { e.preventDefault(); doLogin(institutionForm, 'institution', 'il-email', 'il-password'); });
 });

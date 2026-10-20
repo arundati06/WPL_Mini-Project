@@ -1,0 +1,28 @@
+{
+  "name": "scholarconnect-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ScholarConnect backend: accounts, logins, profiles and admin on MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "db:init": "node scripts/db-init.js",
+    "db:content": "node scripts/db-init.js --content",
+    "create-admin": "node scripts/create-admin.js",
+    "test": "node scripts/smoke-test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.22.3",
+    "express-mysql-session": "^3.0.3",
+    "express-rate-limit": "^7.4.1",
+    "express-session": "^1.18.1",
+    "mongod": "^2.0.0",
+    "mongoose": "^9.11.2",
+    "mysql2": "^3.11.5"
+  }
+}

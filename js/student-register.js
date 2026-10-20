@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if(e.target.matches('input[type="checkbox"]')) setError(e.target, false);
   });
 
-  form.addEventListener('submit', (e) => {
+  form.addEventListener('submit', async (e) => {
     e.preventDefault();
     if(!validate()){
       const firstError = form.querySelector('.field.error');
@@ -60,8 +60,23 @@ document.addEventListener('DOMContentLoaded', () => {
       showToast('Please fix the highlighted fields.');
       return;
     }
-    form.style.display = 'none';
-    successPanel.style.display = 'block';
-    successPanel.scrollIntoView({ behavior:'smooth', block:'start' });
+    const btn = form.querySelector('button[type="submit"]');
+    btn.disabled = true; btn.textContent = 'Creating account…';
+    try{
+      await SC.api('/auth/register', { method: 'POST', body: {
+        name: document.getElementById('r-name').value.trim(),
+        email: document.getElementById('r-email').value.trim(),
+        phone: document.getElementById('r-phone').value.replace(/\s/g, ''),
+        level: document.getElementById('r-level').value,
+        password: document.getElementById('r-password').value,
+      }});
+      form.style.display = 'none';
+      successPanel.style.display = 'block';
+      successPanel.scrollIntoView({ behavior:'smooth', block:'start' });
+    }catch(err){
+      if(err.field === 'email') setError(document.getElementById('r-email'), true);
+      showToast(err.message);
+      btn.disabled = false; btn.textContent = 'Create Account';
+    }
   });
 });

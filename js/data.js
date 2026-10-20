@@ -1,302 +1,3140 @@
 /* ============================================================
-   ScholarConnect - Sample Data
-   Fictional scholarship dataset for demo purposes only.
-   This is what a real backend/database would eventually serve.
+   ScholarConnect - REAL scholarship data (national + international)
+   GENERATED from database/generator - mirrors database/seed.sql.
+   55 real scholarships, each with its official URL (officialUrl) and the
+   page(s) it was checked against (sources). Last verified: 2026-10-18.
+   Amounts/deadlines change every cycle; always confirm on officialUrl.
+
+   null values mean "not fixed / not applicable":
+     amount, amountOriginal  -> see amountNote (e.g. fully funded, varies by course)
+     deadline                -> see deadlineNote (e.g. opens every June)
+     maxIncome               -> no income limit
+     minimumPercentage       -> no fixed % (see specialEligibility)
    ============================================================ */
 
 const SCHOLARSHIPS = [
   {
-    id: 1,
-    name: "Horizon Merit Scholarship",
-    provider: "Horizon Education Trust",
-    amount: 75000,
-    deadline: "2026-12-15",
-    educationLevel: ["Undergraduate"],
-    fields: ["Engineering", "Computer Science"],
-    states: ["Maharashtra", "Karnataka", "Gujarat"],
-    maxIncome: 800000,
-    minimumPercentage: 75,
-    category: "Merit",
-    gender: "All",
-    type: "Private",
-    description: "Awarded to undergraduate engineering and CS students with strong academic records, renewable each year based on continued performance.",
-    documents: ["Marksheet", "Income Certificate", "ID Proof", "Bonafide Certificate"],
-    process: "Apply online with academic transcripts; shortlisted candidates attend a short interview."
+    "id": 1,
+    "name": "Central Sector Scheme of Scholarships for College and University Students",
+    "provider": "Department of Higher Education, Ministry of Education",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 12000,
+    "amount": 12000,
+    "amountNote": "₹12,000/year (UG, first 3 years); ₹20,000/year (PG)",
+    "amountPeriod": "Annual",
+    "awards": 82000,
+    "deadline": "2026-10-31",
+    "deadlineNote": "NSP 2026-27 cycle (verify on NSP)",
+    "educationLevel": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 450000,
+    "minimumPercentage": null,
+    "category": "Merit",
+    "socialCategories": [],
+    "specialEligibility": "Above 80th percentile of successful candidates in Class 12 (own board & stream)",
+    "requires": null,
+    "gender": "All",
+    "description": "Merit-cum-means scholarship for students in the top 20 percentile of their Class 12 board who are in regular UG/PG courses. 50% of slots are for girls; SC/ST/OBC reservation applies.",
+    "documents": [
+      "Class 12 Marksheet",
+      "Income Certificate",
+      "Aadhaar-seeded Bank Account",
+      "Bonafide Certificate",
+      "Caste Certificate (if applicable)"
+    ],
+    "process": "Apply (fresh or renewal) on the National Scholarship Portal; institute and board verify. Renewal needs 50% marks and 75% attendance.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://nitkkr.ac.in/wp-content/uploads/2025/04/Central-Sector-Scheme-Of-Scholarships-For-College-And-University-Students.pdf",
+      "https://www.indiascholarships.in/scholarships/central-sector-scheme-of-scholarship-for-college-and-university-students"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 2,
-    name: "She Leads STEM Grant",
-    provider: "Nirmaan Foundation",
-    amount: 100000,
-    deadline: "2026-11-05",
-    educationLevel: ["Undergraduate", "Postgraduate"],
-    fields: ["Engineering", "Computer Science", "Mathematics", "Physics"],
-    states: ["All India"],
-    maxIncome: 1000000,
-    minimumPercentage: 65,
-    category: "Women in Education",
-    gender: "Female",
-    type: "Foundation",
-    description: "Supports women pursuing STEM degrees, with a focus on first-generation learners and applicants from underrepresented regions.",
-    documents: ["Marksheet", "Income Certificate", "ID Proof", "Statement of Purpose"],
-    process: "Submit a 500-word statement of purpose along with academic records; no interview required."
+    "id": 2,
+    "name": "Post-Matric Scholarship for Scheduled Caste Students",
+    "provider": "Ministry of Social Justice and Empowerment",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Tuition & non-refundable fees reimbursed + monthly academic allowance (rate depends on course group)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Set by each state; usually Oct–Dec",
+    "educationLevel": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 250000,
+    "minimumPercentage": null,
+    "category": "Social Welfare",
+    "socialCategories": [
+      "SC"
+    ],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Centrally sponsored scheme that funds SC students for any recognised post-matric course, from Class 11 to PhD. Implemented through state SC welfare departments.",
+    "documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Previous Marksheet",
+      "Bonafide / Admission Proof",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on NSP or your state's scholarship portal (e.g. MahaDBT); funds are paid by DBT.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/guides/sc-postmatric-scholarship-income-rules"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 3,
-    name: "National Merit-cum-Means Scholarship",
-    provider: "Ministry of Higher Education",
-    amount: 50000,
-    deadline: "2026-10-20",
-    educationLevel: ["Undergraduate"],
-    fields: ["All Fields"],
-    states: ["All India"],
-    maxIncome: 350000,
-    minimumPercentage: 60,
-    category: "Government",
-    gender: "All",
-    type: "Government",
-    description: "A government scheme supporting meritorious students from economically weaker sections across all disciplines.",
-    documents: ["Income Certificate", "Marksheet", "Caste/Category Certificate (if applicable)", "Bank Passbook Copy"],
-    process: "Apply through the National Scholarship Portal; verification is done at the institution level."
+    "id": 3,
+    "name": "AICTE Pragati Scholarship for Girl Students",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 50000,
+    "amount": 50000,
+    "amountNote": "₹50,000/year (degree: up to 4 years; diploma: up to 3 years)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Tentative, NSP 2026-27",
+    "educationLevel": [
+      "Diploma",
+      "Undergraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Architecture",
+      "Pharmacy"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 800000,
+    "minimumPercentage": null,
+    "category": "Women in Education",
+    "socialCategories": [],
+    "specialEligibility": "Girl students; up to two girls per family; first year (or lateral-entry second year) of an AICTE-approved technical course",
+    "requires": null,
+    "gender": "Female",
+    "description": "AICTE scheme for students in AICTE-approved technical degree or diploma courses. Girl students; up to two girls per family.",
+    "documents": [
+      "Class 10/12 Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Tuition Fee Receipt",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on the National Scholarship Portal; the institute verifies the application.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/news/aicte-scholarships-and-fellowships-complete-guide-for-students-researchers-and-f"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 4,
-    name: "Coastal Futures Research Fellowship",
-    provider: "Address Maker Foundation",
-    amount: 150000,
-    deadline: "2027-01-10",
-    educationLevel: ["Postgraduate", "Doctoral"],
-    fields: ["Environmental Science", "Urban Planning", "Civil Engineering"],
-    states: ["Maharashtra", "Goa", "Kerala"],
-    maxIncome: 1200000,
-    minimumPercentage: 70,
-    category: "Research",
-    gender: "All",
-    type: "Foundation",
-    description: "Funds original research into coastal urban development, climate resilience, and sustainable land use.",
-    documents: ["Research Proposal", "Marksheet", "Recommendation Letter", "ID Proof"],
-    process: "Submit a 2-page research proposal; shortlisted applicants present to a review panel."
+    "id": 4,
+    "name": "AICTE Saksham Scholarship for Specially-Abled Students",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 50000,
+    "amount": 50000,
+    "amountNote": "₹50,000/year (degree: up to 4 years; diploma: up to 3 years)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Tentative, NSP 2026-27",
+    "educationLevel": [
+      "Diploma",
+      "Undergraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Architecture",
+      "Pharmacy"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 800000,
+    "minimumPercentage": null,
+    "category": "Disability Support",
+    "socialCategories": [],
+    "specialEligibility": "Benchmark disability of 40% or more; first year (or lateral-entry second year) of an AICTE-approved technical course",
+    "requires": "Disability",
+    "gender": "All",
+    "description": "AICTE scheme for students in AICTE-approved technical degree or diploma courses. Benchmark disability of 40% or more.",
+    "documents": [
+      "Class 10/12 Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Tuition Fee Receipt",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on the National Scholarship Portal; the institute verifies the application.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/news/aicte-scholarships-and-fellowships-complete-guide-for-students-researchers-and-f"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 5,
-    name: "First Step First-Gen Scholarship",
-    provider: "Udaan Trust",
-    amount: 40000,
-    deadline: "2026-11-30",
-    educationLevel: ["Undergraduate"],
-    fields: ["All Fields"],
-    states: ["All India"],
-    maxIncome: 400000,
-    minimumPercentage: 55,
-    category: "Financial Need",
-    gender: "All",
-    type: "Foundation",
-    description: "Dedicated to first-generation college students who are the first in their family to pursue higher education.",
-    documents: ["Income Certificate", "Marksheet", "Self-Declaration Form", "ID Proof"],
-    process: "Online application with a short essay on educational background; no entrance test."
+    "id": 5,
+    "name": "AICTE Swanath Scholarship",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 50000,
+    "amount": 50000,
+    "amountNote": "₹50,000/year (degree: up to 4 years; diploma: up to 3 years)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Tentative, NSP 2026-27",
+    "educationLevel": [
+      "Diploma",
+      "Undergraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Architecture",
+      "Pharmacy"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 800000,
+    "minimumPercentage": null,
+    "category": "Financial Need",
+    "socialCategories": [],
+    "specialEligibility": "Orphans, wards of parents who died of COVID-19, or wards of martyred armed forces / CAPF personnel; first year (or lateral-entry second year) of an AICTE-approved technical course",
+    "requires": "Orphan / Ward of Armed Forces",
+    "gender": "All",
+    "description": "AICTE scheme for students in AICTE-approved technical degree or diploma courses. Orphans, wards of parents who died of COVID-19, or wards of martyred armed forces / CAPF personnel.",
+    "documents": [
+      "Class 10/12 Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Tuition Fee Receipt",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on the National Scholarship Portal; the institute verifies the application.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/news/aicte-scholarships-and-fellowships-complete-guide-for-students-researchers-and-f"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 6,
-    name: "Chess & Chalkboard Sports Scholarship",
-    provider: "Vardaan Sports Society",
-    amount: 35000,
-    deadline: "2026-12-01",
-    educationLevel: ["Undergraduate", "Postgraduate"],
-    fields: ["All Fields"],
-    states: ["All India"],
-    maxIncome: 900000,
-    minimumPercentage: 50,
-    category: "Sports",
-    gender: "All",
-    type: "Foundation",
-    description: "Recognises students who have represented their state or national teams while maintaining academic standing.",
-    documents: ["Sports Certificate", "Marksheet", "ID Proof"],
-    process: "Submit sports achievement proof alongside academic records for committee review."
+    "id": 6,
+    "name": "AICTE PG Scholarship (GATE / GPAT / CEED)",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 148800,
+    "amount": 148800,
+    "amountNote": "₹12,400/month for up to 24 months",
+    "amountPeriod": "Monthly",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Portal usually opens around September",
+    "educationLevel": [
+      "Postgraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Architecture",
+      "Pharmacy",
+      "Design"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Merit",
+    "socialCategories": [],
+    "specialEligibility": "Valid GATE, GPAT or CEED score; admitted to an AICTE-approved M.E./M.Tech/M.Arch/M.Pharm/M.Des",
+    "requires": null,
+    "gender": "All",
+    "description": "Monthly stipend for GATE/GPAT/CEED-qualified students in AICTE-approved full-time postgraduate programmes.",
+    "documents": [
+      "GATE / GPAT / CEED Scorecard",
+      "Admission Letter",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "The institute registers eligible students on AICTE's PG scholarship portal; stipend paid monthly by DBT.",
+    "officialUrl": "https://aicte.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/news/aicte-scholarships-and-fellowships-complete-guide-for-students-researchers-and-f"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 7,
-    name: "Canvas & Craft Arts Grant",
-    provider: "Kalakriti Foundation",
-    amount: 45000,
-    deadline: "2026-10-25",
-    educationLevel: ["Undergraduate"],
-    fields: ["Fine Arts", "Design", "Architecture"],
-    states: ["All India"],
-    maxIncome: 700000,
-    minimumPercentage: 55,
-    category: "Arts",
-    gender: "All",
-    type: "Foundation",
-    description: "Supports students of fine arts, design, and architecture with a portfolio-based selection process.",
-    documents: ["Portfolio", "Marksheet", "Income Certificate"],
-    process: "Submit a digital portfolio of up to 10 works along with academic records."
+    "id": 7,
+    "name": "National Overseas Scholarship for SC Students",
+    "provider": "Ministry of Social Justice and Empowerment",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Any country"
+    ],
+    "currency": "USD",
+    "amountOriginal": 15400,
+    "amount": 1314000,
+    "amountNote": "Full tuition + US$15,400/yr maintenance (UK: £9,900) + contingency, airfare, visa and insurance",
+    "amountPeriod": "Annual",
+    "awards": 125,
+    "deadline": null,
+    "deadlineNote": "Round 1 Feb–Mar, Round 2 Sep–Oct (40 days each)",
+    "educationLevel": [
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 800000,
+    "minimumPercentage": 60,
+    "category": "Study Abroad",
+    "socialCategories": [
+      "SC"
+    ],
+    "specialEligibility": "Unconditional offer from a QS top-500 university; age 35 or under; 30% of awards for women",
+    "requires": null,
+    "gender": "All",
+    "description": "Government of India scholarship for SC (also denotified/nomadic tribes and landless labourer families) students pursuing a master's or PhD abroad.",
+    "documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Unconditional Offer Letter",
+      "Degree Marksheets",
+      "Passport"
+    ],
+    "process": "Apply online at nosmsje.gov.in in one of two rounds; selection on merit within category quotas.",
+    "officialUrl": "https://nosmsje.gov.in",
+    "sources": [
+      "https://nosmsje.gov.in/nosmsje/public/images/Scheme-guidelines-2025-26.pdf"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 8,
-    name: "Aspire Girls' Education Bursary",
-    provider: "Roshni Welfare Society",
-    amount: 60000,
-    deadline: "2026-11-18",
-    educationLevel: ["Class 11-12", "Undergraduate"],
-    fields: ["All Fields"],
-    states: ["Maharashtra", "Rajasthan", "Uttar Pradesh"],
-    maxIncome: 300000,
-    minimumPercentage: 50,
-    category: "Women in Education",
-    gender: "Female",
-    type: "Foundation",
-    description: "A need-based bursary for girls at risk of dropping out of school or college due to financial constraints.",
-    documents: ["Income Certificate", "Marksheet", "Domicile Certificate"],
-    process: "Application reviewed by local counsellor; disbursed directly to the institution."
+    "id": 8,
+    "name": "INSPIRE Scholarship for Higher Education (SHE)",
+    "provider": "Department of Science and Technology",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 80000,
+    "amount": 80000,
+    "amountNote": "₹80,000/year",
+    "amountPeriod": "Annual",
+    "awards": 10000,
+    "deadline": null,
+    "deadlineNote": "Annual call, usually Oct–Dec",
+    "educationLevel": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology",
+      "Earth Sciences",
+      "Statistics"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "STEM",
+    "socialCategories": [],
+    "specialEligibility": "Top 1% in Class 12 board, or JEE-Advanced/NEET top 10,000, or admission to IISER/NISER/CEBS; age 17–22",
+    "requires": null,
+    "gender": "All",
+    "description": "DST scholarship with mentorship for talented students pursuing BSc/MSc (or integrated MS) in the natural and basic sciences.",
+    "documents": [
+      "Class 12 Marksheet",
+      "Eligibility Proof (board top-1% certificate or rank card)",
+      "Endorsement from Principal",
+      "Bank Details"
+    ],
+    "process": "Apply on the online-inspire.gov.in portal once the annual call is announced.",
+    "officialUrl": "https://online-inspire.gov.in",
+    "sources": [
+      "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/post-graduation/inspire-she-innovation-science-pursuit-inspired"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 9,
-    name: "TechBridge Computer Science Award",
-    provider: "TechBridge India",
-    amount: 90000,
-    deadline: "2027-02-01",
-    educationLevel: ["Undergraduate"],
-    fields: ["Computer Science", "Information Technology"],
-    states: ["All India"],
-    maxIncome: 1000000,
-    minimumPercentage: 70,
-    category: "STEM",
-    gender: "All",
-    type: "Private",
-    description: "Backed by a technology company, this award supports promising CS/IT undergraduates and offers a mentorship track.",
-    documents: ["Marksheet", "ID Proof", "Statement of Purpose"],
-    process: "Online application followed by a technical aptitude screening for shortlisted candidates."
+    "id": 9,
+    "name": "Top Class Education Scheme for SC Students",
+    "provider": "Ministry of Social Justice and Empowerment",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 286000,
+    "amount": 286000,
+    "amountNote": "Full tuition (capped at ₹2 lakh/yr in private institutes) + ₹86,000 first-year allowance (₹41,000 later years)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "NSP 2026-27 cycle",
+    "educationLevel": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 800000,
+    "minimumPercentage": null,
+    "category": "Social Welfare",
+    "socialCategories": [
+      "SC"
+    ],
+    "specialEligibility": "Admission to a notified premier institution (IITs, IIMs, NITs, AIIMS, NLUs etc.); 30% slots for girls",
+    "requires": null,
+    "gender": "All",
+    "description": "Covers full fees and living, book and computer costs for SC students who secure admission to notified top-class institutions.",
+    "documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Fee Receipt",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on the National Scholarship Portal; the institution verifies.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/top-class-education-scheme-for-sc-students"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 10,
-    name: "Rural Reach Scholarship",
-    provider: "Gram Vikas Sansthan",
-    amount: 30000,
-    deadline: "2026-11-10",
-    educationLevel: ["Undergraduate"],
-    fields: ["All Fields"],
-    states: ["Maharashtra", "Madhya Pradesh", "Bihar"],
-    maxIncome: 250000,
-    minimumPercentage: 50,
-    category: "Financial Need",
-    gender: "All",
-    type: "NGO",
-    description: "Targeted at students from rural and semi-urban backgrounds pursuing their first undergraduate degree.",
-    documents: ["Income Certificate", "Domicile Certificate", "Marksheet"],
-    process: "Application verified through a partner NGO field visit before disbursement."
+    "id": 10,
+    "name": "Prime Minister's Scholarship Scheme (PMSS) for Wards of Ex-Servicemen",
+    "provider": "Kendriya Sainik Board, Ministry of Defence",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 36000,
+    "amount": 36000,
+    "amountNote": "₹3,000/month for girls, ₹2,500/month for boys (paid annually)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-12-31",
+    "deadlineNote": "Fresh applications 2026-27",
+    "educationLevel": [
+      "Undergraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Medicine",
+      "Pharmacy",
+      "Business Administration",
+      "Computer Science",
+      "Architecture",
+      "Law",
+      "Nursing"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": 60,
+    "category": "Government",
+    "socialCategories": [],
+    "specialEligibility": "Dependent wards/widows of ex-servicemen and ex-Coast Guard personnel; first year of a professional/technical course (MBA/MCA also allowed)",
+    "requires": "Orphan / Ward of Armed Forces",
+    "gender": "All",
+    "description": "Scholarship for wards and widows of ex-servicemen and ex-Coast Guard personnel pursuing professional degree courses.",
+    "documents": [
+      "Ex-Serviceman Discharge Book / PPO",
+      "Class 12 Marksheet",
+      "Admission Proof",
+      "Bank Details"
+    ],
+    "process": "Apply online on the Kendriya Sainik Board portal; verified by the Zila Sainik Board.",
+    "officialUrl": "https://desw.gov.in/prime-ministers-scholarship-scheme-pmss",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/prime-ministers-scholarship-scheme-pmss-for-wardswidows-of-ex-servicemen-and-ex-coast-guar"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 11,
-    name: "State Merit Scholarship for Higher Studies",
-    provider: "State Directorate of Education",
-    amount: 55000,
-    deadline: "2026-10-30",
-    educationLevel: ["Undergraduate", "Postgraduate"],
-    fields: ["All Fields"],
-    states: ["Maharashtra"],
-    maxIncome: 600000,
-    minimumPercentage: 65,
-    category: "Government",
-    gender: "All",
-    type: "Government",
-    description: "A state-run scheme rewarding academic merit for residents pursuing higher education within the state.",
-    documents: ["Domicile Certificate", "Marksheet", "Income Certificate"],
-    process: "Apply via the state scholarship portal; disbursed in two instalments."
+    "id": 11,
+    "name": "Prime Minister's Research Fellowship (PMRF)",
+    "provider": "Ministry of Education",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 840000,
+    "amount": 840000,
+    "amountNote": "₹70,000/month (yrs 1–2), ₹75,000 (yr 3), ₹80,000 (yrs 4–5) + ₹2 lakh/yr research grant",
+    "amountPeriod": "Monthly",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Current cycle; cycles run twice a year",
+    "educationLevel": [
+      "Doctoral"
+    ],
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Research",
+    "socialCategories": [],
+    "specialEligibility": "PhD admission at a PMRF granting institution (IITs, IISc, IISERs, NITs, select central universities); CGPA 8.0+ (direct entry)",
+    "requires": null,
+    "gender": "All",
+    "description": "India's flagship doctoral fellowship for top students joining PhD programmes at premier institutes in science and technology.",
+    "documents": [
+      "Degree Transcripts",
+      "PhD Admission Letter",
+      "Research Proposal",
+      "Recommendation Letters"
+    ],
+    "process": "Get admitted to a PhD at a granting institute, which nominates you; complete the application on the PMRF portal.",
+    "officialUrl": "https://www.pmrf.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/prime-ministers-research-fellowship-pmrf"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 12,
-    name: "Enable & Excel Disability Support Grant",
-    provider: "Sahyog Foundation",
-    amount: 65000,
-    deadline: "2026-12-20",
-    educationLevel: ["Undergraduate", "Postgraduate"],
-    fields: ["All Fields"],
-    states: ["All India"],
-    maxIncome: 900000,
-    minimumPercentage: 50,
-    category: "Financial Need",
-    gender: "All",
-    type: "Foundation",
-    description: "Provides financial and assistive-technology support for students with disabilities pursuing higher education.",
-    documents: ["Disability Certificate", "Marksheet", "Income Certificate"],
-    process: "Application with disability certification; committee review within three weeks."
+    "id": 12,
+    "name": "Post-Matric Scholarship for Scheduled Tribe Students",
+    "provider": "Ministry of Tribal Affairs",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 12000,
+    "amount": 12000,
+    "amountNote": "Course fees (GoI cap ₹2.5 lakh engg / ₹6 lakh MBBS at private institutes) + stipend up to ₹1,200/month (hostellers, professional courses)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "State portals; suggested registration window 1 Apr–30 Sep",
+    "educationLevel": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 250000,
+    "minimumPercentage": null,
+    "category": "Social Welfare",
+    "socialCategories": [
+      "ST"
+    ],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Funds ST students in any recognised post-matric course from Class 11 to postgraduate level; extra allowance for students with disabilities.",
+    "documents": [
+      "ST Certificate",
+      "Income Certificate",
+      "Previous Marksheet",
+      "Fee Receipt",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on your state/UT scholarship portal (or NSP where the state has none); tracked on dbttribal.gov.in.",
+    "officialUrl": "https://tribal.nic.in/ScholarshiP.aspx",
+    "sources": [
+      "https://www.chowgules.ac.in/wp-content/uploads/2026/07/NSP-Scholarship-2026-27-Circular-and-Guidelines-for-ST-students.pdf"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 13,
-    name: "MBA Momentum Scholarship",
-    provider: "Concord Business School Trust",
-    amount: 200000,
-    deadline: "2027-01-25",
-    educationLevel: ["Postgraduate"],
-    fields: ["Business Administration", "Management"],
-    states: ["All India"],
-    maxIncome: 1500000,
-    minimumPercentage: 60,
-    category: "Merit",
-    gender: "All",
-    type: "Private",
-    description: "Covers a significant share of tuition for incoming MBA students with strong leadership potential.",
-    documents: ["Marksheet", "Entrance Score Card", "Statement of Purpose"],
-    process: "Shortlisting based on entrance scores, followed by a panel interview."
+    "id": 13,
+    "name": "PM YASASVI Post-Matric Scholarship for OBC, EBC and DNT Students",
+    "provider": "Ministry of Social Justice and Empowerment",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Tuition/non-refundable fees + academic allowance (varies by course and state)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "NSP 2026-27 cycle",
+    "educationLevel": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 250000,
+    "minimumPercentage": null,
+    "category": "Social Welfare",
+    "socialCategories": [
+      "OBC"
+    ],
+    "specialEligibility": "Also open to Economically Backward Classes (EBC) and De-notified Tribes (DNT)",
+    "requires": null,
+    "gender": "All",
+    "description": "Umbrella scheme (PM YASASVI) supporting OBC, EBC and DNT students in post-matric education.",
+    "documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Previous Marksheet",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on NSP or the state scholarship portal.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/pm-yasasvi-jk-obc/eligibility"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 14,
-    name: "GreenPath Environmental Studies Award",
-    provider: "EcoNext Alliance",
-    amount: 48000,
-    deadline: "2026-11-22",
-    educationLevel: ["Undergraduate", "Postgraduate"],
-    fields: ["Environmental Science", "Sustainability Studies"],
-    states: ["All India"],
-    maxIncome: 850000,
-    minimumPercentage: 60,
-    category: "STEM",
-    gender: "All",
-    type: "NGO",
-    description: "Supports students committed to environmental and sustainability careers, with preference for field-research experience.",
-    documents: ["Marksheet", "Income Certificate", "Statement of Purpose"],
-    process: "Written application; no interview for awards under ₹50,000."
+    "id": 14,
+    "name": "National Means-cum-Merit Scholarship (NMMSS)",
+    "provider": "Department of School Education & Literacy, Ministry of Education",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 12000,
+    "amount": 12000,
+    "amountNote": "₹12,000/year (₹1,000/month) from Class 9 to 12",
+    "amountPeriod": "Annual",
+    "awards": 100000,
+    "deadline": "2026-11-30",
+    "deadlineNote": "Application deadline; state exam usually Nov–Dec",
+    "educationLevel": [
+      "Class 9-10",
+      "Class 11-12"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 350000,
+    "minimumPercentage": 55,
+    "category": "Merit",
+    "socialCategories": [],
+    "specialEligibility": "Class 8 student of a government / aided / local-body school; must clear the state NMMS exam (MAT + SAT)",
+    "requires": null,
+    "gender": "All",
+    "description": "Prevents drop-out after Class 8 by supporting meritorious students from low-income families until Class 12.",
+    "documents": [
+      "Class 8 Marksheet",
+      "Income Certificate",
+      "NMMS Exam Result",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Qualify the state-level NMMS exam, then apply on NSP; renew each year (55% in Class 9/11, 60% in Class 10).",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/national-means-cum-merit-scholarship"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 15,
-    name: "Foundation Scholars Programme",
-    provider: "Forum Community Trust",
-    amount: 120000,
-    deadline: "2027-02-15",
-    educationLevel: ["Undergraduate"],
-    fields: ["All Fields"],
-    states: ["Maharashtra", "Karnataka"],
-    maxIncome: 500000,
-    minimumPercentage: 65,
-    category: "Merit",
-    gender: "All",
-    type: "Foundation",
-    description: "A flagship programme offering multi-year support to meritorious students from low-income households.",
-    documents: ["Income Certificate", "Marksheet", "ID Proof", "Recommendation Letter"],
-    process: "Two-stage process: written application, then a home-verification interview."
+    "id": 15,
+    "name": "Post-Matric Scholarship for Minorities",
+    "provider": "Ministry of Minority Affairs",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 12000,
+    "amount": 12000,
+    "amountNote": "Admission & tuition fees + maintenance allowance up to ₹1,200/month for hostellers",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "NSP 2026-27 cycle",
+    "educationLevel": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 200000,
+    "minimumPercentage": 50,
+    "category": "Social Welfare",
+    "socialCategories": [],
+    "specialEligibility": "Minority Community (Muslim, Christian, Sikh, Buddhist, Jain, Parsi); 30% for girls",
+    "requires": "Minority Community",
+    "gender": "All",
+    "description": "Supports students from notified minority communities from Class 11 to PhD, including ITI and vocational courses.",
+    "documents": [
+      "Minority Community Self-Declaration",
+      "Income Certificate",
+      "Previous Marksheet",
+      "Fee Receipt",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on the National Scholarship Portal.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/post-matric-scholarship-scheme-for-minorities-nsp"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   },
   {
-    id: 16,
-    name: "Legal Eagles Scholarship",
-    provider: "Nyaya Path Foundation",
-    amount: 55000,
-    deadline: "2026-12-05",
-    educationLevel: ["Undergraduate"],
-    fields: ["Law"],
-    states: ["All India"],
-    maxIncome: 700000,
-    minimumPercentage: 60,
-    category: "Merit",
-    gender: "All",
-    type: "Foundation",
-    description: "Supports law undergraduates with a demonstrated interest in public interest litigation and legal aid work.",
-    documents: ["Marksheet", "Income Certificate", "Statement of Purpose"],
-    process: "Application with a short essay on a public-interest legal issue."
+    "id": 16,
+    "name": "Ishan Uday Special Scholarship for North Eastern Region",
+    "provider": "University Grants Commission (UGC)",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 78000,
+    "amount": 78000,
+    "amountNote": "₹5,400/month (general degree) or ₹7,800/month (technical/medical/professional), 10 months a year",
+    "amountPeriod": "Annual",
+    "awards": 10000,
+    "deadline": "2026-10-31",
+    "deadlineNote": "NSP 2026-27 cycle",
+    "educationLevel": [
+      "Undergraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "Assam",
+      "Arunachal Pradesh",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 450000,
+    "minimumPercentage": null,
+    "category": "Financial Need",
+    "socialCategories": [],
+    "specialEligibility": "Domicile of a North-Eastern state; regular (not distance/part-time) UG course",
+    "requires": null,
+    "gender": "All",
+    "description": "UGC scholarship that helps students from the North-Eastern Region pursue general, technical and professional undergraduate degrees.",
+    "documents": [
+      "Domicile Certificate",
+      "Income Certificate",
+      "Class 12 Marksheet",
+      "Admission Proof",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on the National Scholarship Portal; the institute verifies.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/ishan-uday-special-scholarship-for-north-eastern-region"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 17,
+    "name": "UGC Junior Research Fellowship (NET-JRF)",
+    "provider": "University Grants Commission (UGC)",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 444000,
+    "amount": 444000,
+    "amountNote": "₹37,000/month (JRF, 2 yrs), ₹42,000/month (SRF, 3 yrs) + HRA + annual contingency",
+    "amountPeriod": "Monthly",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Via UGC-NET, held June and December",
+    "educationLevel": [
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": 55,
+    "category": "Research",
+    "socialCategories": [],
+    "specialEligibility": "Qualify UGC-NET with JRF; age 30 or under at exam (relaxation for OBC-NCL/SC/ST/PwD/women)",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship for NET-JRF qualified candidates pursuing a PhD in humanities, social sciences and other UGC-NET subjects.",
+    "documents": [
+      "NET-JRF Certificate",
+      "PG Marksheet",
+      "PhD Admission / Joining Report"
+    ],
+    "process": "Qualify UGC-NET (held twice a year by NTA), then join a PhD; the university processes the fellowship.",
+    "officialUrl": "https://ugcnet.nta.nic.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/ugc-junior-research-fellowship-jrf"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 18,
+    "name": "National Fellowship for Higher Education of ST Students",
+    "provider": "Ministry of Tribal Affairs",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 372000,
+    "amount": 372000,
+    "amountNote": "₹31,000/month (JRF), ₹35,000/month (SRF) + HRA + contingency",
+    "amountPeriod": "Monthly",
+    "awards": 750,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Expected; verify on portal",
+    "educationLevel": [
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": 55,
+    "category": "Research",
+    "socialCategories": [
+      "ST"
+    ],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship for Scheduled Tribe students pursuing MPhil/PhD at recognised universities.",
+    "documents": [
+      "ST Certificate",
+      "PG Marksheet",
+      "PhD Registration Proof"
+    ],
+    "process": "Apply on the national tribal fellowship portal; selection on PG marks if applicants exceed 750.",
+    "officialUrl": "https://fellowship.tribal.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/national-fellowship-scholarship-for-higher-education-of-st-students"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 19,
+    "name": "National Scholarship for Higher Education of ST Students (Top Class)",
+    "provider": "Ministry of Tribal Affairs",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 286000,
+    "amount": 286000,
+    "amountNote": "Full tuition (up to ₹2.5 lakh/yr at private institutes) + ₹3,000/month stipend + ₹5,000 books + ₹45,000 one-time computer",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Expected; verify on NSP",
+    "educationLevel": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 600000,
+    "minimumPercentage": null,
+    "category": "Social Welfare",
+    "socialCategories": [
+      "ST"
+    ],
+    "specialEligibility": "Merit admission to a notified premier institution (not management quota)",
+    "requires": null,
+    "gender": "All",
+    "description": "Covers full costs for ST students admitted on merit to notified top institutions (IITs, IIMs, AIIMS, NITs etc.).",
+    "documents": [
+      "ST Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Fee Receipt",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on the National Scholarship Portal.",
+    "officialUrl": "https://scholarships.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/national-fellowship-scholarship-for-higher-education-of-st-students"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 20,
+    "name": "Reliance Foundation Undergraduate Scholarships",
+    "provider": "Reliance Foundation",
+    "type": "Foundation",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 200000,
+    "amount": 200000,
+    "amountNote": "Up to ₹2 lakh over the degree",
+    "amountPeriod": "Over full course",
+    "awards": 5000,
+    "deadline": null,
+    "deadlineNote": "2026-27 applications open; check site for closing date",
+    "educationLevel": [
+      "Undergraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Merit",
+    "socialCategories": [],
+    "specialEligibility": "First-year full-time UG students; merit-cum-means with an aptitude test",
+    "requires": null,
+    "gender": "All",
+    "description": "Merit-cum-means scholarship for first-year undergraduates in any stream, selected through an online aptitude test.",
+    "documents": [
+      "Class 12 Marksheet",
+      "Income Proof",
+      "Admission Proof",
+      "Aadhaar"
+    ],
+    "process": "Apply online and take the aptitude test; no fee at any stage.",
+    "officialUrl": "https://scholarships.reliancefoundation.org",
+    "sources": [
+      "https://www.reliancefoundation.org/media/media-release/Reliance_Foundation_Scholarships_2026-27"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 21,
+    "name": "Reliance Foundation Postgraduate Scholarships",
+    "provider": "Reliance Foundation",
+    "type": "Foundation",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 600000,
+    "amount": 600000,
+    "amountNote": "Up to ₹6 lakh over the degree",
+    "amountPeriod": "Over full course",
+    "awards": 100,
+    "deadline": null,
+    "deadlineNote": "2026-27 applications open; check site for closing date",
+    "educationLevel": [
+      "Postgraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Biology",
+      "Biotechnology",
+      "Physics",
+      "Chemistry",
+      "Mathematics"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "STEM",
+    "socialCategories": [],
+    "specialEligibility": "First-year full-time PG students in engineering, technology, energy and life sciences",
+    "requires": null,
+    "gender": "All",
+    "description": "Merit-based scholarship for first-year postgraduates in future-ready science and technology disciplines.",
+    "documents": [
+      "UG Marksheets",
+      "Admission Proof",
+      "Statement of Purpose",
+      "Resume"
+    ],
+    "process": "Apply online; selection on academic merit, aptitude and interview.",
+    "officialUrl": "https://scholarships.reliancefoundation.org",
+    "sources": [
+      "https://www.reliancefoundation.org/media/media-release/Reliance_Foundation_Scholarships_2026-27"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 22,
+    "name": "Kotak Kanya Scholarship",
+    "provider": "Kotak Education Foundation",
+    "type": "Foundation",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 150000,
+    "amount": 150000,
+    "amountNote": "₹1.5 lakh/year until graduation",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Usually closes around September; 2026-27 cycle expected",
+    "educationLevel": [
+      "Undergraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Medicine",
+      "Business Administration",
+      "Law",
+      "Architecture",
+      "Design"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 600000,
+    "minimumPercentage": 75,
+    "category": "Women in Education",
+    "socialCategories": [],
+    "specialEligibility": "Admission to an NIRF/NAAC-accredited institution in a professional course",
+    "requires": null,
+    "gender": "Female",
+    "description": "Supports meritorious girls from low-income families in professional undergraduate degrees at reputed institutions.",
+    "documents": [
+      "Class 12 Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Fee Structure",
+      "Aadhaar"
+    ],
+    "process": "Apply online via Buddy4Study; shortlisted students have a telephonic/virtual interview.",
+    "officialUrl": "https://www.kotakeducationfoundation.org/kotak-kanya-scholarship",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/kotak-kanya-scholarship"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 23,
+    "name": "HDFC Bank Parivartan ECSS Programme",
+    "provider": "HDFC Bank (Parivartan CSR)",
+    "type": "Private",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 50000,
+    "amount": 50000,
+    "amountNote": "₹15,000–₹18,000 (school/diploma), ₹30,000 (general UG), ₹50,000 (professional UG), ₹35,000–₹75,000 (PG)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Usually July–August",
+    "educationLevel": [
+      "Class 9-10",
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 250000,
+    "minimumPercentage": 55,
+    "category": "Financial Need",
+    "socialCategories": [],
+    "specialEligibility": "Preference to students facing a personal/family crisis in the last 3 years",
+    "requires": null,
+    "gender": "All",
+    "description": "Educational Crisis Scholarship Support that keeps students from low-income or crisis-hit families in school and college.",
+    "documents": [
+      "Previous Marksheet",
+      "Income Proof",
+      "Admission / Fee Receipt",
+      "Crisis Proof (if applicable)",
+      "Bank Details"
+    ],
+    "process": "Apply online via Buddy4Study; documents verified followed by a telephonic interview.",
+    "officialUrl": "https://www.parivartanecss.com",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/hdfc-bank-parivartan-ecss-scholarship"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 24,
+    "name": "ONGC Foundation Scholarship",
+    "provider": "ONGC Foundation",
+    "type": "Foundation",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 48000,
+    "amount": 48000,
+    "amountNote": "₹48,000/year",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Per current cycle; verify on portal",
+    "educationLevel": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Medicine",
+      "Business Administration",
+      "Earth Sciences"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 450000,
+    "minimumPercentage": 60,
+    "category": "Social Welfare",
+    "socialCategories": [
+      "SC",
+      "ST",
+      "OBC",
+      "EWS"
+    ],
+    "specialEligibility": "Income limit ₹4.5 lakh for SC/ST, ₹2 lakh for OBC/EWS; age 30 or under",
+    "requires": null,
+    "gender": "All",
+    "description": "ONGC's scholarship for SC, ST, OBC and EWS students in engineering, MBBS, MBA and master's in geology/geophysics.",
+    "documents": [
+      "Caste / EWS Certificate",
+      "Income Certificate",
+      "Marksheet",
+      "Admission Proof",
+      "Bank Details"
+    ],
+    "process": "Apply on the ONGC scholarship portal (NSP registration also required).",
+    "officialUrl": "https://www.ongcscholar.org",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/ongc-scholarship-csr"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 25,
+    "name": "Tata Capital Pankh Scholarship",
+    "provider": "Tata Capital",
+    "type": "Private",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 18000,
+    "amount": 18000,
+    "amountNote": "Up to 80–100% of fees, capped at ₹10,000–₹15,000 (Class 11-12) or ₹12,000–₹18,000 (UG/diploma); higher for professional UG",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Around Oct–Nov 2026 (sources differ)",
+    "educationLevel": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 250000,
+    "minimumPercentage": 60,
+    "category": "Financial Need",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Tata Capital's CSR scholarship covering most of the course fee for students from low-income families.",
+    "documents": [
+      "Previous Marksheet",
+      "Income Proof",
+      "Fee Receipt",
+      "Admission Proof",
+      "Bank Details"
+    ],
+    "process": "Apply online via Buddy4Study.",
+    "officialUrl": "https://www.tatacapital.com/corporate-sustainability/education-uninterrupted.html",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/tata-capital-pankh-scholarship"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 26,
+    "name": "Santoor Women's Scholarship",
+    "provider": "Wipro Consumer Care & Wipro Cares",
+    "type": "Private",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 30000,
+    "amount": 30000,
+    "amountNote": "₹30,000/year for the 3-year degree",
+    "amountPeriod": "Annual",
+    "awards": 1000,
+    "deadline": null,
+    "deadlineNote": "Late November 2026",
+    "educationLevel": [
+      "Undergraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Chhattisgarh"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Women in Education",
+    "socialCategories": [],
+    "specialEligibility": "Studied Class 10 and 12 in government schools; joined UG straight after Class 12",
+    "requires": null,
+    "gender": "Female",
+    "description": "Supports young women from government schools in four states to pursue full-time undergraduate degrees.",
+    "documents": [
+      "Class 10 & 12 Marksheets",
+      "Government School Proof",
+      "Admission Proof",
+      "Aadhaar",
+      "Bank Details"
+    ],
+    "process": "Apply online on the Santoor scholarship portal.",
+    "officialUrl": "https://www.santoorscholarships.com",
+    "sources": [
+      "https://www.indiascholarships.in/news/santoor-womens-scholarship-2026-27-registration-dates"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 27,
+    "name": "LIC Golden Jubilee Scholarship",
+    "provider": "Life Insurance Corporation of India (Golden Jubilee Foundation)",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 40000,
+    "amount": 40000,
+    "amountNote": "₹40,000/yr medicine, ₹30,000/yr engineering, ₹20,000/yr other UG/diploma/ITI, ₹15,000 special (after Class 10)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-12-15",
+    "deadlineNote": "Applications usually open late October",
+    "educationLevel": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 450000,
+    "minimumPercentage": 60,
+    "category": "Financial Need",
+    "socialCategories": [],
+    "specialEligibility": "First-year students; passed Class 10/12/diploma in last 3 years",
+    "requires": null,
+    "gender": "All",
+    "description": "LIC's scholarship for students from low-income families entering medicine, engineering, other degrees, diplomas or ITI.",
+    "documents": [
+      "Marksheet",
+      "Income Certificate",
+      "Admission Proof",
+      "Bank Details"
+    ],
+    "process": "Apply on LIC's Golden Jubilee scholarship portal; selection by divisional office.",
+    "officialUrl": "https://licindia.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/lic-golden-jubilee-scholarship"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 28,
+    "name": "Sitaram Jindal Foundation Scholarship",
+    "provider": "Sitaram Jindal Foundation",
+    "type": "Foundation",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 38400,
+    "amount": 38400,
+    "amountNote": "₹500–₹3,200/month depending on course (+₹1,000–1,200 for hostellers)",
+    "amountPeriod": "Monthly",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Rolling / verify on site",
+    "educationLevel": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 400000,
+    "minimumPercentage": null,
+    "category": "Financial Need",
+    "socialCategories": [],
+    "specialEligibility": "Minimum marks vary by course and gender (e.g. Class 11-12: boys 60–65%, girls 55–60%)",
+    "requires": null,
+    "gender": "All",
+    "description": "Long-running monthly scholarship for students from Class 11 to PG from modest-income families.",
+    "documents": [
+      "Previous Marksheet",
+      "Income Certificate",
+      "Fee Receipt",
+      "Bank Details"
+    ],
+    "process": "Apply online on the foundation's portal.",
+    "officialUrl": "https://www.sitaramjindalfoundation.org",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/sitaram-jindal-foundation-scholarship"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 29,
+    "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojana",
+    "provider": "Directorate of Higher Education, Government of Maharashtra",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Tuition fee reimbursement: 100% (non-professional, income ≤ ₹8 lakh); professional courses 100% (≤ ₹2.5 lakh) or 50% (₹2.5–8 lakh)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "2026-27 cycle expected; previous cycle closed 30 Sep",
+    "educationLevel": [
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "Maharashtra"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 800000,
+    "minimumPercentage": null,
+    "category": "Financial Need",
+    "socialCategories": [
+      "General",
+      "EWS"
+    ],
+    "specialEligibility": "Admission through CAP to a government/aided/approved institution; regular courses only",
+    "requires": null,
+    "gender": "All",
+    "description": "Maharashtra fee reimbursement scheme (EBC) for open-category and EWS students in higher education.",
+    "documents": [
+      "Domicile Certificate",
+      "Income Certificate",
+      "CAP Allotment Letter",
+      "Fee Receipt",
+      "Previous Marksheet"
+    ],
+    "process": "Apply on the MahaDBT portal; the college and directorate verify.",
+    "officialUrl": "https://mahadbt.maharashtra.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/hi/scholarships/maharashtra-rajarshi-shahu"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 30,
+    "name": "Swami Vivekananda Merit-cum-Means Scholarship (SVMCM)",
+    "provider": "Higher Education Department, Government of West Bengal",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 96000,
+    "amount": 96000,
+    "amountNote": "₹1,000–₹8,000/month depending on course and level",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Verify on portal",
+    "educationLevel": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "West Bengal"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 250000,
+    "minimumPercentage": 60,
+    "category": "Merit",
+    "socialCategories": [],
+    "specialEligibility": "Study in a recognised West Bengal institution; 60% for HS/UG (53–55% for PG)",
+    "requires": null,
+    "gender": "All",
+    "description": "West Bengal's merit-cum-means scholarship for meritorious students from low-income families, Class 11 to PG.",
+    "documents": [
+      "Domicile Certificate",
+      "Income Certificate",
+      "Previous Marksheet",
+      "Admission Receipt",
+      "Bank Details"
+    ],
+    "process": "Apply on the SVMCM portal; institute and department verify.",
+    "officialUrl": "https://svmcm.wbhed.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/swami-vivekananda-merit-cum-means-scholarship-svmcm"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 31,
+    "name": "Mukhyamantri Yuva Swavalamban Yojana (MYSY)",
+    "provider": "Education Department, Government of Gujarat",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 200000,
+    "amount": 200000,
+    "amountNote": "50% fee support up to ₹2 lakh/yr (medical), ₹50,000 (engineering), ₹25,000 (diploma), ₹10,000 (other UG) + hostel ₹12,000/yr + books",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Applications open from July",
+    "educationLevel": [
+      "Diploma",
+      "Undergraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "Gujarat"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 600000,
+    "minimumPercentage": 80,
+    "category": "Merit",
+    "socialCategories": [],
+    "specialEligibility": "80 percentile/marks in Class 10 (for diploma) or Class 12 (for degree)",
+    "requires": null,
+    "gender": "All",
+    "description": "Gujarat scheme covering half the fees, hostel and book costs for meritorious students from families earning up to ₹6 lakh.",
+    "documents": [
+      "Domicile Certificate",
+      "Income Certificate",
+      "Class 10/12 Marksheet",
+      "Admission Letter",
+      "Fee Receipt"
+    ],
+    "process": "Apply on the MYSY portal, then verify documents at a help centre.",
+    "officialUrl": "https://mysy.gujarat.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/mukhyamantri-yuva-swavalamban-yojana-mysy"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 32,
+    "name": "Pudhumai Penn Scheme",
+    "provider": "Social Welfare and Women Empowerment Department, Government of Tamil Nadu",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 12000,
+    "amount": 12000,
+    "amountNote": "₹1,000/month until the course is completed",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Applications June–October",
+    "educationLevel": [
+      "Diploma",
+      "Undergraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Women in Education",
+    "socialCategories": [],
+    "specialEligibility": "Studied Class 6–12 in a government school (or govt-aided Tamil-medium school); first higher-education course",
+    "requires": null,
+    "gender": "Female",
+    "description": "Monthly support for girls from government schools who go on to college, diploma or ITI in Tamil Nadu.",
+    "documents": [
+      "School Study Certificate (Class 6–12)",
+      "Admission Proof",
+      "Aadhaar",
+      "Bank Details"
+    ],
+    "process": "Applied through the college's nodal officer on the penkalvi portal.",
+    "officialUrl": "https://penkalvi.tn.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/legacy-pudhumai-penn-scheme"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 33,
+    "name": "Vidyasiri Food and Accommodation Scholarship",
+    "provider": "Backward Classes Welfare Department, Government of Karnataka",
+    "type": "Government",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": 15000,
+    "amount": 15000,
+    "amountNote": "₹1,500/month for 10 months + ₹1,200 book grant",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "2026-27 cycle expected; previous cycle closed 31 Aug",
+    "educationLevel": [
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "Karnataka"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": 250000,
+    "minimumPercentage": 55,
+    "category": "Social Welfare",
+    "socialCategories": [
+      "OBC"
+    ],
+    "specialEligibility": "Not staying in a government hostel; Category-1 limits shown (stricter for 2A/3A/3B)",
+    "requires": null,
+    "gender": "All",
+    "description": "Karnataka support for food and accommodation costs of backward-class students who could not get a government hostel seat.",
+    "documents": [
+      "Caste & Income Certificate",
+      "Previous Marksheet",
+      "Admission Proof",
+      "Aadhaar-seeded Bank Account"
+    ],
+    "process": "Apply on Karnataka's State Scholarship Portal (SSP).",
+    "officialUrl": "https://ssp.postmatric.karnataka.gov.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/vidyasiri-food-and-accommodation-scholarship-for-obc-students-karnataka"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 34,
+    "name": "Fulbright-Nehru Master's Fellowships",
+    "provider": "United States-India Educational Foundation (USIEF)",
+    "type": "International Body",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "USD",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Fully funded: tuition, monthly living stipend, round-trip airfare, J-1 visa support, accident & sickness cover",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Usually closes mid-May (next: ~May 2027 for 2028-29)",
+    "educationLevel": [
+      "Postgraduate"
+    ],
+    "fields": [
+      "Economics",
+      "Environmental Science",
+      "Public Policy",
+      "Law",
+      "Journalism",
+      "Public Health",
+      "Sustainability Studies",
+      "Urban Planning",
+      "Social Sciences"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": 55,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "3+ years of relevant full-time work experience; Indian citizen resident in India; no prior US degree",
+    "requires": null,
+    "gender": "All",
+    "description": "Fully funded master's study in the US for Indian professionals with leadership potential in fields such as public policy, public health, economics and urban planning.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Work Experience Letters",
+      "English Test Score (if required)"
+    ],
+    "process": "Apply online to USIEF; shortlisted candidates are interviewed in India.",
+    "officialUrl": "https://www.usief.org.in",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/fulbright-nehru-masters-fellowships"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 35,
+    "name": "Chevening Scholarships",
+    "provider": "UK Foreign, Commonwealth & Development Office (FCDO)",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "GBP",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Fully funded one-year master's: tuition, monthly living allowance, return economy flight, visa fee",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "2027-28 round closed 6 Oct 2026; next opens ~Aug 2027",
+    "educationLevel": [
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "2,800+ hours (~2 years) of work experience; must return home for 2 years after the degree",
+    "requires": null,
+    "gender": "All",
+    "description": "The UK government's global scholarship for future leaders to do a one-year master's at any UK university.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Three UK Course Applications",
+      "Leadership & Networking Essays"
+    ],
+    "process": "Apply online with four essays and three UK course choices; interviews at the British High Commission.",
+    "officialUrl": "https://www.chevening.org",
+    "sources": [
+      "https://www.businesstoday.in/nri/story/chevening-scholarship-opens-for-2027-28-who-can-apply-what-it-covers-key-deadline-for-indians-555345-2026-09-14"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 36,
+    "name": "Commonwealth Master's Scholarships",
+    "provider": "Commonwealth Scholarship Commission in the UK",
+    "type": "International Body",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "GBP",
+    "amountOriginal": 20544,
+    "amount": 2335000,
+    "amountNote": "Full tuition + £1,712/month stipend (£2,000 in London) + return airfare + study travel grant",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-10-20",
+    "deadlineNote": "CSC portal deadline; India's nominating agency closes earlier",
+    "educationLevel": [
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India",
+      "Bangladesh",
+      "Sri Lanka",
+      "Kenya",
+      "Nigeria"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Upper-second-class (2:1) degree; cannot afford UK study otherwise; nominated by national agency (no MBA)",
+    "requires": null,
+    "gender": "All",
+    "description": "Fully funded one-year taught master's at a UK university for talented candidates from eligible Commonwealth countries, including India.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Nomination from National Agency",
+      "Two References"
+    ],
+    "process": "Apply through your national nominating agency (Ministry of Education for India), then on the CSC portal.",
+    "officialUrl": "https://cscuk.fcdo.gov.uk/masters",
+    "sources": [
+      "https://cscuk.fcdo.gov.uk/masters"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 37,
+    "name": "Rhodes Scholarship (India)",
+    "provider": "Rhodes Trust",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "GBP",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Fully funded postgraduate study at the University of Oxford (fees, stipend, flights, visa)",
+    "amountPeriod": "Annual",
+    "awards": 5,
+    "deadline": null,
+    "deadlineNote": "Opens 1 June, closes ~23 July each year",
+    "educationLevel": [
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Exceptional academics, character and leadership; age/eligibility per India constituency rules",
+    "requires": null,
+    "gender": "All",
+    "description": "The world's oldest international graduate scholarship; five awards each year for Indian candidates to study at Oxford.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Personal Statement",
+      "Academic Statement",
+      "Five Reference Letters"
+    ],
+    "process": "Apply online; shortlisted candidates attend regional and final interviews.",
+    "officialUrl": "https://www.rhodeshouse.ox.ac.uk/scholarships/apply/india",
+    "sources": [
+      "https://www.rhodeshouse.ox.ac.uk/scholarships/apply/india"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 38,
+    "name": "Inlaks Shivdasani Foundation Scholarship",
+    "provider": "Inlaks Shivdasani Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United States",
+      "United Kingdom",
+      "Germany",
+      "France",
+      "Netherlands",
+      "Switzerland"
+    ],
+    "currency": "USD",
+    "amountOriginal": 120000,
+    "amount": 10242000,
+    "amountNote": "Up to US$120,000 for the course: tuition, living, one-way airfare, health allowance",
+    "amountPeriod": "Over full course",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Usually opens Jan, closes ~31 March",
+    "educationLevel": [
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "Humanities",
+      "Social Sciences",
+      "Law",
+      "Fine Arts",
+      "Design",
+      "Architecture",
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology",
+      "Economics"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": 65,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Admission to a top university in the US, UK or Europe; not for engineering, computer science, medicine or MBA",
+    "requires": null,
+    "gender": "All",
+    "description": "Merit scholarship for outstanding Indian graduates to study at top universities in the US, UK and Europe (excludes engineering, CS, medicine, MBA).",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Admission Offer (or application proof)"
+    ],
+    "process": "Apply online; shortlisted candidates are interviewed.",
+    "officialUrl": "https://www.inlaksfoundation.org",
+    "sources": [
+      "https://www.indiascholarships.in/bn/scholarships/inlaks-shivdasani-foundation-scholarship"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 39,
+    "name": "Gates Cambridge Scholarship",
+    "provider": "Gates Cambridge Trust",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "GBP",
+    "amountOriginal": 23152,
+    "amount": 2631000,
+    "amountNote": "Full cost: tuition + £23,152/yr maintenance + visa, health surcharge, airfares",
+    "amountPeriod": "Annual",
+    "awards": 70,
+    "deadline": "2026-12-08",
+    "deadlineNote": "International round: 8 Dec 2026 or 6 Jan 2027 depending on course",
+    "educationLevel": [
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Non-UK citizens applying for a full-time PhD, MLitt or one-year master's at Cambridge (not MBA)",
+    "requires": null,
+    "gender": "All",
+    "description": "Full-cost scholarships for outstanding applicants from outside the UK to pursue a postgraduate degree at the University of Cambridge.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Gates Cambridge Statement"
+    ],
+    "process": "Apply via the Cambridge Applicant Portal and tick the Gates Cambridge box.",
+    "officialUrl": "https://www.gatescambridge.org",
+    "sources": [
+      "https://propakistani.pk/2026/09/15/fully-funded-gates-cambridge-scholarship-2027-for-masters-and-phd-in-the-uk-is-now-open/"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 40,
+    "name": "Eiffel Excellence Scholarship",
+    "provider": "French Ministry for Europe and Foreign Affairs (via Campus France)",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "France"
+    ],
+    "currency": "EUR",
+    "amountOriginal": 14400,
+    "amount": 1397000,
+    "amountNote": "€1,200/month (master's) or €2,000/month (PhD) + travel, insurance, cultural activities",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Institution deadlines Oct–Nov 2026; Campus France closes Jan 2027",
+    "educationLevel": [
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "Engineering",
+      "Biology",
+      "Mathematics",
+      "Computer Science",
+      "Law",
+      "Economics",
+      "Business Administration",
+      "Humanities",
+      "Social Sciences"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Age 29 or under (master's) / 35 or under (PhD); nominated by a French institution",
+    "requires": null,
+    "gender": "All",
+    "description": "French government scholarship to attract top international students to master's and PhD programmes in France.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Nomination by French Institution"
+    ],
+    "process": "Apply to the French institution, which nominates you to Campus France.",
+    "officialUrl": "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence",
+    "sources": [
+      "https://u-paris.fr/language/en/eiffel-excellence-scholarship-2027/"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 41,
+    "name": "Swiss Government Excellence Scholarships",
+    "provider": "Swiss Confederation (SERI / FCS)",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Switzerland"
+    ],
+    "currency": "CHF",
+    "amountOriginal": 29400,
+    "amount": 3031000,
+    "amountNote": "CHF 2,450/month (PhD up to 36 months; research fellowship 6–12 months)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": "2026-11-10",
+    "deadlineNote": "India deadline, 2027-28",
+    "educationLevel": [
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Research",
+    "socialCategories": [],
+    "specialEligibility": "Master's completed by Jul 2027; born after 31 Dec 1991; support letter from a Swiss supervisor",
+    "requires": null,
+    "gender": "All",
+    "description": "Swiss government PhD scholarships and research fellowships at Swiss universities for graduates from abroad, including India.",
+    "documents": [
+      "Passport",
+      "Master's Transcripts",
+      "Research Proposal",
+      "Swiss Supervisor's Letter & CV",
+      "Two Recommendation Letters"
+    ],
+    "process": "Apply on the GO ESKAS portal via the Swiss embassy channel for India.",
+    "officialUrl": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance",
+    "sources": [
+      "https://educationpost.in/news/education/scholarship/swiss-government-excellence-scholarships-open-for-202728"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 42,
+    "name": "MEXT (Monbukagakusho) Japanese Government Scholarship",
+    "provider": "Ministry of Education, Culture, Sports, Science and Technology, Japan",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Japan"
+    ],
+    "currency": "JPY",
+    "amountOriginal": 1728000,
+    "amount": 1026000,
+    "amountNote": "≈¥143,000–145,000/month (research students), ≈¥117,000 (undergraduate) + full tuition + airfare",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Embassy route usually opens ~April; exams May–June",
+    "educationLevel": [
+      "Undergraduate",
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Embassy recommendation route: written test and interview",
+    "requires": null,
+    "gender": "All",
+    "description": "Japanese government scholarship covering tuition, a monthly stipend and airfare for research, undergraduate and other programmes in Japan.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Research Plan",
+      "Medical Certificate"
+    ],
+    "process": "Apply through the Embassy of Japan in India (written exam and interview) or via a Japanese university.",
+    "officialUrl": "https://www.in.emb-japan.go.jp/education/japanese_government_scholarships.html",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/mext-scholarship-japan"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 43,
+    "name": "Global Korea Scholarship (GKS)",
+    "provider": "National Institute for International Education (NIIED), Korea",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "South Korea"
+    ],
+    "currency": "KRW",
+    "amountOriginal": 10800000,
+    "amount": 640000,
+    "amountNote": "≈KRW 900,000/month + tuition (up to KRW 5 million), airfare, settlement, language and completion grants, insurance",
+    "amountPeriod": "Annual",
+    "awards": 78,
+    "deadline": null,
+    "deadlineNote": "Embassy track ~Feb–Mar; university track ~Sep–Oct",
+    "educationLevel": [
+      "Undergraduate",
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": 80,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "80% CGPA or top 20% of class; age under 25 (UG) / under 40 (graduate); 78 seats reserved for India",
+    "requires": null,
+    "gender": "All",
+    "description": "Korean government scholarship for undergraduate and graduate degrees in Korea, including a year of Korean language training.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Study Plan",
+      "Medical Assessment"
+    ],
+    "process": "Apply via the embassy track or directly to a Korean university (university track).",
+    "officialUrl": "https://www.studyinkorea.go.kr",
+    "sources": [
+      "https://studyabroad.careers360.com/articles/gks-global-korea-scholarship"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 44,
+    "name": "J.N. Tata Endowment Loan Scholarship",
+    "provider": "J.N. Tata Endowment for the Higher Education of Indians",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Any country"
+    ],
+    "currency": "INR",
+    "amountOriginal": 1000000,
+    "amount": 1000000,
+    "amountNote": "Loan scholarship of ₹1–10 lakh (some sources say up to ₹20 lakh) at 2% simple interest; travel grant possible",
+    "amountPeriod": "One-time",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Opens January, closes around end-January / March each year",
+    "educationLevel": [
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": 60,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Indian graduates with an admission offer abroad; partly loan (repayable)",
+    "requires": null,
+    "gender": "All",
+    "description": "Century-old Tata endowment providing low-interest loan scholarships to Indian graduates for postgraduate study abroad.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Admission Offer",
+      "Financial Statement"
+    ],
+    "process": "Apply online, followed by a test and interview.",
+    "officialUrl": "https://www.jntataendowment.org",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/jn-tata-endowment-for-higher-education"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 45,
+    "name": "Holland Scholarship",
+    "provider": "Dutch Ministry of Education, Culture and Science & Dutch universities (Nuffic)",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Netherlands"
+    ],
+    "currency": "EUR",
+    "amountOriginal": 5000,
+    "amount": 485000,
+    "amountNote": "€5,000 one-time in the first year",
+    "amountPeriod": "One-time",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Usually 1 Feb or 1 May, set by each university",
+    "educationLevel": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Non-EEA students starting a bachelor's or master's at a participating Dutch institution; country list set by each university",
+    "requires": null,
+    "gender": "All",
+    "description": "One-time grant for talented non-EEA students starting a full-time degree at a participating Dutch university or university of applied sciences.",
+    "documents": [
+      "Passport",
+      "Transcripts",
+      "Motivation Letter",
+      "Admission Application"
+    ],
+    "process": "Apply through the Dutch institution's own scholarship procedure after applying for admission.",
+    "officialUrl": "https://www.studyinnl.org",
+    "sources": [
+      "https://www.wur.nl/en/article/holland-scholarship-international-students.htm"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 46,
+    "name": "Government of Ireland International Education Scholarship (GOI-IES)",
+    "provider": "Higher Education Authority (HEA), Ireland",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Ireland"
+    ],
+    "currency": "EUR",
+    "amountOriginal": 10000,
+    "amount": 970000,
+    "amountNote": "€10,000 stipend + full tuition waiver for one year",
+    "amountPeriod": "One-time",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Call usually opens ~Feb, closes ~Mar",
+    "educationLevel": [
+      "Undergraduate",
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Non-EU/EEA students accepted at an Irish higher education institution (final-year UG, master's, PhD); confirm current eligible-country list",
+    "requires": null,
+    "gender": "All",
+    "description": "Irish government scholarship offering a stipend and fee waiver for one year of study in Ireland.",
+    "documents": [
+      "Passport",
+      "Transcripts",
+      "Offer Letter",
+      "Personal Statement",
+      "Reference Letters"
+    ],
+    "process": "Apply online to the HEA; institutions confirm admission.",
+    "officialUrl": "https://hea.ie/policy/internationalisation/goi-ies/",
+    "sources": [
+      "https://www.scholarshipscentral.com/blog/government-of-ireland-international-education-scholarship-2027"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 47,
+    "name": "K.C. Mahindra Scholarships for Post-Graduate Studies Abroad",
+    "provider": "K.C. Mahindra Education Trust",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Any country"
+    ],
+    "currency": "INR",
+    "amountOriginal": 1000000,
+    "amount": 1000000,
+    "amountNote": "Interest-free loan scholarship: up to ₹10 lakh (top 3 Fellows) / up to ₹5 lakh (others)",
+    "amountPeriod": "One-time",
+    "awards": null,
+    "deadline": "2026-10-31",
+    "deadlineNote": "Per current cycle; verify on site",
+    "educationLevel": [
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "First-class degree; admission (or application) to a reputed foreign university; repayable interest-free",
+    "requires": null,
+    "gender": "All",
+    "description": "Interest-free loan scholarships from the Mahindra group's education trust for Indian graduates pursuing postgraduate study abroad.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Admission Offer / Application Proof"
+    ],
+    "process": "Apply online; shortlisted candidates are interviewed.",
+    "officialUrl": "https://www.kcmet.org",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/kc-mahindra-scholarship-for-post-graduate-studies-abroad"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 48,
+    "name": "Aga Khan Foundation International Scholarship Programme",
+    "provider": "Aga Khan Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Any country"
+    ],
+    "currency": "USD",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Tuition and living expenses: 50% grant + 50% loan (5% annual service charge)",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Usually 31 March",
+    "educationLevel": [
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India",
+      "Bangladesh",
+      "Kenya"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Outstanding students with no other means of financing; preference for under-30s; resident in India",
+    "requires": null,
+    "gender": "All",
+    "description": "Need-based scholarship-loan for postgraduate study abroad for outstanding students from select developing countries, including India.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Financial Need Statement"
+    ],
+    "process": "Apply to the Aga Khan Foundation office in India.",
+    "officialUrl": "https://the.akdn/en/what-we-do/developing-human-capacity/education/international-scholarships",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/aga-khan-foundation-international-scholarship-programme"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 49,
+    "name": "Erasmus Mundus Joint Master's Scholarships",
+    "provider": "European Commission (EACEA)",
+    "type": "International Body",
+    "scope": "International",
+    "hostCountries": [
+      "Any EU country"
+    ],
+    "currency": "EUR",
+    "amountOriginal": 16800,
+    "amount": 1629000,
+    "amountNote": "€1,400/month + full tuition + up to €3,000/yr travel & installation + insurance",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Programme deadlines mostly Dec 2026 – Feb 2027",
+    "educationLevel": [
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Study in at least two European countries; apply to each joint programme separately",
+    "requires": null,
+    "gender": "All",
+    "description": "EU-funded scholarships for joint master's programmes run by consortia of universities across two or more European countries.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "English Test Score (IELTS/TOEFL)"
+    ],
+    "process": "Choose programmes from the Erasmus Mundus catalogue and apply on each programme's own portal.",
+    "officialUrl": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/erasmus-mundus-joint-masters-scholarships",
+      "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 50,
+    "name": "Mitacs Globalink Research Internship (AICTE)",
+    "provider": "Mitacs & AICTE",
+    "type": "International Body",
+    "scope": "International",
+    "hostCountries": [
+      "Canada"
+    ],
+    "currency": "CAD",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Fully funded 12-week research internship: airfare, housing, food stipend, insurance",
+    "amountPeriod": "One-time",
+    "awards": 300,
+    "deadline": null,
+    "deadlineNote": "2027 round closed 16 Sep 2026; next opens ~Aug 2027",
+    "educationLevel": [
+      "Undergraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": 70,
+    "category": "STEM",
+    "socialCategories": [],
+    "specialEligibility": "Full-time BE/BTech student with 1–3 semesters remaining; age 18+",
+    "requires": null,
+    "gender": "All",
+    "description": "Summer research internship at Canadian universities for senior Indian engineering undergraduates, under the Mitacs–AICTE partnership.",
+    "documents": [
+      "Passport",
+      "Transcripts",
+      "Professor's Reference Letter",
+      "CV"
+    ],
+    "process": "Apply to 3–10 projects across at least three Canadian provinces.",
+    "officialUrl": "https://www.mitacs.ca",
+    "sources": [
+      "https://news.careers360.com/aicte-mitacs-globalink-research-internship-2027-application-deadline-september-16"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 51,
+    "name": "GREAT Scholarships – India",
+    "provider": "British Council & UK universities (GREAT Britain campaign)",
+    "type": "International Body",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "GBP",
+    "amountOriginal": 10000,
+    "amount": 1136000,
+    "amountNote": "At least £10,000 towards tuition for a one-year master's",
+    "amountPeriod": "One-time",
+    "awards": 12,
+    "deadline": null,
+    "deadlineNote": "Set by each university",
+    "educationLevel": [
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Indian citizens; offer from a participating UK university (list changes each year)",
+    "requires": null,
+    "gender": "All",
+    "description": "Tuition scholarships from participating UK universities for Indian students on one-year postgraduate courses.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "UK University Offer",
+      "English Test Score",
+      "Personal Statement"
+    ],
+    "process": "Apply for admission to a participating university, then apply for its GREAT scholarship.",
+    "officialUrl": "https://study-uk.britishcouncil.org/scholarships-funding/great-scholarships/india",
+    "sources": [
+      "https://www.businesstoday.in/nri/study/story/want-to-study-in-uk-indian-students-can-apply-for-ps10000-great-scholarships-561647-2026-10-15"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 52,
+    "name": "Knight-Hennessy Scholars",
+    "provider": "Stanford University",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "USD",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Full funding for up to 3 years of Stanford graduate study: tuition, living & academic stipend, annual travel",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "2027 cohort closed 6 Oct 2026; usually opens June",
+    "educationLevel": [
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Apply to a full-time Stanford graduate programme; open to all nationalities",
+    "requires": null,
+    "gender": "All",
+    "description": "Stanford's flagship graduate scholarship providing full funding and leadership development to scholars from around the world.",
+    "documents": [
+      "Passport",
+      "Degree Transcripts",
+      "Statement of Purpose",
+      "Recommendation Letters",
+      "CV / Resume",
+      "Video Statement"
+    ],
+    "process": "Submit the Knight-Hennessy application and a separate Stanford graduate programme application.",
+    "officialUrl": "https://knight-hennessy.stanford.edu",
+    "sources": [
+      "https://www.scholarshipscentral.com/knight-hennessy-scholars-2027"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 53,
+    "name": "Charpak Master's Scholarship",
+    "provider": "Embassy of France in India (Campus France India)",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "France"
+    ],
+    "currency": "EUR",
+    "amountOriginal": 10320,
+    "amount": 1001000,
+    "amountNote": "€860/month + visa and Campus France fee waiver + health insurance + housing priority",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Usually early in the year; interviews in April",
+    "educationLevel": [
+      "Postgraduate"
+    ],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Study Abroad",
+    "socialCategories": [],
+    "specialEligibility": "Indian citizen or OCI; age 30 or under; admitted to a full-time master's in France",
+    "requires": null,
+    "gender": "All",
+    "description": "French government scholarship for Indian students pursuing a full-time master's degree in France.",
+    "documents": [
+      "Passport",
+      "CV",
+      "French Admission Letter",
+      "Marksheets",
+      "Recommendation Letters"
+    ],
+    "process": "Apply on the Institut Français India scholarship portal; shortlisted candidates have an online interview.",
+    "officialUrl": "https://inde.campusfrance.org",
+    "sources": [
+      "https://inde.campusfrance.org/node/88"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 54,
+    "name": "DAAD WISE (Working Internships in Science and Engineering)",
+    "provider": "German Academic Exchange Service (DAAD)",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Germany"
+    ],
+    "currency": "EUR",
+    "amountOriginal": 2802,
+    "amount": 272000,
+    "amountNote": "€934/month for 2–3 months + travel subsidy (~€1,075) + health insurance",
+    "amountPeriod": "One-time",
+    "awards": null,
+    "deadline": "2026-11-05",
+    "deadlineNote": "DAAD portal deadline",
+    "educationLevel": [
+      "Undergraduate"
+    ],
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": 85,
+    "category": "STEM",
+    "socialCategories": [],
+    "specialEligibility": "85% aggregate / 8.5 CGPA; invitation from a German professor at a public university or research institute",
+    "requires": null,
+    "gender": "All",
+    "description": "Summer research internship in Germany for top Indian undergraduate science and engineering students.",
+    "documents": [
+      "Passport",
+      "Transcripts",
+      "Invitation Letter from German Host",
+      "CV",
+      "Recommendation Letter"
+    ],
+    "process": "Secure a host professor, then apply on the DAAD portal.",
+    "officialUrl": "https://www2.daad.de/deutschland/stipendium/datenbank/en/",
+    "sources": [
+      "https://www.indiascholarships.in/scholarships/daad-wise-research-internship-germany"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
+  },
+  {
+    "id": 55,
+    "name": "Fulbright-Nehru Doctoral Research Fellowships",
+    "provider": "United States-India Educational Foundation (USIEF)",
+    "type": "International Body",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "USD",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "6–9 months in the US: monthly stipend, round-trip airfare, J-1 visa support, health cover, affiliation fees",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Usually closes ~July (2027-28 round closed)",
+    "educationLevel": [
+      "Doctoral"
+    ],
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Data Science",
+      "Physics",
+      "Earth Sciences",
+      "Electronics"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Research",
+    "socialCategories": [],
+    "specialEligibility": "Registered for a PhD at an Indian institution; not a government employee; priority fields change yearly",
+    "requires": null,
+    "gender": "All",
+    "description": "Lets Indian PhD scholars spend 6–9 months doing research at a US institution.",
+    "documents": [
+      "PhD Registration Proof",
+      "Research Proposal",
+      "Supervisor Recommendation",
+      "CV",
+      "Passport"
+    ],
+    "process": "Apply online via USIEF/IIE portal; shortlisted candidates interviewed.",
+    "officialUrl": "https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships",
+    "sources": [
+      "https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships"
+    ],
+    "lastVerified": "2026-10-18",
+    "dataSource": "manual",
+    "fetchedAt": null
   }
 ];
 
-/* Category metadata used to render the visual category strip */
-const CATEGORIES = [
-  "Merit", "Financial Need", "STEM", "Women in Education",
-  "Sports", "Arts", "Research", "Government", "Foundation"
-];
+const CATEGORIES = ["Merit", "Financial Need", "STEM", "Women in Education", "Social Welfare", "Disability Support", "Research", "Government", "Study Abroad"];
+
+const CURRENCY_SYMBOLS = {"INR": "₹", "USD": "$", "GBP": "£", "EUR": "€", "JPY": "¥", "CHF": "CHF ", "KRW": "₩", "CAD": "C$", "SEK": "kr ", "AUD": "A$", "SGD": "S$", "BDT": "৳", "LKR": "Rs ", "KES": "KSh ", "NGN": "₦"};
+
+const DATA_LAST_VERIFIED = "2026-10-18";
+
+/* When the APIs were last synced (null = never) */
+const DATA_LAST_SYNCED = null;
+
+/* All Indian states & union territories (for profile forms) */
+const INDIAN_STATES = ["Andaman and Nicobar Islands", "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chandigarh", "Chhattisgarh", "Dadra and Nagar Haveli and Daman and Diu", "Delhi", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jammu and Kashmir", "Jharkhand", "Karnataka", "Kerala", "Ladakh", "Lakshadweep", "Madhya Pradesh", "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha", "Puducherry", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal"];

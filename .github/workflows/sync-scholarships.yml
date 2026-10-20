@@ -1,0 +1,48 @@
+# Runs the ScholarConnect API sync every day and commits the refreshed data.
+# Setup: push this project to GitHub, then add repository secrets
+#   (Settings -> Secrets and variables -> Actions -> New repository secret):
+#   KAGGLE_USERNAME, KAGGLE_KEY, DATAGOV_API_KEY   (any you don't have can be left out)
+# You can also run it by hand: Actions tab -> "Sync scholarship data" -> Run workflow.
+name: Sync scholarship data
+
+on:
+  schedule:
+    - cron: "30 2 * * *"      # every day at 02:30 UTC = 08:00 IST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write             # lets the job commit the updated data files
+
+concurrency:
+  group: scholarship-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch from APIs and rebuild database files
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+          DATAGOV_API_KEY: ${{ secrets.DATAGOV_API_KEY }}
+        run: python3 database/fetch/sync.py
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name  "scholarconnect-bot"
+          git config user.email "scholarconnect-bot@users.noreply.github.com"
+          git add database js/data.js
+          if git diff --cached --quiet; then
+            echo "No changes in the data today."
+          else
+            git commit -m "Daily scholarship data sync ($(date -u +%Y-%m-%d))"
+            git push
+          fi

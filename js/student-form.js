@@ -10,7 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const resultsEl = document.getElementById('results');
 
   /* Populate state + field dropdowns from the dataset */
-  const allStates = [...new Set(SCHOLARSHIPS.flatMap(s => s.states).filter(s => s !== 'All India'))].sort();
+  const allStates = (typeof INDIAN_STATES !== 'undefined') ? INDIAN_STATES
+    : [...new Set(SCHOLARSHIPS.flatMap(s => s.states).filter(s => s !== 'All India'))].sort();
   const stateOptions = `<option value="">Select</option>` + allStates.map(s => `<option>${s}</option>`).join('');
   document.getElementById('p-state').innerHTML = stateOptions;
   document.getElementById('o-domicile').innerHTML = `<option value="">Same as state above</option>` + allStates.map(s => `<option>${s}</option>`).join('');
@@ -90,6 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const student = {
       name: document.getElementById('p-name').value.trim(),
       gender: document.getElementById('p-gender').value,
+      category: document.getElementById('p-category').value,
       state: document.getElementById('p-state').value,
       educationLevel: document.getElementById('a-level').value,
       field: document.getElementById('a-field').value,
@@ -100,10 +102,52 @@ document.addEventListener('DOMContentLoaded', () => {
       sportsAchievement: document.getElementById('o-sports').value,
       academicAchievement: document.getElementById('o-academic').value,
       extracurricular: document.getElementById('o-extra').value,
+      special: document.getElementById('o-special').value,
     };
 
     const results = runEligibilityEngine(student);
     renderResults(student, results);
+    saveProfile();
+  });
+
+  /* ---------- Account: save the profile / pre-fill it ---------- */
+  const v = (id) => document.getElementById(id).value.trim();
+  async function saveProfile(){
+    const user = await SC.me();
+    if(!user || user.role !== 'student') return;
+    try{
+      await SC.api('/profile', { method: 'PUT', body: {
+        name: v('p-name'), age: v('p-age'), gender: v('p-gender'), state: v('p-state'), city: v('p-city'),
+        domicile: v('o-domicile'), category: v('p-category'), level: v('a-level'), institute: v('a-institute'),
+        course: v('a-course'), field: v('a-field'), year: v('a-year'), score: v('a-score'), income: v('f-income'),
+        incomeBracket: v('f-incomecat'), assist: (form.querySelector('input[name="f-assist"]:checked') || {}).value,
+        firstGen: v('o-firstgen'), disability: v('o-disability'), sports: v('o-sports'), academic: v('o-academic'),
+        extra: v('o-extra'), govt: v('o-govt'), special: v('o-special'),
+      }});
+      showToast('Profile saved to your account - see your matches on the dashboard.');
+    }catch(err){
+      showToast('Could not save your profile: ' + err.message);
+    }
+  }
+
+  SC.me().then(async (user) => {
+    if(!user || user.role !== 'student') return;
+    const set = (id, val) => { const el = document.getElementById(id); if(el && val !== null && val !== undefined) el.value = val; };
+    try{
+      const { profile: p } = await SC.api('/profile');
+      if(!p){ set('p-name', user.name); if(user.educationLevel) set('a-level', user.educationLevel); return; }
+      const yn = (b) => (Number(b) ? 'yes' : 'no');
+      set('p-name', p.full_name); set('p-age', p.age); set('p-gender', p.gender); set('p-state', p.state); set('p-city', p.city);
+      set('p-category', p.social_category); set('a-level', p.education_level); set('a-institute', p.institute_name);
+      set('a-course', p.course); set('a-field', p.field_of_study); set('a-year', p.year_of_study);
+      set('a-score', Number(p.percentage)); set('f-income', Math.round(Number(p.annual_family_income)));
+      set('f-incomecat', p.income_bracket); set('o-domicile', p.domicile_state === p.state ? '' : p.domicile_state);
+      set('o-firstgen', yn(p.first_gen_learner)); set('o-disability', yn(p.has_disability)); set('o-sports', yn(p.sports_achievement));
+      set('o-academic', yn(p.academic_achievement)); set('o-extra', yn(p.extracurricular)); set('o-govt', yn(p.parent_govt_employee));
+      set('o-special', p.special_category || '');
+      const r = form.querySelector(`input[name="f-assist"][value="${yn(p.needs_financial_aid)}"]`); if(r) r.checked = true;
+      showToast('Loaded your saved profile.');
+    }catch(_){ /* not critical */ }
   });
 
   function renderResults(student, results){
@@ -177,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
         <h3>${s.name}</h3>
         <p class="provider">${s.provider}</p>
-        <div class="amount">${formatAmount(s.amount)}</div>
+        <div class="amount">${formatScholarshipAmount(s)}</div>
         <span class="deadline-pill ${status.className}">${status.icon} ${status.label}</span>
         ${r.reasons.filter(x => x.ok).slice(0,2).map(x => `<div class="match-reason ok">${x.text}</div>`).join('')}
         <div class="card-actions">

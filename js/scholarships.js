@@ -26,6 +26,9 @@ document.addEventListener('DOMContentLoaded', () => {
     deadline: document.getElementById('f-deadline'),
     gender: document.getElementById('f-gender'),
     type: document.getElementById('f-type'),
+    scope: document.getElementById('f-scope'),
+    source: document.getElementById('f-source'),
+    country: document.getElementById('f-country'),
   };
 
   let activeCategory = '';
@@ -37,6 +40,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const allStates = [...new Set(SCHOLARSHIPS.flatMap(s => s.states).filter(s => s !== 'All India'))].sort();
   allStates.forEach(s => els.location.insertAdjacentHTML('beforeend', `<option>${s}</option>`));
+
+  const EU_COUNTRIES = ['Austria','Belgium','Denmark','Finland','France','Germany','Ireland','Italy','Netherlands','Portugal','Spain','Sweden'];
+  function hostMatches(s, country){
+    const hosts = s.hostCountries || ['India'];
+    if(hosts.includes(country)) return true;
+    if(country !== 'India' && hosts.includes('Any country')) return true;
+    return hosts.includes('Any EU country') && EU_COUNTRIES.includes(country);
+  }
+  const allHosts = [...new Set(SCHOLARSHIPS.flatMap(s => s.hostCountries || ['India']))].filter(h => !h.startsWith('Any')).sort();
+  allHosts.forEach(c => els.country.insertAdjacentHTML('beforeend', `<option>${c}</option>`));
 
   /* Category strip */
   catStrip.innerHTML = ['All', ...CATEGORIES].map(c =>
@@ -63,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function matchesBasis(s){
     if(!activeBasis) return true;
     if(activeBasis === 'merit') return s.category === 'Merit' || s.minimumPercentage >= 65;
-    if(activeBasis === 'need') return s.category === 'Financial Need' || s.maxIncome <= 500000;
+    if(activeBasis === 'need') return s.category === 'Financial Need' || (s.maxIncome !== null && s.maxIncome <= 500000);
     return true;
   }
 
@@ -77,19 +90,25 @@ document.addEventListener('DOMContentLoaded', () => {
     const deadlineWithin = els.deadline.value ? Number(els.deadline.value) : null;
     const gender = els.gender.value;
     const type = els.type.value;
+    const scope = els.scope.value;
+    const source = els.source.value;
+    const country = els.country.value;
 
     const today = new Date(); today.setHours(0,0,0,0);
 
     const filtered = SCHOLARSHIPS.filter(s => {
       if(q){
-        const haystack = `${s.name} ${s.provider} ${s.description} ${s.category}`.toLowerCase();
+        const haystack = `${s.name} ${s.provider} ${s.description} ${s.category} ${s.scope} ${(s.hostCountries || []).join(' ')}`.toLowerCase();
         if(!haystack.includes(q)) return false;
       }
       if(activeCategory && s.category !== activeCategory) return false;
       if(level && !s.educationLevel.includes(level)) return false;
       if(field && !(s.fields.includes(field) || s.fields.includes('All Fields'))) return false;
       if(location && !(s.states.includes(location) || s.states.includes('All India'))) return false;
-      if(income !== null && s.maxIncome > income) return false;
+      if(income !== null && (s.maxIncome === null || s.maxIncome > income)) return false;
+      if(scope && s.scope !== scope) return false;
+      if(source && (s.dataSource || 'manual') !== source) return false;
+      if(country && !hostMatches(s, country)) return false;
       if(s.amount < minAmount) return false;
       if(deadlineWithin !== null){
         const diffDays = Math.ceil((new Date(s.deadline) - today) / (1000*60*60*24));

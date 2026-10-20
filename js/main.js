@@ -28,7 +28,10 @@ function initFooterYear(){
 
 /* ---------- Deadline status ---------- */
 // Returns { label, className } based on days remaining until deadline.
-function getDeadlineStatus(deadlineStr){
+function getDeadlineStatus(deadlineStr, note){
+  if(!deadlineStr){
+    return { label: note || 'See official site for dates', className: 'deadline-soon', icon: '🗓' };
+  }
   const today = new Date();
   today.setHours(0,0,0,0);
   const deadline = new Date(deadlineStr);
@@ -47,11 +50,29 @@ function getDeadlineStatus(deadlineStr){
 }
 
 function formatDate(d){
+  if(!d) return '';
   return new Date(d).toLocaleDateString('en-IN', { day:'numeric', month:'short', year:'numeric' });
 }
 
 function formatAmount(n){
   return '₹' + n.toLocaleString('en-IN');
+}
+
+/* Shows the original currency for international awards, plus the INR equivalent */
+function formatScholarshipAmount(s){
+  if(s.amountOriginal === null || s.amountOriginal === undefined){
+    return /fully funded|full funding|full cost/i.test(s.amountNote || '') ? 'Fully funded' : 'Varies by course';
+  }
+  if(!s.currency || s.currency === 'INR') return formatAmount(s.amount);
+  const sym = (typeof CURRENCY_SYMBOLS !== 'undefined' && CURRENCY_SYMBOLS[s.currency]) || (s.currency + ' ');
+  return `${sym}${s.amountOriginal.toLocaleString('en-US')} <span class="amount-inr">≈ ${formatAmount(s.amount)}</span>`;
+}
+
+function scopeBadgeHTML(s){
+  if(!s.scope) return '';
+  const src = s.dataSource && s.dataSource !== 'manual' ? `<span class="scope-badge">via ${s.dataSource}</span>` : '';
+  const intl = s.scope === 'International';
+  return src + `<span class="scope-badge ${intl ? 'scope-intl' : 'scope-national'}">${intl ? '✈ ' + s.hostCountries[0] + (s.hostCountries.length > 1 ? ' +' + (s.hostCountries.length - 1) : '') : 'India'}</span>`;
 }
 
 /* ---------- Saved scholarships (localStorage) ---------- */
@@ -80,7 +101,7 @@ function isSaved(id){
 
 /* ---------- Scholarship card markup ---------- */
 function scholarshipCardHTML(s){
-  const status = getDeadlineStatus(s.deadline);
+  const status = getDeadlineStatus(s.deadline, s.deadlineNote);
   const saved = isSaved(s.id);
   return `
     <article class="sch-card fade-in" data-id="${s.id}">
@@ -92,8 +113,9 @@ function scholarshipCardHTML(s){
       </div>
       <h3>${s.name}</h3>
       <p class="provider">${s.provider}</p>
-      <div class="amount">${formatAmount(s.amount)}</div>
+      <div class="amount">${formatScholarshipAmount(s)}</div>
       <div class="meta-row">
+        ${scopeBadgeHTML(s)}
         <span>${s.educationLevel.join(', ')}</span>
         <span>${s.fields[0]}${s.fields.length > 1 ? ' +' + (s.fields.length - 1) : ''}</span>
         <span>${s.states[0]}${s.states.length > 1 ? ' +' + (s.states.length - 1) : ''}</span>
@@ -145,30 +167,41 @@ function ensureModal(){
 
 function openModal(s){
   ensureModal();
-  const status = getDeadlineStatus(s.deadline);
+  const status = getDeadlineStatus(s.deadline, s.deadlineNote);
   const saved = isSaved(s.id);
   document.getElementById('modal-body').innerHTML = `
     <span class="category">${s.category}</span>
     <h2 id="modal-title" style="margin-top:12px;">${s.name}</h2>
     <p class="provider" style="margin-top:-6px;">${s.provider}</p>
-    <div class="amount">${formatAmount(s.amount)}</div>
+    <div class="amount">${formatScholarshipAmount(s)}</div>
     <span class="deadline-pill ${status.className}">${status.icon} ${status.label} · ${formatDate(s.deadline)}</span>
     <div class="modal-grid">
       <div class="modal-field"><span class="k">Education Level</span><span class="v">${s.educationLevel.join(', ')}</span></div>
       <div class="modal-field"><span class="k">Field of Study</span><span class="v">${s.fields.join(', ')}</span></div>
       <div class="modal-field"><span class="k">Location</span><span class="v">${s.states.join(', ')}</span></div>
-      <div class="modal-field"><span class="k">Income Criteria</span><span class="v">Up to ${formatAmount(s.maxIncome)}/yr</span></div>
-      <div class="modal-field"><span class="k">Minimum Academic Score</span><span class="v">${s.minimumPercentage}%</span></div>
+      <div class="modal-field"><span class="k">Scope</span><span class="v">${s.scope || 'National'}</span></div>
+      <div class="modal-field"><span class="k">Study Destination</span><span class="v">${(s.hostCountries || ['India']).join(', ')}</span></div>
+      <div class="modal-field"><span class="k">Award Period</span><span class="v">${s.amountPeriod || 'Annual'}${s.awards ? ' · ' + s.awards.toLocaleString('en-IN') + ' awards' : ''}</span></div>
+      <div class="modal-field"><span class="k">Open To</span><span class="v">${(s.nationalities || ['India']).join(', ')} nationals</span></div>
+      <div class="modal-field"><span class="k">Income Criteria</span><span class="v">${s.maxIncome === null ? 'No income limit' : 'Up to ' + formatAmount(s.maxIncome) + '/yr'}</span></div>
+      ${s.socialCategories && s.socialCategories.length ? `<div class="modal-field"><span class="k">Reserved For</span><span class="v">${s.socialCategories.join(', ')}</span></div>` : ''}
+      ${s.specialEligibility ? `<div class="modal-field"><span class="k">Special Eligibility</span><span class="v">${s.specialEligibility}</span></div>` : ''}
+      <div class="modal-field"><span class="k">Minimum Academic Score</span><span class="v">${s.minimumPercentage === null ? 'No fixed percentage' : s.minimumPercentage + '%'}</span></div>
       <div class="modal-field"><span class="k">Gender Eligibility</span><span class="v">${s.gender}</span></div>
     </div>
     <p>${s.description}</p>
+    ${s.amountNote ? `<p><strong>What it covers:</strong> ${s.amountNote}</p>` : ''}
     <h3 style="font-size:0.95rem;">Required Documents</h3>
     <ul class="modal-docs">${s.documents.map(d => `<li>${d}</li>`).join('')}</ul>
     <h3 style="font-size:0.95rem;">Application Process</h3>
     <p>${s.process}</p>
-    <p class="hint" style="font-size:0.8rem;color:var(--ink-500);">Official application link: <em>example-application-portal.demo</em> (placeholder - no live application is submitted from this demo).</p>
+    <p style="font-size:0.85rem;"><strong>Official page:</strong> <a href="${s.officialUrl}" target="_blank" rel="noopener">${s.officialUrl}</a></p>
+    <p class="hint" style="font-size:0.78rem;color:var(--ink-500);">${s.dataSource && s.dataSource !== 'manual'
+      ? `Imported automatically from the <strong>${s.dataSource}</strong> API on ${formatDate(s.fetchedAt)}`
+      : `Hand-verified on ${formatDate(s.lastVerified)}`} - sources: ${(s.sources || []).map((u, i) => `<a href="${u}" target="_blank" rel="noopener">source ${i + 1}</a>`).join(', ')}. Amounts and deadlines change every cycle, so always confirm on the official page.</p>
     <div class="modal-actions">
-      <a class="btn btn-primary" href="student-form.html">Check Eligibility</a>
+      <a class="btn btn-primary" href="${s.officialUrl}" target="_blank" rel="noopener">Visit Official Site</a>
+      <a class="btn btn-ghost" href="student-form.html">Check Eligibility</a>
       <button class="btn btn-ghost" type="button" data-save-id="${s.id}" aria-pressed="${saved}">${saved ? 'Saved ♥' : 'Save ♡'}</button>
     </div>
   `;
