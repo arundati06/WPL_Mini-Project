@@ -1,0 +1,11 @@
+{
+  "name": "scholarconnect_final",
+  "version": "1.0.0",
+  "description": "A scholarship directory and matching website: **real national and international scholarships**, student and institution **accounts**, an **admin page**, and **daily data sync** from public APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

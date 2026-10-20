@@ -33,7 +33,7 @@
   <div class="container">
     <span class="eyebrow">Institution registration</span>
     <h1 style="font-size:clamp(1.8rem,3vw,2.6rem);">Register your institution.</h1>
-    <p>Add your organisation's details, then submit your first scholarship's eligibility criteria. This is a demo submission - no real backend or database is connected.</p>
+    <p>Add your organisation's details and your first scholarship's eligibility criteria. You will also create a login to track its review status.</p>
   </div>
 </header>
 
@@ -103,13 +103,23 @@
             <input type="tel" id="i-phone" placeholder="10-digit mobile number" required>
             <span class="err-msg">Enter a valid 10-digit phone number.</span>
           </div>
+          <div class="field account-field">
+            <label for="i-password">Create a Password <span class="hint">(for logging in and tracking submissions)</span></label>
+            <input type="password" id="i-password" minlength="8" autocomplete="new-password" required>
+            <span class="err-msg">Password must be at least 8 characters.</span>
+          </div>
+          <div class="field account-field">
+            <label for="i-confirm">Confirm Password</label>
+            <input type="password" id="i-confirm" autocomplete="new-password" required>
+            <span class="err-msg">Passwords do not match.</span>
+          </div>
         </div>
       </div>
 
       <!-- Scholarship Details -->
       <div class="form-section">
         <h3>Scholarship Details</h3>
-        <p class="fs-desc">The eligibility criteria you provide here is what powers automatic matching for students.</p>
+        <p class="fs-desc">These criteria are used to match your scholarship with students.</p>
         <div class="form-grid">
           <div class="field full">
             <label for="s-name">Scholarship Name</label>
@@ -135,7 +145,9 @@
             <label for="s-level">Education Levels</label>
             <select id="s-level" required>
               <option value="">Select</option>
+              <option>Class 9-10</option>
               <option>Class 11-12</option>
+              <option>Diploma</option>
               <option>Undergraduate</option>
               <option>Postgraduate</option>
               <option>Doctoral</option>
@@ -182,17 +194,17 @@
       </div>
 
       <div class="form-actions">
-        <p style="margin:0;font-size:0.82rem;color:var(--ink-500);">This is a demo submission - no real backend or database is connected.</p>
+        <p style="margin:0;font-size:0.82rem;color:var(--ink-500);">Your password is stored encrypted.</p>
         <button type="submit" class="btn btn-primary">Submit Scholarship</button>
       </div>
     </form>
 
     <div id="success-panel" class="success-panel" style="display:none;">
       <div class="mark">✓</div>
-      <h2>Thank you! Your scholarship information has been submitted successfully.</h2>
-      <p>This is a demo submission - no real backend or database is connected, so nothing was actually saved. In a production version, your listing would now appear in the ScholarConnect directory pending a brief review.</p>
+      <h2>Thank you. Your scholarship has been submitted.</h2>
+      <p>Your institution account is created and your scholarship is waiting for admin review. You can track its status on your dashboard.</p>
       <div class="hero-ctas" style="justify-content:center;margin-top:20px;">
-        <a href="scholarships.html" class="btn btn-primary">Browse the Directory</a>
+        <a href="institutions.html" class="btn btn-primary">Go to My Dashboard</a>
         <a href="institution-form.html" class="btn btn-ghost">Submit Another Scholarship</a>
       </div>
     </div>
@@ -203,7 +215,7 @@
 <footer class="site-footer">
   <div class="container">
     <div class="footer-bottom" style="border-top:none;padding-top:0;">
-      <span>&copy; <span id="year"></span> ScholarConnect. A demo student project - no real backend connected.</span>
+      <span>&copy; <span id="year"></span> ScholarConnect. A student web programming project.</span>
       <div class="social-icons">
         <a href="#" aria-label="Twitter">𝕏</a>
         <a href="#" aria-label="LinkedIn">in</a>
@@ -214,6 +226,7 @@
 </footer>
 
 <script src="js/main.js"></script>
+<script src="js/auth.js"></script>
 <script src="js/institution-form.js"></script>
 </body>
 </html>

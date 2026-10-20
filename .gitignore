@@ -1,0 +1,8 @@
+# secrets
+.env
+server/.env
+database/fetch/.env
+# dependencies / caches
+node_modules/
+__pycache__/
+.DS_Store

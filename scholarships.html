@@ -33,14 +33,14 @@
   <div class="container">
     <span class="eyebrow">Scholarship directory</span>
     <h1 style="font-size:clamp(1.8rem,3vw,2.6rem);">Find scholarships that fit you.</h1>
-    <p>Search by name or provider, or narrow the directory using the filters - everything updates instantly, no page reloads.</p>
+    <p>Search by name or provider, or use the filters to narrow down the list.</p>
   </div>
 </header>
 
 <section class="section">
   <div class="container">
     <div class="search-row">
-      <input type="text" id="search-input" placeholder="Search by scholarship name, provider, or keyword…" aria-label="Search scholarships">
+      <input type="text" id="search-input" placeholder="Search by name, provider or keyword…" aria-label="Search scholarships">
       <button class="btn btn-primary" id="search-btn" type="button">Search</button>
     </div>
 
@@ -51,10 +51,38 @@
         <h3>Filters</h3>
 
         <div class="filter-group">
+          <label for="f-source">Data Source</label>
+          <select id="f-source">
+            <option value="">All sources</option>
+            <option value="manual">Hand-verified</option>
+            <option value="wikidata">Wikidata API</option>
+            <option value="kaggle">Kaggle API</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="f-scope">Scope</label>
+          <select id="f-scope">
+            <option value="">National &amp; International</option>
+            <option value="National">National (study in India)</option>
+            <option value="International">International (study abroad)</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="f-country">Study Destination</label>
+          <select id="f-country">
+            <option value="">Any country</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
           <label for="f-level">Education Level</label>
           <select id="f-level">
             <option value="">All levels</option>
+            <option>Class 9-10</option>
             <option>Class 11-12</option>
+            <option>Diploma</option>
             <option>Undergraduate</option>
             <option>Postgraduate</option>
             <option>Doctoral</option>
@@ -123,6 +151,8 @@
             <option>Private</option>
             <option>Foundation</option>
             <option>NGO</option>
+            <option>University</option>
+            <option>International Body</option>
           </select>
         </div>
 
@@ -153,7 +183,7 @@
     <div class="section-head">
       <span class="eyebrow">Your list</span>
       <h2>Saved Scholarships</h2>
-      <p>Saved directly to this browser using local storage - clear your browser data and this list resets.</p>
+      <p>Saved scholarships are stored in this browser. Clearing your browser data will reset this list.</p>
     </div>
     <div class="card-grid" id="saved-grid"></div>
   </div>
@@ -164,7 +194,7 @@
     <div class="footer-grid">
       <div>
         <span class="footer-logo">ScholarConnect</span>
-        <p style="color:#9CC9B8;font-size:0.88rem;">Connecting students to opportunities that matter - one match at a time.</p>
+        <p style="color:#9CC9B8;font-size:0.88rem;">Connecting students to opportunities that matter.</p>
       </div>
       <div>
         <h4>Platform</h4>
@@ -195,7 +225,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <span>&copy; <span id="year"></span> ScholarConnect. A demo student project - no real backend connected.</span>
+      <span>&copy; <span id="year"></span> ScholarConnect. A student web programming project.</span>
       <div class="social-icons">
         <a href="#" aria-label="Twitter">𝕏</a>
         <a href="#" aria-label="LinkedIn">in</a>
@@ -207,6 +237,7 @@
 
 <script src="js/data.js"></script>
 <script src="js/main.js"></script>
+<script src="js/auth.js"></script>
 <script src="js/scholarships.js"></script>
 </body>
 </html>

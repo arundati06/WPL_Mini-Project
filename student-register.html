@@ -33,7 +33,7 @@
   <div class="container">
     <span class="eyebrow">Student account</span>
     <h1 style="font-size:clamp(1.8rem,3vw,2.6rem);">Create your student account.</h1>
-    <p>Save scholarships, keep your eligibility results, and track deadlines across sessions. This is a demo account - no data is sent to a server.</p>
+    <p>Save scholarships, keep your eligibility results and track deadlines.</p>
   </div>
 </header>
 
@@ -68,7 +68,9 @@
             <label for="r-level">Current Education Level</label>
             <select id="r-level" required>
               <option value="">Select</option>
+              <option>Class 9-10</option>
               <option>Class 11-12</option>
+              <option>Diploma</option>
               <option>Undergraduate</option>
               <option>Postgraduate</option>
               <option>Doctoral</option>
@@ -96,7 +98,7 @@
       </div>
 
       <div class="form-actions">
-        <p style="margin:0;font-size:0.82rem;color:var(--ink-500);">This is a demo account - nothing is stored on a server.</p>
+        <p style="margin:0;font-size:0.82rem;color:var(--ink-500);">Your password is stored encrypted.</p>
         <button type="submit" class="btn btn-primary">Create Account</button>
       </div>
     </form>
@@ -107,8 +109,8 @@
 
     <div id="success-panel" class="success-panel" style="display:none;">
       <div class="mark">&check;</div>
-      <h2>Account created successfully.</h2>
-      <p>This is a demo account - no real backend or database is connected, so nothing was actually saved. In a production version, you'd now be signed in automatically.</p>
+      <h2>Account created.</h2>
+      <p>Your account is ready and you are logged in. Fill in the eligibility form to get matches on your dashboard.</p>
       <div class="hero-ctas" style="justify-content:center;margin-top:20px;">
         <a href="student-form.html" class="btn btn-primary">Continue to Eligibility Form</a>
         <a href="login.html" class="btn btn-ghost">Go to Log In</a>
@@ -121,7 +123,7 @@
 <footer class="site-footer">
   <div class="container">
     <div class="footer-bottom" style="border-top:none;padding-top:0;">
-      <span>&copy; <span id="year"></span> ScholarConnect. A demo student project - no real backend connected.</span>
+      <span>&copy; <span id="year"></span> ScholarConnect. A student web programming project.</span>
       <div class="social-icons">
         <a href="#" aria-label="Twitter">𝕏</a>
         <a href="#" aria-label="LinkedIn">in</a>
@@ -132,6 +134,7 @@
 </footer>
 
 <script src="js/main.js"></script>
+<script src="js/auth.js"></script>
 <script src="js/student-register.js"></script>
 </body>
 </html>
