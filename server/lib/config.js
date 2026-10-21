@@ -6,11 +6,6 @@ module.exports = {
   DB_DIR: path.join(__dirname, '..', '..', 'database'),
   port: Number(process.env.PORT || 3000),
   sessionSecret: process.env.SESSION_SECRET || 'dev-only-secret-change-me',
-  db: {
-    host: process.env.DB_HOST || '127.0.0.1',
-    port: Number(process.env.DB_PORT || 3306),
-    user: process.env.DB_USER || 'root',
-    password: process.env.DB_PASSWORD || '',
-    database: process.env.DB_NAME || 'scholarconnect',
-  },
+  // Local MongoDB (the same server MongoDB Compass connects to), or a MongoDB Atlas link
+  mongoUri: process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/scholarconnect',
 };

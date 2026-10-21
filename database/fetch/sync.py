@@ -2,7 +2,7 @@
 
   python3 sync.py                      # all sources: wikidata, kaggle, datagov
   python3 sync.py --only wikidata      # one or more sources (comma-separated)
-  python3 sync.py --apply              # also load the result into MySQL (uses the `mysql` CLI)
+  python3 sync.py --apply              # also load the result into MongoDB (runs server/scripts/db-init.js --content)
   python3 sync.py --no-fetch           # just rebuild from the last saved API results
 
 What it does
@@ -10,7 +10,7 @@ What it does
   2. Removes duplicates, and drops API records that match one of the 55 hand-verified ones.
   3. Saves database/imported/imported_records.json and statistics.json.
   4. Runs generator/build_real.py -> schema.sql, seed.sql, scholarships.csv, db.json, js/data.js
-  5. With --apply: refreshes the scholarship tables in MySQL via server/scripts/db-init.js --content
+  5. With --apply: refreshes the scholarships collection in MongoDB via server/scripts/db-init.js --content
      (uses server/.env for the login; registered accounts are never touched)
 """
 import argparse, json, os, re, subprocess, sys
@@ -98,10 +98,10 @@ def main():
     subprocess.run([sys.executable, os.path.join(DB_DIR, "generator", "build_real.py"), project], check=True)
 
     if a.apply:
-        # Refresh only the scholarship tables; user accounts are left untouched.
+        # Refresh only the scholarships collection; user accounts are left untouched.
         server = os.path.join(project, "server")
         subprocess.run(["node", os.path.join(server, "scripts", "db-init.js"), "--content"], cwd=server, check=True)
-        print("  loaded into MySQL (accounts untouched)")
+        print("  loaded into MongoDB (accounts untouched)")
 
 
 if __name__ == "__main__":

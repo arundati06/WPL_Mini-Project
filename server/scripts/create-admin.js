@@ -5,7 +5,8 @@
  */
 const readline = require('readline');
 const bcrypt = require('bcryptjs');
-const { pool, q } = require('../lib/db');
+const { connect, disconnect } = require('../lib/db');
+const { User } = require('../models');
 
 function ask(question, hidden = false) {
   return new Promise((resolve) => {
@@ -24,16 +25,15 @@ function ask(question, hidden = false) {
   const pw = process.env.ADMIN_PASSWORD || await ask('Password (min 8 characters): ', true);
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) throw new Error('That email address is not valid.');
   if (pw.length < 8) throw new Error('Password must be at least 8 characters.');
+  await connect();
   const hash = await bcrypt.hash(pw, 10);
-  const existing = await q('SELECT user_id FROM users WHERE email = ?', [email.toLowerCase()]);
-  if (existing.length) {
-    await q("UPDATE users SET password_hash = ?, role = 'admin', is_active = 1, full_name = ? WHERE user_id = ?",
-            [hash, name || 'Admin', existing[0].user_id]);
+  const existing = await User.findOne({ email: email.toLowerCase() });
+  if (existing) {
+    await User.updateOne({ _id: existing._id }, { $set: { password_hash: hash, role: 'admin', is_active: true, full_name: name || 'Admin' } });
     console.log(`Updated ${email}: it is now an admin with the new password.`);
   } else {
-    await q("INSERT INTO users (email, password_hash, role, full_name) VALUES (?, ?, 'admin', ?)",
-            [email.toLowerCase(), hash, name || 'Admin']);
+    await User.create({ email: email.toLowerCase(), password_hash: hash, role: 'admin', full_name: name || 'Admin' });
     console.log(`Created admin account ${email}. Log in at /login.html, then open /admin.html.`);
   }
-  await pool.end();
-})().catch(async (e) => { console.error('✗', e.message); await pool.end(); process.exit(1); });
+  await disconnect();
+})().catch(async (e) => { console.error('✗', e.message); try { await disconnect(); } catch (_) { /* ignore */ } process.exit(1); });

@@ -1,7 +1,8 @@
 /** /api/institution - for logged-in institutions */
 const express = require('express');
-const { q, pool } = require('../lib/db');
+const { Institution, Submission } = require('../models');
 const { requireLogin } = require('../lib/auth');
+const { institutionRow, submissionRow } = require('../lib/rows');
 const { validateSubmission, insertSubmission } = require('./auth');
 
 const router = express.Router();
@@ -9,21 +10,20 @@ const inst = requireLogin('institution');
 
 router.get('/me', inst, async (req, res, next) => {
   try {
-    const [institution] = await q('SELECT * FROM institutions WHERE user_id = ?', [req.session.userId]);
+    const institution = await Institution.findOne({ user: req.session.userId }).lean();
     const submissions = institution
-      ? await q('SELECT * FROM scholarship_submissions WHERE institution_id = ? ORDER BY submitted_at DESC', [institution.institution_id])
+      ? await Submission.find({ institution: institution._id }).sort({ submitted_at: -1 }).lean()
       : [];
-    res.json({ institution: institution || null, submissions });
+    res.json({ institution: institution ? institutionRow(institution) : null, submissions: submissions.map(submissionRow) });
   } catch (e) { next(e); }
 });
 
 router.post('/submissions', inst, async (req, res, next) => {
   try {
     const s = validateSubmission(req.body);
-    const [institution] = await q('SELECT institution_id FROM institutions WHERE user_id = ?', [req.session.userId]);
+    const institution = await Institution.findOne({ user: req.session.userId }).lean();
     if (!institution) return res.status(400).json({ error: 'No institution profile on this account.' });
-    const conn = await pool.getConnection();
-    try { await insertSubmission(conn, institution.institution_id, s); } finally { conn.release(); }
+    await insertSubmission(institution._id, s);
     res.status(201).json({ ok: true });
   } catch (e) { next(e); }
 });

@@ -2,16 +2,16 @@
 const express = require('express');
 const bcrypt = require('bcryptjs');
 const rateLimit = require('express-rate-limit');
-const { q, tx } = require('../lib/db');
+const { User, Institution, Submission } = require('../models');
 const { validator, LEVELS, INST_TYPES, emailRe, phoneRe, urlRe } = require('../lib/validate');
-const { publicUser, startSession } = require('../lib/auth');
+const { publicUser, startSession, isId } = require('../lib/auth');
 
 const router = express.Router();
 const limiter = rateLimit({ windowMs: 15 * 60 * 1000, limit: 30, standardHeaders: true, legacyHeaders: false,
   message: { error: 'Too many attempts. Please wait 15 minutes and try again.' } });
 
 async function emailTaken(email) {
-  return (await q('SELECT 1 FROM users WHERE email = ?', [email])).length > 0;
+  return !!(await User.exists({ email }));
 }
 
 // ---- Student registration (student-register.html)
@@ -27,9 +27,8 @@ router.post('/register', limiter, async (req, res, next) => {
     d.email = d.email.toLowerCase();
     if (await emailTaken(d.email)) return res.status(409).json({ error: 'An account with this email already exists. Please log in.', field: 'email' });
     const hash = await bcrypt.hash(d.password, 10);
-    const r = await q(`INSERT INTO users (email, password_hash, role, full_name, phone, education_level, login_count, last_login_at)
-                       VALUES (?, ?, 'student', ?, ?, ?, 1, NOW())`, [d.email, hash, d.name, d.phone, d.level]);
-    const [user] = await q('SELECT * FROM users WHERE user_id = ?', [r.insertId]);
+    const user = await User.create({ email: d.email, password_hash: hash, role: 'student', full_name: d.name,
+      phone: d.phone, education_level: d.level, login_count: 1, last_login_at: new Date() });
     await startSession(req, user);
     res.status(201).json({ user: publicUser(user) });
   } catch (e) { next(e); }
@@ -54,16 +53,20 @@ router.post('/register-institution', limiter, async (req, res, next) => {
     i.email = i.email.toLowerCase();
     if (await emailTaken(i.email)) return res.status(409).json({ error: 'An account with this email already exists. Please log in.', field: 'email' });
     const hash = await bcrypt.hash(i.password, 10);
-    const userId = await tx(async (c) => {
-      const [u] = await c.execute(`INSERT INTO users (email, password_hash, role, full_name, phone, login_count, last_login_at)
-                                   VALUES (?, ?, 'institution', ?, ?, 1, NOW())`, [i.email, hash, i.contact, i.phone]);
-      const [inst] = await c.execute(`INSERT INTO institutions (user_id, name, institution_type, website, address, city, state, contact_person, email, phone)
-                                      VALUES (?,?,?,?,?,?,?,?,?,?)`,
-        [u.insertId, i.instName, i.instType, i.website, i.address, i.city, i.state, i.contact, i.email, i.phone]);
-      await insertSubmission(c, inst.insertId, s);
-      return u.insertId;
-    });
-    const [user] = await q('SELECT * FROM users WHERE user_id = ?', [userId]);
+
+    // Three documents are created one after another; if one fails, the earlier ones are removed again.
+    let user, inst;
+    try {
+      user = await User.create({ email: i.email, password_hash: hash, role: 'institution', full_name: i.contact,
+        phone: i.phone, login_count: 1, last_login_at: new Date() });
+      inst = await Institution.create({ user: user._id, name: i.instName, institution_type: i.instType, website: i.website,
+        address: i.address, city: i.city, state: i.state, contact_person: i.contact, email: i.email, phone: i.phone });
+      await insertSubmission(inst._id, s);
+    } catch (e) {
+      if (inst) await Institution.deleteOne({ _id: inst._id });
+      if (user) await User.deleteOne({ _id: user._id });
+      throw e;
+    }
     await startSession(req, user);
     res.status(201).json({ user: publicUser(user) });
   } catch (e) { next(e); }
@@ -87,12 +90,11 @@ function validateSubmission(body) {
     .done();
 }
 
-async function insertSubmission(conn, institutionId, s) {
-  await conn.execute(`INSERT INTO scholarship_submissions (institution_id, name, amount_inr, num_awards, deadline, education_level,
-                        fields, min_percentage, max_income_inr, location, other_criteria, documents, apply_link, description)
-                      VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)`,
-    [institutionId, s.schName, s.amount, s.recipients, s.deadline, s.level, s.fields, s.minScore, s.maxIncome,
-     s.location, s.other, s.docs, s.link, s.description]);
+async function insertSubmission(institutionId, s) {
+  return Submission.create({ institution: institutionId, name: s.schName, amount_inr: s.amount, num_awards: s.recipients,
+    deadline: s.deadline, education_level: s.level, eligible_fields: s.fields, min_percentage: s.minScore,
+    max_income_inr: s.maxIncome, location: s.location, other_criteria: s.other, documents: s.docs,
+    apply_link: s.link, description: s.description });
 }
 
 // ---- Login (login.html). role = 'student' | 'institution' (admins may use either tab)
@@ -103,14 +105,14 @@ router.post('/login', limiter, async (req, res, next) => {
       .str('password', { max: 200, msg: 'Please enter your password.' })
       .str('role', { required: false, oneOf: ['student', 'institution'] })
       .done();
-    const [user] = await q('SELECT * FROM users WHERE email = ?', [d.email.toLowerCase()]);
+    const user = await User.findOne({ email: d.email.toLowerCase() }).lean();
     const ok = user && (await bcrypt.compare(d.password, user.password_hash));
     if (!ok) return res.status(401).json({ error: 'Incorrect email or password.' });
     if (!user.is_active) return res.status(403).json({ error: 'This account has been deactivated. Please contact the site admin.' });
     if (d.role && user.role !== 'admin' && user.role !== d.role) {
       return res.status(403).json({ error: `This is a${user.role === 'institution' ? 'n institution' : ' student'} account - use the ${user.role === 'institution' ? 'Institution' : 'Student'} Login tab.` });
     }
-    await q('UPDATE users SET last_login_at = NOW(), login_count = login_count + 1 WHERE user_id = ?', [user.user_id]);
+    await User.updateOne({ _id: user._id }, { $set: { last_login_at: new Date() }, $inc: { login_count: 1 } });
     await startSession(req, user);
     res.json({ user: publicUser(user) });
   } catch (e) { next(e); }
@@ -123,7 +125,7 @@ router.post('/logout', (req, res) => {
 router.get('/me', async (req, res, next) => {
   try {
     if (!req.session.userId) return res.json({ user: null });
-    const [user] = await q('SELECT * FROM users WHERE user_id = ? AND is_active = 1', [req.session.userId]);
+    const user = isId(req.session.userId) ? await User.findOne({ _id: req.session.userId, is_active: true }).lean() : null;
     if (!user) { req.session.destroy(() => {}); return res.json({ user: null }); }
     res.json({ user: publicUser(user) });
   } catch (e) { next(e); }

@@ -1,6 +1,6 @@
-/** Session helpers + route guards. */
+/** Session helpers + route guards. User ids are the MongoDB _id, kept as text in the session. */
 function publicUser(u) {
-  return { id: u.user_id, name: u.full_name, email: u.email, role: u.role, phone: u.phone,
+  return { id: String(u._id), name: u.full_name, email: u.email, role: u.role, phone: u.phone,
            educationLevel: u.education_level, createdAt: u.created_at, lastLoginAt: u.last_login_at };
 }
 
@@ -9,7 +9,7 @@ function startSession(req, user) {
   return new Promise((resolve, reject) => {
     req.session.regenerate((err) => {
       if (err) return reject(err);
-      req.session.userId = user.user_id;
+      req.session.userId = String(user._id);
       req.session.role = user.role;
       req.session.save((e) => (e ? reject(e) : resolve()));
     });
@@ -24,4 +24,7 @@ function requireLogin(...roles) {
   };
 }
 
-module.exports = { publicUser, startSession, requireLogin };
+/** True for a 24-character MongoDB id. */
+const isId = (s) => /^[0-9a-f]{24}$/i.test(String(s));
+
+module.exports = { publicUser, startSession, requireLogin, isId };

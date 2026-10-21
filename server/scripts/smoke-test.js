@@ -1,12 +1,14 @@
 /**
  * End-to-end check of the account system. Starts the server on a spare port, registers test
  * accounts, exercises every endpoint, then deletes the test accounts again.
- *   npm test
+ *   npm test        (MongoDB must be running and `npm run db:init` done once)
  */
 const assert = require('assert');
 const bcrypt = require('bcryptjs');
 const app = require('../server');
-const { pool, q } = require('../lib/db');
+const { connect, disconnect } = require('../lib/db');
+const { User } = require('../models');
+const { deleteAccount } = require('../lib/accounts');
 
 const stamp = Date.now();
 const created = [];
@@ -34,6 +36,7 @@ async function check(name, fn) {
 }
 
 (async () => {
+  await connect();
   const server = app.listen(0);
   const base = `http://127.0.0.1:${server.address().port}`;
   const student = client(base), inst = client(base), admin = client(base), anon = client(base);
@@ -48,7 +51,7 @@ async function check(name, fn) {
     for (const p of ['/', '/index.html', '/login.html', '/js/data.js', '/css/style.css']) assert.equal((await fetch(base + p)).status, 200, p);
   });
   await check('private files are NOT served (.env, database, server code)', async () => {
-    for (const p of ['/server/.env', '/database/fetch/.env', '/database/seed.sql', '/server/server.js', '/.git/config', '/js/../server/.env'])
+    for (const p of ['/server/.env', '/database/fetch/.env', '/database/db.json', '/server/server.js', '/.git/config', '/js/../server/.env'])
       assert.equal((await fetch(base + p)).status, 404, p);
   });
   await check('register validation rejects bad input', async () => {
@@ -61,7 +64,7 @@ async function check(name, fn) {
     assert.equal((await student('GET', '/api/auth/me')).data.user.email, sEmail);
   });
   await check('password is stored as a bcrypt hash', async () => {
-    const [u] = await q('SELECT password_hash FROM users WHERE email = ?', [sEmail]);
+    const u = await User.findOne({ email: sEmail }).lean();
     assert.ok(u.password_hash.startsWith('$2') && (await bcrypt.compare('secret123', u.password_hash)));
   });
   await check('duplicate email is refused', async () => {
@@ -82,13 +85,23 @@ async function check(name, fn) {
     assert.equal(r.status, 200);
     assert.equal((await student('GET', '/api/profile')).data.profile.field_of_study, 'Computer Science');
   });
-  await check('matches come from the MySQL procedure', async () => {
+  await check('saving the profile twice updates it (still one profile)', async () => {
+    const body = { name: 'Test Student', age: 20, gender: 'Female', state: 'Maharashtra', city: 'Mumbai',
+      category: 'General', level: 'Undergraduate', institute: 'X', course: 'B.Tech', field: 'Computer Science', year: '3rd Year',
+      score: 85, income: 500000, incomeBracket: 'x', assist: 'yes', firstGen: 'no', disability: 'no',
+      sports: 'no', academic: 'no', extra: 'no', govt: 'no', special: '' };
+    assert.equal((await student('PUT', '/api/profile', body)).status, 200);
+    assert.equal((await student('GET', '/api/profile')).data.profile.age, 20);
+  });
+  await check('matches are worked out from the saved profile', async () => {
     const r = await student('GET', '/api/matches');
     assert.equal(r.status, 200); assert.ok(r.data.matches.length > 0, 'expected matches');
     assert.ok(r.data.matches.every((m) => m.score >= 0 && m.score <= 100));
   });
   await check('saved scholarships: add, list, remove', async () => {
     assert.equal((await student('POST', '/api/saved/1', {})).status, 200);
+    assert.deepEqual((await student('GET', '/api/saved')).data.ids, [1]);
+    assert.equal((await student('POST', '/api/saved/1', {})).status, 200);          // saving twice is fine
     assert.deepEqual((await student('GET', '/api/saved')).data.ids, [1]);
     assert.equal((await student('POST', '/api/saved/999999', {})).status, 404);
     await student('DELETE', '/api/saved/1');
@@ -107,6 +120,8 @@ async function check(name, fn) {
     assert.equal(r.status, 201, JSON.stringify(r.data)); created.push(r.data.user.id);
     const me = await inst('GET', '/api/institution/me');
     assert.equal(me.data.submissions.length, 1); assert.equal(me.data.submissions[0].status, 'Pending');
+    assert.equal(me.data.submissions[0].fields, 'Engineering');
+    assert.equal(me.data.institution.name, 'Test College');
   });
   await check('students cannot open institution or admin APIs', async () => {
     assert.equal((await student('GET', '/api/institution/me')).status, 403);
@@ -115,8 +130,8 @@ async function check(name, fn) {
   });
   await check('admin can list users, review submissions, deactivate', async () => {
     const hash = await bcrypt.hash('adminpass1', 10);
-    const r0 = await q("INSERT INTO users (email, password_hash, role, full_name) VALUES (?, ?, 'admin', 'Test Admin')", [aEmail, hash]);
-    created.push(r0.insertId);
+    const a = await User.create({ email: aEmail, password_hash: hash, role: 'admin', full_name: 'Test Admin' });
+    created.push(String(a._id));
     assert.equal((await admin('POST', '/api/auth/login', { email: aEmail, password: 'adminpass1', role: 'student' })).status, 200);
     const users = (await admin('GET', '/api/admin/users?q=' + stamp)).data.users;
     assert.equal(users.length, 3);
@@ -136,12 +151,9 @@ async function check(name, fn) {
     assert.equal((await inst('GET', '/api/auth/me')).data.user, null);
   });
 
-  // clean up test accounts (profiles, institutions, submissions, saved items cascade)
-  if (created.length) {
-    await q(`DELETE FROM users WHERE user_id IN (${created.map(() => '?').join(',')})`, created);
-    for (const id of created) await q('DELETE FROM sessions WHERE data LIKE ?', [`%"userId":${id},%`]);
-  }
+  // clean up test accounts (profiles, institutions, submissions, saved items and sessions go with them)
+  for (const id of created) await deleteAccount(id);
   console.log(`\n${passed} checks passed${process.exitCode ? ', some FAILED' : ''}. Test accounts removed.`);
-  server.close(); await pool.end();
-  process.exit(process.exitCode || 0);   // session-store timers would otherwise keep Node running
-})().catch(async (e) => { console.error('✗', e.message); process.exitCode = 1; await pool.end(); process.exit(1); });
+  server.close(); await disconnect();
+  process.exit(process.exitCode || 0);
+})().catch(async (e) => { console.error('✗', e.message); process.exitCode = 1; try { await disconnect(); } catch (_) { /* ignore */ } process.exit(1); });

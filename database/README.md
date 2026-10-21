@@ -5,7 +5,7 @@
 - the page(s) it was checked against (`scholarship_sources`)
 - a `last_verified` date
 
-There is no dummy data. Account tables (users, institutions, student profiles, saved scholarships, sessions) live in `accounts.sql`. They start **empty**, fill up as people register, and are **never deleted by a data sync**.
+There is no dummy data. Account collections (users, institutions, students, saved_scholarships, sessions) live in MongoDB and are defined in `server/models/`. They start **empty**, fill up as people register, and are **never deleted by a data sync**.
 
 > Amounts and deadlines change every cycle. A blank `deadline` means no fixed date has been announced, and `deadline_note` says when it usually opens. A blank amount means "fully funded" or "varies by course", and `amount_note` explains it. Always confirm on the official page.
 
@@ -22,27 +22,17 @@ There is no dummy data. Account tables (users, institutions, student profiles, s
 
 | File | What it is |
 |---|---|
-| `schema.sql` | Scholarship tables + catalogue views (rebuilt on every sync) |
-| `accounts.sql` | Account tables, admin views, matching procedure (safe to re-run; never deletes accounts) |
-| `seed.sql` | The 55 real scholarships, 44 providers, reference lists |
+| `db.json` | The scholarships (what `npm run db:content` loads into the MongoDB `scholarships` collection) |
+| `schema.sql`, `seed.sql`, `accounts.sql` | Old MySQL scripts. No longer used by the server; the generator still writes the first two |
 | `scholarships.csv` | Same scholarships as one flat sheet (opens in Excel) |
-| `db.json` | Whole database as JSON (`npx json-server database/db.json`) |
-| `sample_queries.sql` | Ready-made queries |
+| `sample_queries.sql` | Old MySQL example queries (unused) |
 | `generator/` | `real_records.py` holds every record. Edit it, then run `python3 build_real.py ../..` to regenerate everything, including `js/data.js` |
 
 ## Load it
 
 **Easiest:** `cd server && npm install && npm run db:init` (see the main README).
 
-**XAMPP / phpMyAdmin:** import `schema.sql`, then `seed.sql`, then `accounts.sql`.
-
-**Command line:**
-```bash
-mysql -u root -p < database/schema.sql
-mysql -u root -p < database/seed.sql
-mysql -u root -p < database/accounts.sql
-```
-To refresh scholarships later, re-run only `schema.sql` + `seed.sql` (or `npm run db:content`). Accounts are kept.
+To refresh scholarships later, run `npm run db:content` in `server/`. Accounts are kept. Open MongoDB Compass to browse the `scholarships`, `users`, `students` and other collections.
 
 ## How national and international fit together
 
@@ -61,7 +51,7 @@ Foreign awards keep their own currency (`amount_original`) plus an approximate r
 
 ## Pulling data from APIs (`fetch/`)
 
-`fetch/sync.py` pulls real scholarship data from three APIs, merges it with the hand-verified records, and rebuilds everything: SQL, CSV, JSON and `js/data.js`.
+`fetch/sync.py` pulls real scholarship data from three APIs, merges it with the hand-verified records, and rebuilds everything: CSV, JSON and `js/data.js`.
 
 | Source | API | Key? | Gives |
 |---|---|---|---|
@@ -74,7 +64,7 @@ cd database/fetch
 cp .env.example .env            # add KAGGLE_USERNAME, KAGGLE_KEY, DATAGOV_API_KEY
 python3 sync.py                 # fetch all three + rebuild (no pip installs needed)
 python3 sync.py --only wikidata # just one source
-python3 sync.py --apply         # also refresh MySQL (uses server/.env; accounts untouched)
+python3 sync.py --apply         # also refresh MongoDB (uses server/.env; accounts untouched)
 ```
 
 - Each record keeps `data_source` (`manual`, `wikidata` or `kaggle`), `external_id` (e.g. the Wikidata Q-id) and `fetched_at`.

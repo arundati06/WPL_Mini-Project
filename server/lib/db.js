@@ -1,34 +1,31 @@
-const mysql = require('mysql2/promise');
-const { db } = require('./config');
+const mongoose = require('mongoose');
+const { mongoUri } = require('./config');
 
-const pool = mysql.createPool({
-  ...db,
-  waitForConnections: true,
-  connectionLimit: 10,
-  dateStrings: true,       // return DATE/DATETIME as plain strings
-  charset: 'utf8mb4',
-});
+let connecting = null;
 
-/** Run a query and return rows. */
-async function q(sql, params = []) {
-  const [rows] = await pool.execute(sql, params);
-  return rows;
-}
-
-/** Run several statements in one transaction. fn receives a connection. */
-async function tx(fn) {
-  const conn = await pool.getConnection();
-  try {
-    await conn.beginTransaction();
-    const out = await fn(conn);
-    await conn.commit();
-    return out;
-  } catch (e) {
-    await conn.rollback();
-    throw e;
-  } finally {
-    conn.release();
+/** Connect once; calling it again returns the same connection. A failed attempt can be retried. */
+function connect() {
+  if (!connecting) {
+    connecting = mongoose.connect(mongoUri, { serverSelectionTimeoutMS: 5000 })
+      .catch((e) => { connecting = null; throw e; });
   }
+  return connecting;
 }
 
-module.exports = { pool, q, tx };
+/** Throws if MongoDB cannot be reached. */
+async function ping() {
+  if (mongoose.connection.readyState !== 1) throw new Error('not connected');
+  await mongoose.connection.db.command({ ping: 1 });
+}
+
+async function disconnect() {
+  connecting = null;
+  await mongoose.disconnect();
+}
+
+/** The link without the password, for log messages. */
+function safeUri() {
+  return mongoUri.replace(/\/\/([^:@/]+):[^@]*@/, '//$1:***@');
+}
+
+module.exports = { mongoose, connect, ping, disconnect, safeUri };

@@ -1,16 +1,12 @@
 /** /api/profile, /api/matches, /api/saved - for logged-in students */
 const express = require('express');
-const { q, pool } = require('../lib/db');
+const { StudentProfile, SavedScholarship, Scholarship } = require('../models');
 const { validator, LEVELS, GENDERS, SOCIAL } = require('../lib/validate');
 const { requireLogin } = require('../lib/auth');
+const { matchScholarships } = require('../lib/match');
 
 const router = express.Router();
 const student = requireLogin('student');
-
-const COLS = ['full_name', 'age', 'gender', 'state', 'city', 'domicile_state', 'social_category', 'education_level',
-  'institute_name', 'course', 'field_of_study', 'year_of_study', 'percentage', 'annual_family_income', 'income_bracket',
-  'needs_financial_aid', 'first_gen_learner', 'has_disability', 'sports_achievement', 'academic_achievement',
-  'extracurricular', 'parent_govt_employee', 'special_category'];
 
 // Save the eligibility form (student-form.html) to the account
 router.put('/profile', student, async (req, res, next) => {
@@ -25,39 +21,42 @@ router.put('/profile', student, async (req, res, next) => {
       .yesno('assist').yesno('firstGen').yesno('disability').yesno('sports').yesno('academic').yesno('extra').yesno('govt')
       .str('special', { required: false, max: 60 })
       .done();
-    const vals = [d.name, d.age, d.gender, d.state, d.city, d.domicile || d.state, d.category, d.level, d.institute, d.course,
-      d.field, d.year, d.score, d.income, d.incomeBracket, d.assist, d.firstGen, d.disability, d.sports, d.academic,
-      d.extra, d.govt, d.special || null];
-    await q(`INSERT INTO students (user_id, ${COLS.join(', ')}) VALUES (?, ${COLS.map(() => '?').join(', ')})
-             ON DUPLICATE KEY UPDATE ${COLS.map((c) => `${c} = VALUES(${c})`).join(', ')}`, [req.session.userId, ...vals]);
+    const profile = {
+      full_name: d.name, age: d.age, gender: d.gender, state: d.state, city: d.city, domicile_state: d.domicile || d.state,
+      social_category: d.category, education_level: d.level, institute_name: d.institute, course: d.course,
+      field_of_study: d.field, year_of_study: d.year, percentage: d.score, annual_family_income: d.income,
+      income_bracket: d.incomeBracket, needs_financial_aid: d.assist, first_gen_learner: d.firstGen,
+      has_disability: d.disability, sports_achievement: d.sports, academic_achievement: d.academic,
+      extracurricular: d.extra, parent_govt_employee: d.govt, special_category: d.special || null,
+      updated_at: new Date(),
+    };
+    // one profile per user: update it, or create it the first time
+    await StudentProfile.updateOne({ user: req.session.userId }, { $set: profile }, { upsert: true, runValidators: true });
     res.json({ ok: true });
   } catch (e) { next(e); }
 });
 
 router.get('/profile', student, async (req, res, next) => {
   try {
-    const [p] = await q('SELECT * FROM students WHERE user_id = ?', [req.session.userId]);
+    const p = await StudentProfile.findOne({ user: req.session.userId }).lean();
     res.json({ profile: p || null });
   } catch (e) { next(e); }
 });
 
-// Matches computed inside MySQL by the sp_match_scholarships stored procedure
+// Matches are worked out in Node (lib/match.js) from the saved profile and the scholarships collection
 router.get('/matches', student, async (req, res, next) => {
   try {
-    const [p] = await q('SELECT 1 FROM students WHERE user_id = ?', [req.session.userId]);
+    const p = await StudentProfile.findOne({ user: req.session.userId }).lean();
     if (!p) return res.json({ matches: [], needsProfile: true });
-    const [sets] = await pool.query('CALL sp_match_scholarships(?)', [req.session.userId]);
-    const rows = Array.isArray(sets[0]) ? sets[0] : sets;
-    res.json({ matches: rows.filter((r) => Number(r.eligible) === 1).map((r) => ({
-      id: r.scholarship_id, name: r.name, scope: r.scope, category: r.category, score: Number(r.match_score),
-      amount: r.amount_inr, amountNote: r.amount_note, deadline: r.deadline, deadlineNote: r.deadline_note, officialUrl: r.official_url })) });
+    const all = await Scholarship.find({ dataSource: 'manual' }).lean();
+    res.json({ matches: matchScholarships(p, all) });
   } catch (e) { next(e); }
 });
 
 // Saved scholarships (heart button)
 router.get('/saved', student, async (req, res, next) => {
   try {
-    const rows = await q('SELECT scholarship_id FROM saved_scholarships WHERE user_id = ? ORDER BY saved_at', [req.session.userId]);
+    const rows = await SavedScholarship.find({ user: req.session.userId }).sort({ saved_at: 1 }).lean();
     res.json({ ids: rows.map((r) => r.scholarship_id) });
   } catch (e) { next(e); }
 });
@@ -66,16 +65,16 @@ router.post('/saved/:id', student, async (req, res, next) => {
   try {
     const id = Number(req.params.id);
     if (!Number.isInteger(id) || id < 1) return res.status(400).json({ error: 'Bad scholarship id.' });
-    const [s] = await q('SELECT 1 FROM scholarships WHERE scholarship_id = ?', [id]);
-    if (!s) return res.status(404).json({ error: 'Scholarship not found.' });
-    await q('INSERT IGNORE INTO saved_scholarships (user_id, scholarship_id) VALUES (?, ?)', [req.session.userId, id]);
+    if (!(await Scholarship.exists({ scholarship_id: id }))) return res.status(404).json({ error: 'Scholarship not found.' });
+    await SavedScholarship.updateOne({ user: req.session.userId, scholarship_id: id },
+      { $setOnInsert: { saved_at: new Date() } }, { upsert: true });
     res.json({ ok: true });
   } catch (e) { next(e); }
 });
 
 router.delete('/saved/:id', student, async (req, res, next) => {
   try {
-    await q('DELETE FROM saved_scholarships WHERE user_id = ? AND scholarship_id = ?', [req.session.userId, Number(req.params.id)]);
+    await SavedScholarship.deleteOne({ user: req.session.userId, scholarship_id: Number(req.params.id) });
     res.json({ ok: true });
   } catch (e) { next(e); }
 });

@@ -6,9 +6,10 @@ const path = require('path');
 const fs = require('fs');
 const express = require('express');
 const session = require('express-session');
-const MySQLStore = require('express-mysql-session')(session);
 const config = require('./lib/config');
-const { pool } = require('./lib/db');
+const { connect, ping, safeUri } = require('./lib/db');
+const { MongoSessionStore } = require('./lib/sessionStore');
+const { User } = require('./models');
 
 const app = express();
 app.disable('x-powered-by');
@@ -22,11 +23,11 @@ app.use((req, res, next) => {
 
 app.use(express.json({ limit: '100kb' }));
 
-// Login sessions are stored in the MySQL `sessions` table
+// Login sessions are stored in the MongoDB `sessions` collection
 app.use(session({
   name: 'sc.sid',
   secret: config.sessionSecret,
-  store: new MySQLStore({ createDatabaseTable: false, clearExpired: true, checkExpirationInterval: 15 * 60 * 1000 }, pool),
+  store: new MongoSessionStore(),
   resave: false,
   saveUninitialized: false,
   cookie: { httpOnly: true, sameSite: 'lax', secure: process.env.NODE_ENV === 'production', maxAge: 7 * 24 * 3600 * 1000 },
@@ -47,7 +48,7 @@ app.use('/api', require('./routes/student'));
 app.use('/api/institution', require('./routes/institution'));
 app.use('/api/admin', require('./routes/admin'));
 app.get('/api/health', async (req, res) => {
-  try { await pool.query('SELECT 1'); res.json({ ok: true, db: 'connected' }); }
+  try { await ping(); res.json({ ok: true, db: 'connected' }); }
   catch (e) { res.status(503).json({ ok: false, db: 'not connected', error: e.message }); }
 });
 app.use('/api', (req, res) => res.status(404).json({ error: 'Not found.' }));
@@ -66,19 +67,34 @@ app.use((req, res) => res.status(404).send('Not found'));
 // Errors -> JSON
 app.use((err, req, res, next) => {   // eslint-disable-line no-unused-vars
   if (err.status === 400 && err.errors) return res.status(400).json({ error: err.message, errors: err.errors });
-  if (err.code === 'ER_DUP_ENTRY') return res.status(409).json({ error: 'That already exists.' });
-  if (err.code === 'ECONNREFUSED' || err.code === 'ER_ACCESS_DENIED_ERROR' || err.code === 'ER_BAD_DB_ERROR') {
-    return res.status(503).json({ error: 'Database is not available. Is MySQL running and set up (npm run db:init)?' });
+  if (err.code === 11000) return res.status(409).json({ error: 'That already exists.' });      // duplicate key
+  if (['MongooseServerSelectionError', 'MongoServerSelectionError', 'MongoNetworkError'].includes(err.name)
+      || /buffering timed out/i.test(err.message || '')) {
+    return res.status(503).json({ error: 'Database is not available. Is MongoDB running (and did you run npm run db:init)?' });
   }
   console.error(err);
   res.status(err.status || 500).json({ error: err.status ? err.message : 'Something went wrong on the server.' });
 });
 
+/** Keep trying to reach MongoDB, so the site recovers if it was started first. */
+async function connectWithRetry() {
+  for (;;) {
+    try { await connect(); return; }
+    catch (e) {
+      console.log(`⚠ Database not ready: ${e.message}\n  Start MongoDB (Compass connects to the same one). Trying again in 5 seconds...`);
+      await new Promise((r) => setTimeout(r, 5000));
+    }
+  }
+}
+
 if (require.main === module) {
   app.listen(config.port, () => {
     console.log(`ScholarConnect running at http://localhost:${config.port}`);
-    pool.query('SELECT COUNT(*) AS n FROM users').then(([[r]]) => console.log(`Database connected - ${r.n} registered users.`))
-      .catch((e) => console.log(`⚠ Database not ready: ${e.message}\n  Start MySQL and run: npm run db:init`));
+    console.log(`Connecting to MongoDB at ${safeUri()} ...`);
+    connectWithRetry()
+      .then(() => User.countDocuments())
+      .then((n) => console.log(`Database connected - ${n} registered users.`))
+      .catch((e) => console.log(`⚠ ${e.message}`));
   });
 }
 
