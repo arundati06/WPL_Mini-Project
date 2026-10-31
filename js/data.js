@@ -3168,7 +3168,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10002,
@@ -3213,7 +3213,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10003,
@@ -3258,7 +3258,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10004,
@@ -3303,7 +3303,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10005,
@@ -3348,7 +3348,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10006,
@@ -3393,7 +3393,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10007,
@@ -3438,7 +3438,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10008,
@@ -3483,7 +3483,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10009,
@@ -3528,7 +3528,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10010,
@@ -3573,7 +3573,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10011,
@@ -3618,7 +3618,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10012,
@@ -3663,7 +3663,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10013,
@@ -3708,7 +3708,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10014,
@@ -3753,7 +3753,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10015,
@@ -3798,7 +3798,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10016,
@@ -3843,7 +3843,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10017,
@@ -3888,7 +3888,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10018,
@@ -3933,7 +3933,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10019,
@@ -3978,7 +3978,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10020,
@@ -4023,7 +4023,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10021,
@@ -4068,7 +4068,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10022,
@@ -4113,7 +4113,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10023,
@@ -4158,7 +4158,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10024,
@@ -4203,7 +4203,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10025,
@@ -4248,7 +4248,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10026,
@@ -4293,7 +4293,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10027,
@@ -4338,7 +4338,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10028,
@@ -4383,7 +4383,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10029,
@@ -4428,7 +4428,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10030,
@@ -4473,7 +4473,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10031,
@@ -4518,7 +4518,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10032,
@@ -4563,7 +4563,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10033,
@@ -4608,7 +4608,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10034,
@@ -4653,7 +4653,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10035,
@@ -4698,7 +4698,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10036,
@@ -4743,7 +4743,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10037,
@@ -4788,7 +4788,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10038,
@@ -4833,7 +4833,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10039,
@@ -4878,7 +4878,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10040,
@@ -4923,7 +4923,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10041,
@@ -4968,7 +4968,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10042,
@@ -5013,7 +5013,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10043,
@@ -5058,7 +5058,97 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10045,
+    "name": "Hemmung der Interferon-vermittelten Virusabwehr durch das E6-Protein des humanen Papillomvirus 16",
+    "provider": "German Research Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Research project",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116073361",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116073361"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10092,
+    "name": "Heisenberg scholarship",
+    "provider": "German Research Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship of the Heisenberg Programme",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/heisenberg",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q62102902"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10046,
@@ -5103,7 +5193,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10047,
@@ -5148,7 +5238,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10048,
@@ -5193,7 +5283,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10049,
@@ -5238,7 +5328,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10050,
@@ -5283,7 +5373,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10051,
@@ -5328,7 +5418,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10052,
@@ -5373,7 +5463,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10053,
@@ -5418,7 +5508,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10054,
@@ -5463,7 +5553,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10055,
@@ -5508,7 +5598,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10056,
@@ -5553,7 +5643,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10057,
@@ -5598,7 +5688,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10058,
@@ -5643,7 +5733,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10059,
@@ -5688,7 +5778,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10060,
@@ -5733,7 +5823,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10061,
@@ -5778,7 +5868,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10062,
@@ -5823,7 +5913,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10063,
@@ -5868,7 +5958,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10064,
@@ -5913,7 +6003,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10065,
@@ -5958,7 +6048,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10066,
@@ -6003,7 +6093,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10067,
@@ -6048,7 +6138,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10068,
@@ -6094,7 +6184,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10069,
@@ -6139,7 +6229,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10070,
@@ -6185,7 +6275,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10071,
@@ -6230,7 +6320,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10072,
@@ -6275,7 +6365,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10073,
@@ -6320,7 +6410,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10074,
@@ -6365,7 +6455,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10075,
@@ -6410,7 +6500,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10076,
@@ -6455,7 +6545,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10077,
@@ -6500,7 +6590,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10078,
@@ -6545,7 +6635,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10079,
@@ -6590,7 +6680,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10080,
@@ -6635,7 +6725,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10081,
@@ -6680,7 +6770,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10082,
@@ -6725,7 +6815,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10083,
@@ -6770,7 +6860,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10084,
@@ -6815,7 +6905,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10085,
@@ -6860,7 +6950,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10086,
@@ -6905,7 +6995,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10087,
@@ -6950,7 +7040,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10088,
@@ -6995,7 +7085,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10089,
@@ -7040,7 +7130,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10090,
@@ -7085,7 +7175,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10091,
@@ -7130,97 +7220,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10044,
-    "name": "Sir George Elliot Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "New Zealand scholarship Established 1999.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.elliottrust.org.nz/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q115683866"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10092,
-    "name": "Heisenberg scholarship",
-    "provider": "German Research Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship of the Heisenberg Programme",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/heisenberg",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q62102902"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10093,
@@ -7265,7 +7265,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10094,
@@ -7310,7 +7310,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10095,
@@ -7355,7 +7355,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10096,
@@ -7400,7 +7400,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10097,
@@ -7445,7 +7445,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10098,
@@ -7490,7 +7490,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10099,
@@ -7535,7 +7535,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10100,
@@ -7580,7 +7580,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10101,
@@ -7627,7 +7627,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10102,
@@ -7672,7 +7672,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10103,
@@ -7717,7 +7717,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10104,
@@ -7762,7 +7762,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10105,
@@ -7807,7 +7807,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10106,
@@ -7852,7 +7852,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10107,
@@ -7897,7 +7897,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10108,
@@ -7942,7 +7942,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10109,
@@ -7987,7 +7987,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10110,
@@ -8032,7 +8032,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10111,
@@ -8077,7 +8077,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10112,
@@ -8122,7 +8122,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10113,
@@ -8167,7 +8167,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10114,
@@ -8212,7 +8212,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10115,
@@ -8257,7 +8257,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10116,
@@ -8302,7 +8302,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10117,
@@ -8347,7 +8347,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10118,
@@ -8392,7 +8392,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10119,
@@ -8437,7 +8437,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10120,
@@ -8482,7 +8482,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10121,
@@ -8527,7 +8527,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10122,
@@ -8572,7 +8572,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10123,
@@ -8617,7 +8617,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10124,
@@ -8662,7 +8662,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10125,
@@ -8707,7 +8707,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10508,
@@ -8752,16 +8752,16 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
-    "id": 10045,
-    "name": "Hemmung der Interferon-vermittelten Virusabwehr durch das E6-Protein des humanen Papillomvirus 16",
-    "provider": "German Research Foundation",
-    "type": "Foundation",
+    "id": 10126,
+    "name": "Shirtcliffe Fellowship",
+    "provider": "Universities New Zealand",
+    "type": "Other",
     "scope": "International",
     "hostCountries": [
-      "Not specified"
+      "New Zealand"
     ],
     "currency": "INR",
     "amountOriginal": null,
@@ -8788,16 +8788,61 @@ const SCHOLARSHIPS = [
     "specialEligibility": "",
     "requires": null,
     "gender": "All",
-    "description": "Research project",
+    "description": "New Zealand award for doctoral study in New Zealand or another Commonwealth country Established 1935.",
     "documents": [],
     "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116073361",
+    "officialUrl": "https://www.wikidata.org/wiki/Q115395883",
     "sources": [
-      "https://www.wikidata.org/wiki/Q116073361"
+      "https://www.wikidata.org/wiki/Q115395883"
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10044,
+    "name": "Sir George Elliot Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "New Zealand scholarship Established 1999.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.elliottrust.org.nz/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q115683866"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10127,
@@ -8842,7 +8887,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10128,
@@ -8887,7 +8932,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10129,
@@ -8932,7 +8977,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10132,
@@ -8977,7 +9022,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10188,
@@ -9022,7 +9067,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10189,
@@ -9067,7 +9112,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10190,
@@ -9112,7 +9157,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10191,
@@ -9157,7 +9202,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10192,
@@ -9202,7 +9247,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10193,
@@ -9247,7 +9292,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10194,
@@ -9292,7 +9337,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10195,
@@ -9337,7 +9382,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10196,
@@ -9382,7 +9427,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10197,
@@ -9427,7 +9472,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10198,
@@ -9472,7 +9517,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10199,
@@ -9517,7 +9562,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10200,
@@ -9562,7 +9607,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10201,
@@ -9607,7 +9652,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10473,
@@ -9652,52 +9697,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10133,
-    "name": "Louis Forman RSM Fellowship Award",
-    "provider": "Royal Society of Medicine",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Dermatology award in the UK",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116133874",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q116133874"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10134,
@@ -9742,7 +9742,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10135,
@@ -9787,7 +9787,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10136,
@@ -9832,7 +9832,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10137,
@@ -9877,7 +9877,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10138,
@@ -9922,7 +9922,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10139,
@@ -9967,7 +9967,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10140,
@@ -10012,7 +10012,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10141,
@@ -10057,7 +10057,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10142,
@@ -10102,7 +10102,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10143,
@@ -10147,7 +10147,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10144,
@@ -10192,7 +10192,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10145,
@@ -10237,7 +10237,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10146,
@@ -10282,7 +10282,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10147,
@@ -10327,7 +10327,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10148,
@@ -10372,7 +10372,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10149,
@@ -10417,7 +10417,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10150,
@@ -10462,7 +10462,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10151,
@@ -10507,7 +10507,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10152,
@@ -10552,7 +10552,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10153,
@@ -10597,7 +10597,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10154,
@@ -10642,7 +10642,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10155,
@@ -10687,7 +10687,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10156,
@@ -10732,7 +10732,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10157,
@@ -10777,7 +10777,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10158,
@@ -10822,7 +10822,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10159,
@@ -10867,7 +10867,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10160,
@@ -10912,7 +10912,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10161,
@@ -10957,7 +10957,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10162,
@@ -11002,7 +11002,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10163,
@@ -11047,7 +11047,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10164,
@@ -11092,7 +11092,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10165,
@@ -11137,7 +11137,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10166,
@@ -11182,7 +11182,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10167,
@@ -11227,7 +11227,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10168,
@@ -11272,7 +11272,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10169,
@@ -11317,7 +11317,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10170,
@@ -11362,7 +11362,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10171,
@@ -11407,7 +11407,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10172,
@@ -11452,7 +11452,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10173,
@@ -11497,7 +11497,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10174,
@@ -11542,7 +11542,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10175,
@@ -11587,7 +11587,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10176,
@@ -11632,7 +11632,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10177,
@@ -11677,7 +11677,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10178,
@@ -11722,7 +11722,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10179,
@@ -11767,7 +11767,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10180,
@@ -11812,7 +11812,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10181,
@@ -11857,7 +11857,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10182,
@@ -11902,7 +11902,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10183,
@@ -11947,7 +11947,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10184,
@@ -11992,7 +11992,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10185,
@@ -12037,7 +12037,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10186,
@@ -12082,7 +12082,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10187,
@@ -12127,7 +12127,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10470,
@@ -12172,7 +12172,52 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10133,
+    "name": "Louis Forman RSM Fellowship Award",
+    "provider": "Royal Society of Medicine",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Dermatology award in the UK",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116133874",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116133874"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10219,
@@ -12217,7 +12262,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10220,
@@ -12262,7 +12307,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10221,
@@ -12307,7 +12352,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10222,
@@ -12352,7 +12397,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10223,
@@ -12397,7 +12442,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10224,
@@ -12442,7 +12487,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10225,
@@ -12487,7 +12532,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10226,
@@ -12532,7 +12577,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10227,
@@ -12577,7 +12622,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10228,
@@ -12622,7 +12667,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10229,
@@ -12667,7 +12712,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10230,
@@ -12712,7 +12757,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10231,
@@ -12757,7 +12802,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10232,
@@ -12802,7 +12847,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10233,
@@ -12847,7 +12892,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10234,
@@ -12892,7 +12937,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10235,
@@ -12937,7 +12982,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10236,
@@ -12982,7 +13027,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10237,
@@ -13027,7 +13072,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10238,
@@ -13072,7 +13117,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10239,
@@ -13117,7 +13162,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10240,
@@ -13162,7 +13207,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10241,
@@ -13207,7 +13252,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10242,
@@ -13252,7 +13297,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10243,
@@ -13297,7 +13342,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10244,
@@ -13342,7 +13387,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10245,
@@ -13387,7 +13432,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10246,
@@ -13432,7 +13477,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10247,
@@ -13477,7 +13522,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10248,
@@ -13522,7 +13567,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10249,
@@ -13567,7 +13612,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10250,
@@ -13612,7 +13657,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10251,
@@ -13657,7 +13702,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10252,
@@ -13702,7 +13747,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10253,
@@ -13747,7 +13792,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10254,
@@ -13792,7 +13837,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10255,
@@ -13837,7 +13882,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10256,
@@ -13882,7 +13927,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10257,
@@ -13927,7 +13972,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10258,
@@ -13972,7 +14017,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10259,
@@ -14017,7 +14062,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10260,
@@ -14062,7 +14107,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10261,
@@ -14107,7 +14152,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10262,
@@ -14152,7 +14197,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10263,
@@ -14198,7 +14243,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10264,
@@ -14243,7 +14288,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10265,
@@ -14288,7 +14333,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10266,
@@ -14333,7 +14378,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10267,
@@ -14378,7 +14423,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10268,
@@ -14423,7 +14468,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10269,
@@ -14468,7 +14513,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10270,
@@ -14513,7 +14558,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10271,
@@ -14558,7 +14603,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10272,
@@ -14603,7 +14648,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10273,
@@ -14648,7 +14693,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10274,
@@ -14693,7 +14738,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10275,
@@ -14738,7 +14783,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10276,
@@ -14783,7 +14828,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10277,
@@ -14828,7 +14873,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10278,
@@ -14873,7 +14918,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10279,
@@ -14918,7 +14963,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10280,
@@ -14963,7 +15008,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10281,
@@ -15008,7 +15053,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10282,
@@ -15053,7 +15098,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10283,
@@ -15098,7 +15143,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10284,
@@ -15143,7 +15188,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10285,
@@ -15188,7 +15233,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10286,
@@ -15233,7 +15278,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10287,
@@ -15278,7 +15323,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10288,
@@ -15323,7 +15368,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10503,
@@ -15368,7 +15413,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10504,
@@ -15413,7 +15458,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10289,
@@ -15458,7 +15503,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10290,
@@ -15503,7 +15548,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10291,
@@ -15548,7 +15593,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10292,
@@ -15593,7 +15638,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10293,
@@ -15638,7 +15683,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10294,
@@ -15683,7 +15728,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10295,
@@ -15728,7 +15773,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10296,
@@ -15773,7 +15818,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10297,
@@ -15818,7 +15863,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10298,
@@ -15863,7 +15908,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10299,
@@ -15908,7 +15953,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10300,
@@ -15953,7 +15998,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10301,
@@ -15998,7 +16043,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10302,
@@ -16043,7 +16088,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10303,
@@ -16088,7 +16133,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10304,
@@ -16133,7 +16178,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10305,
@@ -16178,7 +16223,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10306,
@@ -16223,7 +16268,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10307,
@@ -16268,7 +16313,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10308,
@@ -16313,7 +16358,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10309,
@@ -16358,7 +16403,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10310,
@@ -16403,7 +16448,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10381,
@@ -16448,7 +16493,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10382,
@@ -16493,7 +16538,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10130,
@@ -16538,7 +16583,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10131,
@@ -16583,7 +16628,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10383,
@@ -16628,7 +16673,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10384,
@@ -16673,7 +16718,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10385,
@@ -16718,7 +16763,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10386,
@@ -16763,7 +16808,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10387,
@@ -16808,7 +16853,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10388,
@@ -16853,7 +16898,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10389,
@@ -16898,7 +16943,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10390,
@@ -16943,7 +16988,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10391,
@@ -16988,7 +17033,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10392,
@@ -17033,7 +17078,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10393,
@@ -17078,7 +17123,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10394,
@@ -17123,7 +17168,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10395,
@@ -17168,7 +17213,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10396,
@@ -17213,7 +17258,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10397,
@@ -17258,7 +17303,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10398,
@@ -17303,7 +17348,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10399,
@@ -17348,7 +17393,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10400,
@@ -17393,7 +17438,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10401,
@@ -17438,7 +17483,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10402,
@@ -17483,7 +17528,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10403,
@@ -17528,7 +17573,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10404,
@@ -17573,7 +17618,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10405,
@@ -17618,7 +17663,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10406,
@@ -17663,7 +17708,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10407,
@@ -17708,7 +17753,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10408,
@@ -17753,7 +17798,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10409,
@@ -17798,7 +17843,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10410,
@@ -17843,7 +17888,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10411,
@@ -17888,7 +17933,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10412,
@@ -17933,7 +17978,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10413,
@@ -17978,7 +18023,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10414,
@@ -18023,7 +18068,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10415,
@@ -18068,7 +18113,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10416,
@@ -18113,7 +18158,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10417,
@@ -18158,7 +18203,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10418,
@@ -18203,7 +18248,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10419,
@@ -18248,7 +18293,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10420,
@@ -18293,7 +18338,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10421,
@@ -18338,7 +18383,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10422,
@@ -18383,7 +18428,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10423,
@@ -18428,7 +18473,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10424,
@@ -18473,7 +18518,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10425,
@@ -18518,7 +18563,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10426,
@@ -18563,7 +18608,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10427,
@@ -18608,7 +18653,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10428,
@@ -18653,7 +18698,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10429,
@@ -18698,7 +18743,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10430,
@@ -18743,7 +18788,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10431,
@@ -18788,7 +18833,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10432,
@@ -18833,7 +18878,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10433,
@@ -18878,7 +18923,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10434,
@@ -18923,7 +18968,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10435,
@@ -18968,52 +19013,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10126,
-    "name": "Shirtcliffe Fellowship",
-    "provider": "Universities New Zealand",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "New Zealand award for doctoral study in New Zealand or another Commonwealth country Established 1935.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q115395883",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q115395883"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10436,
@@ -19058,7 +19058,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10437,
@@ -19103,7 +19103,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10202,
@@ -19148,7 +19148,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10203,
@@ -19193,7 +19193,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10204,
@@ -19238,7 +19238,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10205,
@@ -19283,7 +19283,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10206,
@@ -19328,7 +19328,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10207,
@@ -19373,7 +19373,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10208,
@@ -19418,7 +19418,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10209,
@@ -19463,7 +19463,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10210,
@@ -19508,7 +19508,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10211,
@@ -19553,7 +19553,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10212,
@@ -19598,7 +19598,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10213,
@@ -19643,7 +19643,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10214,
@@ -19688,7 +19688,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10215,
@@ -19733,7 +19733,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10216,
@@ -19778,7 +19778,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10217,
@@ -19823,7 +19823,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10218,
@@ -19868,7 +19868,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10315,
@@ -19913,7 +19913,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10316,
@@ -19958,7 +19958,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10317,
@@ -20003,7 +20003,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10318,
@@ -20048,7 +20048,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10319,
@@ -20093,7 +20093,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10320,
@@ -20138,7 +20138,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10321,
@@ -20183,7 +20183,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10322,
@@ -20228,7 +20228,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10323,
@@ -20273,7 +20273,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10324,
@@ -20318,7 +20318,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10325,
@@ -20363,7 +20363,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10326,
@@ -20408,7 +20408,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10327,
@@ -20453,7 +20453,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10328,
@@ -20498,7 +20498,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10329,
@@ -20543,7 +20543,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10330,
@@ -20588,7 +20588,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10331,
@@ -20633,7 +20633,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10332,
@@ -20678,7 +20678,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10333,
@@ -20723,7 +20723,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10334,
@@ -20768,7 +20768,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10335,
@@ -20813,7 +20813,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10336,
@@ -20858,7 +20858,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10337,
@@ -20903,7 +20903,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10338,
@@ -20948,7 +20948,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10339,
@@ -20993,7 +20993,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10340,
@@ -21038,7 +21038,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10341,
@@ -21083,7 +21083,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10342,
@@ -21128,7 +21128,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10343,
@@ -21173,7 +21173,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10344,
@@ -21218,7 +21218,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10345,
@@ -21263,7 +21263,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10346,
@@ -21308,7 +21308,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10347,
@@ -21353,7 +21353,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10348,
@@ -21398,7 +21398,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10349,
@@ -21443,7 +21443,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10350,
@@ -21488,7 +21488,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10351,
@@ -21533,7 +21533,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10352,
@@ -21578,7 +21578,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10353,
@@ -21623,7 +21623,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10354,
@@ -21668,7 +21668,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10355,
@@ -21713,7 +21713,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10356,
@@ -21758,7 +21758,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10357,
@@ -21803,7 +21803,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10358,
@@ -21848,7 +21848,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10359,
@@ -21893,7 +21893,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10360,
@@ -21938,7 +21938,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10361,
@@ -21983,7 +21983,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10362,
@@ -22028,7 +22028,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10363,
@@ -22073,7 +22073,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10364,
@@ -22118,7 +22118,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10365,
@@ -22163,7 +22163,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10366,
@@ -22208,7 +22208,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10367,
@@ -22253,7 +22253,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10368,
@@ -22298,7 +22298,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10369,
@@ -22343,7 +22343,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10370,
@@ -22388,7 +22388,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10371,
@@ -22433,7 +22433,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10372,
@@ -22478,7 +22478,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10373,
@@ -22523,7 +22523,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10374,
@@ -22568,7 +22568,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10375,
@@ -22613,7 +22613,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10376,
@@ -22658,7 +22658,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10377,
@@ -22703,7 +22703,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10378,
@@ -22748,7 +22748,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10379,
@@ -22793,7 +22793,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10438,
@@ -22838,7 +22838,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10439,
@@ -22883,7 +22883,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10440,
@@ -22928,7 +22928,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10441,
@@ -22973,7 +22973,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10442,
@@ -23018,7 +23018,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10443,
@@ -23063,7 +23063,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10444,
@@ -23108,7 +23108,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10445,
@@ -23153,7 +23153,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10446,
@@ -23198,7 +23198,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10447,
@@ -23243,7 +23243,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10448,
@@ -23288,7 +23288,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10449,
@@ -23333,7 +23333,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10450,
@@ -23378,7 +23378,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10451,
@@ -23423,7 +23423,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10452,
@@ -23468,7 +23468,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10453,
@@ -23513,7 +23513,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10454,
@@ -23558,7 +23558,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10455,
@@ -23603,7 +23603,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10456,
@@ -23648,772 +23648,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10458,
-    "name": "RRF Helmerich International Fellowship",
-    "provider": "Retina Research Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Ophthalmology subspecialty training fellowship funded by the Retina Research Foundation",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://retinaresearchfnd.org/research-programs/international-fellowships/icohelmerich/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141438317"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10459,
-    "name": "Squire Scholarship",
-    "provider": "University of Cambridge",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship of the Faculty of Law, University of Cambridge",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141451420",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141451420"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10460,
-    "name": "Pembroke College Foundation Scholarship",
-    "provider": "Pembroke College",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship of Pembroke College, University of Cambridge",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141451423",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141451423"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10461,
-    "name": "Pembroke College Scholarship",
-    "provider": "Pembroke College",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "College scholarship of Pembroke College, University of Cambridge",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141451424",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141451424"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10462,
-    "name": "Henry Arthur Thomas Travel Exhibition",
-    "provider": "University of Cambridge",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Travel award of the University of Cambridge",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141451430",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141451430"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10463,
-    "name": "Limburg Beeldende Kunst Stipendium",
-    "provider": "Jan van Eyck Academie",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Limburg Art Stipend",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://janvaneyck.nl/residency/fellowships-and-other-funded-residencies",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141491233"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10464,
-    "name": "Mahammadali Ibrahimli Scholarship Program (MISP)",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Azerbaijan"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "A scholarship program supporting the education of Azerbaijanis around the world",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://mischolarship.com/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141612016"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10465,
-    "name": "Lester B. Pearson International Scholarship",
-    "provider": "University of Toronto",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Canada"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International undergraduate award for students to study at the University of Toronto Established 2017.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://future.utoronto.ca/pearson-scholarships",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141634147"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10466,
-    "name": "Robert Noyce Teacher Scholarship",
-    "provider": "National Science Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "National Science Foundation scholarship for future STEM teachers",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141635989",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141635989"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10467,
-    "name": "Encode: AI for Science Fellowship",
-    "provider": "Advanced Research & Invention Agency",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "UK research fellowship pairing AI researchers with scientists, funded by ARIA and delivered by Pillar VC",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://encode.pillar.vc/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141672105"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10474,
-    "name": "The Scholarship From Hell",
-    "provider": "Horror Writers Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Granted by the Horror Writers Association",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122610052"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10457,
-    "name": "ARVO Foundation Collaborative Research Fellowship",
-    "provider": "ARVO Foundation for Eye Research",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International ophthalmic research fellowship established in 2009 by the ARVO Foundation Established 2009.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141438316",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141438316"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10471,
-    "name": "Austrian State Scholarship for Fine Arts, Photography and Media Art",
-    "provider": "Federal Ministry for Arts, Culture, the Civil Service and Sport",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Austria"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Austrian federal scholarship for visual artists",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.bmwkms.gv.at/themen/kunst-und-kultur/sparten/bildende-kunst-design-mode-fotografie-medienkunst/foerderungen/stipendien.html",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141276263"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10472,
-    "name": "Plácido Domingo Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Mexico"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship for young Mexican opera singers awarded by SIVAM",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141347667",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141347667"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10469,
-    "name": "Robert Harvey Honor Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship for students at Vanderbilt University from Arkansas Established 2000.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141401096",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141401096"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10313,
-    "name": "Hazel Rowley Literary Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Australia"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Australian literary award Established 2011.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "http://hazelrowley.com",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q104911003"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10314,
-    "name": "MBIE Science Whitinga Fellowship",
-    "provider": "Ministry of Business, Innovation and Employment",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Science award in New Zealand Established 2021.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/mbie-science-whitinga-fellowship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q105090765"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10468,
@@ -24458,7 +23693,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10507,
@@ -24503,7 +23738,772 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10458,
+    "name": "RRF Helmerich International Fellowship",
+    "provider": "Retina Research Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Ophthalmology subspecialty training fellowship funded by the Retina Research Foundation",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://retinaresearchfnd.org/research-programs/international-fellowships/icohelmerich/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141438317"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10459,
+    "name": "Squire Scholarship",
+    "provider": "University of Cambridge",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship of the Faculty of Law, University of Cambridge",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141451420",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141451420"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10460,
+    "name": "Pembroke College Foundation Scholarship",
+    "provider": "Pembroke College",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship of Pembroke College, University of Cambridge",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141451423",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141451423"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10461,
+    "name": "Pembroke College Scholarship",
+    "provider": "Pembroke College",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "College scholarship of Pembroke College, University of Cambridge",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141451424",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141451424"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10462,
+    "name": "Henry Arthur Thomas Travel Exhibition",
+    "provider": "University of Cambridge",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Travel award of the University of Cambridge",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141451430",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141451430"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10463,
+    "name": "Limburg Beeldende Kunst Stipendium",
+    "provider": "Jan van Eyck Academie",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Limburg Art Stipend",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://janvaneyck.nl/residency/fellowships-and-other-funded-residencies",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141491233"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10464,
+    "name": "Mahammadali Ibrahimli Scholarship Program (MISP)",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Azerbaijan"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "A scholarship program supporting the education of Azerbaijanis around the world",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://mischolarship.com/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141612016"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10465,
+    "name": "Lester B. Pearson International Scholarship",
+    "provider": "University of Toronto",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Canada"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International undergraduate award for students to study at the University of Toronto Established 2017.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://future.utoronto.ca/pearson-scholarships",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141634147"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10466,
+    "name": "Robert Noyce Teacher Scholarship",
+    "provider": "National Science Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "National Science Foundation scholarship for future STEM teachers",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141635989",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141635989"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10467,
+    "name": "Encode: AI for Science Fellowship",
+    "provider": "Advanced Research & Invention Agency",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "UK research fellowship pairing AI researchers with scientists, funded by ARIA and delivered by Pillar VC",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://encode.pillar.vc/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141672105"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10474,
+    "name": "The Scholarship From Hell",
+    "provider": "Horror Writers Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Granted by the Horror Writers Association",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122610052"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10457,
+    "name": "ARVO Foundation Collaborative Research Fellowship",
+    "provider": "ARVO Foundation for Eye Research",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International ophthalmic research fellowship established in 2009 by the ARVO Foundation Established 2009.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141438316",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141438316"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10471,
+    "name": "Austrian State Scholarship for Fine Arts, Photography and Media Art",
+    "provider": "Federal Ministry for Arts, Culture, the Civil Service and Sport",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Austria"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Austrian federal scholarship for visual artists",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.bmwkms.gv.at/themen/kunst-und-kultur/sparten/bildende-kunst-design-mode-fotografie-medienkunst/foerderungen/stipendien.html",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141276263"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10472,
+    "name": "Plácido Domingo Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Mexico"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship for young Mexican opera singers awarded by SIVAM",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141347667",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141347667"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10469,
+    "name": "Robert Harvey Honor Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship for students at Vanderbilt University from Arkansas Established 2000.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141401096",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141401096"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10313,
+    "name": "Hazel Rowley Literary Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Australia"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Australian literary award Established 2011.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "http://hazelrowley.com",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q104911003"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10314,
+    "name": "MBIE Science Whitinga Fellowship",
+    "provider": "Ministry of Business, Innovation and Employment",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Science award in New Zealand Established 2021.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/mbie-science-whitinga-fellowship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q105090765"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10311,
@@ -24548,7 +24548,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10312,
@@ -24593,1312 +24593,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10475,
-    "name": "IBM Fellow",
-    "provider": "IBM",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q45924",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q45924"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10506,
-    "name": "Echoing Green Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q128810958",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q128810958"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10476,
-    "name": "American-Scandinavian Foundation Fellowship",
-    "provider": "The American-Scandinavian Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Awarded by American-Scandinavian Foundation",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q129167488",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q129167488"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10477,
-    "name": "Yaddo Fellowship",
-    "provider": "Yaddo",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Artist residency",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q130235652",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q130235652"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10478,
-    "name": "Beatriu de Pinós Fellow",
-    "provider": "Agency for Administration of University and Research",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scientific award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q130248610",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q130248610"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10479,
-    "name": "Wilder Green Fellowship in Architecture",
-    "provider": "MacDowell",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship established in 2006 Established 2006.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.macdowell.org/sponsored-fellowships/wilder-green-fellowship",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q130376092"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10480,
-    "name": "Sargeson Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "A New Zealand literary award Established 1987.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q131451286",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q131451286"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10481,
-    "name": "Maxwell Fraser Fellowship",
-    "provider": "National Library of Wales",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q131764321",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q131764321"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10482,
-    "name": "Cullman Fellowship",
-    "provider": "Dorothy and Lewis B. Cullman Center for Scholars and Writers",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International fellowship program at the Dorothy and Lewis B. Cullman Center for Scholars and Writers",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.nypl.org/about/fellowships-institutes/cullman-center-scholars-writers/fellowships",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q132156951"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10483,
-    "name": "Medical Research Council (MRC) Doctoral Training Award",
-    "provider": "Medical Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "PhD scholarship awarded by the UK Medical Research Council",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q133818377",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q133818377"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10484,
-    "name": "IBET Momentum Fellowship",
-    "provider": "University of Toronto",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Canada"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship about black engineering Established 2021.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q133847789",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q133847789"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10485,
-    "name": "Doris Duke Fellowship for the Promotion of Child Well-Being",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Doctoral fellowship awarded by the Doris Duke Charitable Foundation for research on child well-being and policy",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q133934781",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q133934781"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10486,
-    "name": "AWARD fellowship",
-    "provider": "African Women in Agricultural Research and Development",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship from the African Women in Agricultural Research and Development",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q134374814",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q134374814"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10487,
-    "name": "Fellowship of the Orthodontic Technicians Association",
-    "provider": "Orthodontic Technicians Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Awarded in order to recognise a member or past member of the Orthodontic Technicians Association for their years of service to orthodontic technology or for their distinguished ability or originality in their field.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q134893066",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q134893066"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10488,
-    "name": "Charlemagne Prize Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship awarded by the Charlemagne Prize Academy for research and academic work",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q134988651",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q134988651"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10489,
-    "name": "Leonard A. Lauder Fellowship in Modern Art at the Metropolitan Museum of Art",
-    "provider": "Metropolitan Museum of Art",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship at the Metropolitan Museum's Leonard A. Lauder Research Center for Modern Art Established 2013.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q135109961",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135109961"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10490,
-    "name": "Faculty Leadership Fellow",
-    "provider": "University of Oklahoma Health Sciences Center",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship for early-career faculty at the University of Oklahoma Health Sciences Center",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://facdev.ouhsc.edu/Certificates-Fellowships/Faculty-Leadership-Program-FLP",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135117304"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10491,
-    "name": "Cultural Vibrancy Fellowship Grant",
-    "provider": "Aspen",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Arts fellowship and grant program awarded by the City of Aspen Established 2025.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://aspen.gov/1696/Cultural-Vibrancy-Fellowship",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135552969"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10492,
-    "name": "Aspen Art Museum Artist Fellowship",
-    "provider": "Aspen Art Museum",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Arts fellowship awarded by the Aspen Art Museum to regional artists Established 2018.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://aspenartmuseum.org/education/artist-fellowship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135553205"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10493,
-    "name": "Policy Leader Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Italy"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship programme at the European University Institute’s School of Transnational Governance, offering early- and mid-career professionals in policy and international affairs a residential training and networking opportunity in Florence. Established 2017.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.eui.eu/apply?id=policy-leader-fellowship",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135878658"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10494,
-    "name": "NIH F32 NRSA Postdoctoral Fellowship 2025",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Postdoctoral fellowship awarded by the NIH F32 NRSA program",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q135915997",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135915997"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10495,
-    "name": "AAMC Foundation Engagement Program for International Curators (EPIC) Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship program for international curators organised by the Association of Art Museum Curators Foundation Established 2018.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.artcurators.org/page/EPIC",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q136399778"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10496,
-    "name": "Cambridge Outstanding International Fellowship Award",
-    "provider": "University of Cambridge",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International academic fellowship awarded by the University of Cambridge recognizing outstanding academic achievements",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.cambridgeinternational.org/Images/698184-outstanding-cambridge-learner-awards-guide-for-schools.pdf",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q136439552"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10497,
-    "name": "Andrew Mellon Predoctoral Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q137382398",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q137382398"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10498,
-    "name": "Artist Fellowship of the Illinois Arts Council",
-    "provider": "Illinois Arts Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship to encourage development of the arts throughout Illinois, United States",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q137704793",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q137704793"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10499,
-    "name": "James Harrison Steedman Fellowship in Architecture",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Architecture fellowship in Rome in honor of James Harrison Steedman Established 1926.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q137778360",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q137778360"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10500,
-    "name": "Creative Renewal Arts Fellowship",
-    "provider": "Indy Arts Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship for artists and arts administrators to have sabbatical-like experiences Established 1999.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://indyarts.org/grants/creative-renewal-arts-fellowship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q138205948"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10501,
-    "name": "SEEKCommons Fellowship",
-    "provider": "SEEKCommons",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Research fellowship awarded in 2024 and 2025 by SEEKCommons",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://seekcommons.org/fellowship-application.html",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q140679650"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
-  },
-  {
-    "id": 10502,
-    "name": "British Academy Global Professorship",
-    "provider": "British Academy",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "British Academy fellowship grant bringing researchers based outside the UK to UK universities",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141641598",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141641598"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10380,
@@ -25943,7 +24638,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
   },
   {
     "id": 10505,
@@ -25988,7 +24683,1312 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-10-30T08:51:44Z"
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10475,
+    "name": "IBM Fellow",
+    "provider": "IBM",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q45924",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q45924"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10506,
+    "name": "Echoing Green Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q128810958",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q128810958"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10476,
+    "name": "American-Scandinavian Foundation Fellowship",
+    "provider": "The American-Scandinavian Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Awarded by American-Scandinavian Foundation",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q129167488",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q129167488"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10477,
+    "name": "Yaddo Fellowship",
+    "provider": "Yaddo",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Artist residency",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q130235652",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q130235652"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10478,
+    "name": "Beatriu de Pinós Fellow",
+    "provider": "Agency for Administration of University and Research",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scientific award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q130248610",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q130248610"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10479,
+    "name": "Wilder Green Fellowship in Architecture",
+    "provider": "MacDowell",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship established in 2006 Established 2006.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.macdowell.org/sponsored-fellowships/wilder-green-fellowship",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q130376092"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10480,
+    "name": "Sargeson Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "A New Zealand literary award Established 1987.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q131451286",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q131451286"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10481,
+    "name": "Maxwell Fraser Fellowship",
+    "provider": "National Library of Wales",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q131764321",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q131764321"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10482,
+    "name": "Cullman Fellowship",
+    "provider": "Dorothy and Lewis B. Cullman Center for Scholars and Writers",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International fellowship program at the Dorothy and Lewis B. Cullman Center for Scholars and Writers",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.nypl.org/about/fellowships-institutes/cullman-center-scholars-writers/fellowships",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q132156951"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10483,
+    "name": "Medical Research Council (MRC) Doctoral Training Award",
+    "provider": "Medical Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "PhD scholarship awarded by the UK Medical Research Council",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q133818377",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q133818377"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10484,
+    "name": "IBET Momentum Fellowship",
+    "provider": "University of Toronto",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Canada"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship about black engineering Established 2021.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q133847789",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q133847789"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10485,
+    "name": "Doris Duke Fellowship for the Promotion of Child Well-Being",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Doctoral fellowship awarded by the Doris Duke Charitable Foundation for research on child well-being and policy",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q133934781",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q133934781"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10486,
+    "name": "AWARD fellowship",
+    "provider": "African Women in Agricultural Research and Development",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship from the African Women in Agricultural Research and Development",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q134374814",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q134374814"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10487,
+    "name": "Fellowship of the Orthodontic Technicians Association",
+    "provider": "Orthodontic Technicians Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Awarded in order to recognise a member or past member of the Orthodontic Technicians Association for their years of service to orthodontic technology or for their distinguished ability or originality in their field.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q134893066",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q134893066"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10488,
+    "name": "Charlemagne Prize Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship awarded by the Charlemagne Prize Academy for research and academic work",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q134988651",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q134988651"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10489,
+    "name": "Leonard A. Lauder Fellowship in Modern Art at the Metropolitan Museum of Art",
+    "provider": "Metropolitan Museum of Art",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship at the Metropolitan Museum's Leonard A. Lauder Research Center for Modern Art Established 2013.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q135109961",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135109961"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10490,
+    "name": "Faculty Leadership Fellow",
+    "provider": "University of Oklahoma Health Sciences Center",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship for early-career faculty at the University of Oklahoma Health Sciences Center",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://facdev.ouhsc.edu/Certificates-Fellowships/Faculty-Leadership-Program-FLP",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135117304"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10491,
+    "name": "Cultural Vibrancy Fellowship Grant",
+    "provider": "Aspen",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Arts fellowship and grant program awarded by the City of Aspen Established 2025.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://aspen.gov/1696/Cultural-Vibrancy-Fellowship",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135552969"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10492,
+    "name": "Aspen Art Museum Artist Fellowship",
+    "provider": "Aspen Art Museum",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Arts fellowship awarded by the Aspen Art Museum to regional artists Established 2018.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://aspenartmuseum.org/education/artist-fellowship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135553205"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10493,
+    "name": "Policy Leader Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Italy"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship programme at the European University Institute’s School of Transnational Governance, offering early- and mid-career professionals in policy and international affairs a residential training and networking opportunity in Florence. Established 2017.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.eui.eu/apply?id=policy-leader-fellowship",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135878658"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10494,
+    "name": "NIH F32 NRSA Postdoctoral Fellowship 2025",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Postdoctoral fellowship awarded by the NIH F32 NRSA program",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q135915997",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135915997"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10495,
+    "name": "AAMC Foundation Engagement Program for International Curators (EPIC) Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship program for international curators organised by the Association of Art Museum Curators Foundation Established 2018.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.artcurators.org/page/EPIC",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q136399778"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10496,
+    "name": "Cambridge Outstanding International Fellowship Award",
+    "provider": "University of Cambridge",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International academic fellowship awarded by the University of Cambridge recognizing outstanding academic achievements",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.cambridgeinternational.org/Images/698184-outstanding-cambridge-learner-awards-guide-for-schools.pdf",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q136439552"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10497,
+    "name": "Andrew Mellon Predoctoral Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q137382398",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q137382398"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10498,
+    "name": "Artist Fellowship of the Illinois Arts Council",
+    "provider": "Illinois Arts Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship to encourage development of the arts throughout Illinois, United States",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q137704793",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q137704793"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10499,
+    "name": "James Harrison Steedman Fellowship in Architecture",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Architecture fellowship in Rome in honor of James Harrison Steedman Established 1926.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q137778360",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q137778360"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10500,
+    "name": "Creative Renewal Arts Fellowship",
+    "provider": "Indy Arts Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship for artists and arts administrators to have sabbatical-like experiences Established 1999.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://indyarts.org/grants/creative-renewal-arts-fellowship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q138205948"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10501,
+    "name": "SEEKCommons Fellowship",
+    "provider": "SEEKCommons",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Research fellowship awarded in 2024 and 2025 by SEEKCommons",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://seekcommons.org/fellowship-application.html",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q140679650"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
+  },
+  {
+    "id": 10502,
+    "name": "British Academy Global Professorship",
+    "provider": "British Academy",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "British Academy fellowship grant bringing researchers based outside the UK to UK universities",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141641598",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141641598"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-10-31T08:40:45Z"
   }
 ];
 
@@ -25999,7 +25999,7 @@ const CURRENCY_SYMBOLS = {"INR": "₹", "USD": "$", "GBP": "£", "EUR": "€", "
 const DATA_LAST_VERIFIED = "2026-10-18";
 
 /* When the APIs were last synced (null = never) */
-const DATA_LAST_SYNCED = "2026-10-30T08:51:44Z";
+const DATA_LAST_SYNCED = "2026-10-31T08:40:45Z";
 
 /* All Indian states & union territories (for profile forms) */
 const INDIAN_STATES = ["Andaman and Nicobar Islands", "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chandigarh", "Chhattisgarh", "Dadra and Nagar Haveli and Daman and Diu", "Delhi", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jammu and Kashmir", "Jharkhand", "Karnataka", "Kerala", "Ladakh", "Lakshadweep", "Madhya Pradesh", "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha", "Puducherry", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal"];
