@@ -2,7 +2,7 @@
   "meta": {
     "name": "ScholarConnect real scholarship database",
     "lastVerified": "2026-10-18",
-    "count": 563,
+    "count": 564,
     "note": "Real scholarships with official links. Confirm amounts/deadlines on officialUrl."
   },
   "currencies": [
@@ -1099,108 +1099,108 @@
     },
     {
       "id": 58,
+      "name": "German Research Foundation",
+      "type": "Foundation",
+      "country": null,
+      "website": "https://www.wikidata.org"
+    },
+    {
+      "id": 59,
       "name": "Fuji Television",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 59,
+      "id": 60,
       "name": "Harry S. Truman Scholarship Foundation",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 60,
+      "id": 61,
       "name": "German Broadcasting Archive",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 61,
+      "id": 62,
       "name": "Royal Prussian Academy of Sciences",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 62,
+      "id": 63,
       "name": "Yuri Lotman Foundation",
       "type": "Foundation",
       "country": "Estonia",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 63,
+      "id": 64,
       "name": "Shueisha",
       "type": "Other",
       "country": null,
       "website": "http://slamdunk-sc.shueisha.co.jp"
     },
     {
-      "id": 64,
+      "id": 65,
       "name": "Tromsø Municipality",
       "type": "Other",
       "country": "Norway",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 65,
+      "id": 66,
       "name": "United States Department of State",
       "type": "Government",
       "country": null,
       "website": "https://www.humphreyfellowship.org"
     },
     {
-      "id": 66,
+      "id": 67,
       "name": "Cultural Endowment of Estonia",
       "type": "Foundation",
       "country": "Estonia",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 67,
+      "id": 68,
       "name": "Stifterverband für die Deutsche Wissenschaft",
       "type": "Other",
       "country": null,
       "website": "http://www.fellowsfreieswissen.de"
     },
     {
-      "id": 68,
+      "id": 69,
       "name": "Diputación Provincial de Pontevedra",
       "type": "Other",
       "country": "Spain",
       "website": "https://www.depo.gal"
     },
     {
-      "id": 69,
+      "id": 70,
       "name": "Hungarian Academy of Sciences",
       "type": "Other",
       "country": "Hungary",
       "website": "http://mta.hu"
     },
     {
-      "id": 70,
+      "id": 71,
       "name": "National Organization for Human Services",
       "type": "Other",
       "country": "United States",
       "website": "http://www.nationalhumanservices.org"
     },
     {
-      "id": 71,
+      "id": 72,
       "name": "Government of Saudi Arabia",
       "type": "Government",
       "country": "Saudi Arabia",
       "website": "https://www.wikidata.org"
-    },
-    {
-      "id": 72,
-      "name": "German Research Foundation",
-      "type": "Foundation",
-      "country": null,
-      "website": "https://www.dfg.de"
     },
     {
       "id": 73,
@@ -1351,1081 +1351,1081 @@
     },
     {
       "id": 94,
+      "name": "Universities New Zealand",
+      "type": "Other",
+      "country": "New Zealand",
+      "website": "https://www.wikidata.org"
+    },
+    {
+      "id": 95,
       "name": "Royal Society of Medicine",
       "type": "Foundation",
       "country": "United Kingdom",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 95,
+      "id": 96,
       "name": "Ministry of Science of Spain",
       "type": "Government",
       "country": "Spain",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 96,
+      "id": 97,
       "name": "Moshe Zeldman",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 97,
+      "id": 98,
       "name": "Government of New Zealand",
       "type": "Government",
       "country": "New Zealand",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 98,
+      "id": 99,
       "name": "Ministry of Science, Innovation and Universities",
       "type": "Government",
       "country": "Spain",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 99,
+      "id": 100,
       "name": "Coca-Cola Scholars Foundation",
       "type": "Foundation",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 100,
+      "id": 101,
       "name": "Horror Writers Association",
       "type": "Other",
       "country": null,
       "website": "https://horrorscholarships.com"
     },
     {
-      "id": 101,
+      "id": 102,
       "name": "Wolf Foundation",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 102,
+      "id": 103,
       "name": "Maxwell School of Citizenship and Public Affairs",
       "type": "University",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 103,
+      "id": 104,
       "name": "Fundación Pedro Barrié",
       "type": "Foundation",
       "country": "Spain",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 104,
+      "id": 105,
       "name": "New York State Black, Puerto Rican, Hispanic and Asian Legislative Caucus",
       "type": "Other",
       "country": null,
       "website": "https://www.cuny.edu"
     },
     {
-      "id": 105,
+      "id": 106,
       "name": "Australians in Film",
       "type": "Other",
       "country": "Australia",
       "website": "https://australiansinfilm.org"
     },
     {
-      "id": 106,
+      "id": 107,
       "name": "National Aeronautics and Space Administration",
       "type": "Other",
       "country": "United States",
       "website": "https://npp.orau.org"
     },
     {
-      "id": 107,
+      "id": 108,
       "name": "European Union",
       "type": "Other",
       "country": null,
       "website": "https://marie-sklodowska-curie-actions.ec.europa.eu"
     },
     {
-      "id": 108,
+      "id": 109,
       "name": "National Council on US-Arab Relations",
       "type": "Government",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 109,
+      "id": 110,
       "name": "Bard College",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 110,
+      "id": 111,
       "name": "Fondation Lambert Darchis",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 111,
+      "id": 112,
       "name": "New Zealand Plant Protection Society",
       "type": "Foundation",
       "country": "New Zealand",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 112,
+      "id": 113,
       "name": "State Library of New South Wales",
       "type": "Other",
       "country": "Australia",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 113,
+      "id": 114,
       "name": "Queen's University",
       "type": "University",
       "country": "Canada",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 114,
+      "id": 115,
       "name": "Fine Arts Center of Greenville County",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 115,
+      "id": 116,
       "name": "http://www.wikidata.org/.well-known/genid/0e58db5a46aee45a7e715001032c2496",
       "type": "Other",
       "country": "France",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 116,
+      "id": 117,
       "name": "Rabén & Sjögren",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 117,
+      "id": 118,
       "name": "Nirdosh Jagota",
       "type": "Other",
       "country": "United States",
       "website": "https://nirdoshjagotascholarship.com"
     },
     {
-      "id": 118,
+      "id": 119,
       "name": "Cassandra Toroian",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 119,
+      "id": 120,
       "name": "Curtis Edmark",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 120,
+      "id": 121,
       "name": "Jinhee Wilde",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 121,
+      "id": 122,
       "name": "Marc Kalter",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 122,
+      "id": 123,
       "name": "Yitz Stern",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 123,
+      "id": 124,
       "name": "Brian C Jensen",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 124,
+      "id": 125,
       "name": "Berel Farkas",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 125,
+      "id": 126,
       "name": "Menachem Silber",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 126,
+      "id": 127,
       "name": "Suneet Singal",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 127,
+      "id": 128,
       "name": "Accademia Atestina di Belle Arti",
       "type": "Other",
       "country": "Italy",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 128,
+      "id": 129,
       "name": "Northeastern University",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 129,
+      "id": 130,
       "name": "Fundación Juan March",
       "type": "Foundation",
       "country": "Spain",
       "website": "https://www.march.es"
     },
     {
-      "id": 130,
+      "id": 131,
       "name": "Federal Ministry for Arts, Culture, the Civil Service and Sport",
       "type": "Government",
       "country": "Austria",
       "website": "https://www.bmwkms.gv.at"
     },
     {
-      "id": 131,
+      "id": 132,
       "name": "Royal Society of London",
       "type": "Foundation",
       "country": "United Kingdom",
       "website": "https://royalsociety.org"
     },
     {
-      "id": 132,
+      "id": 133,
       "name": "National Endowment for the Arts",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 133,
+      "id": 134,
       "name": "The Pew Charitable Trusts",
       "type": "Foundation",
       "country": null,
       "website": "http://www.pewtrusts.org"
     },
     {
-      "id": 134,
+      "id": 135,
       "name": "Faculty of Public Health",
       "type": "Other",
       "country": "United Kingdom",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 135,
+      "id": 136,
       "name": "Institute of Biology",
       "type": "University",
       "country": "United Kingdom",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 136,
+      "id": 137,
       "name": "Wellcome Trust",
       "type": "Foundation",
       "country": "United Kingdom",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 137,
+      "id": 138,
       "name": "Jane Coffin Childs Memorial Fund for Medical Research",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 138,
+      "id": 139,
       "name": "3M",
       "type": "Other",
       "country": "Canada",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 139,
+      "id": 140,
       "name": "Creative Commons",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 140,
+      "id": 141,
       "name": "Canada Council for the Arts",
       "type": "Government",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 141,
+      "id": 142,
       "name": "Royal Society Te Apārangi",
       "type": "Foundation",
       "country": "New Zealand",
       "website": "https://royalsociety.org.nz"
     },
     {
-      "id": 142,
+      "id": 143,
       "name": "United States Agency for International Development",
       "type": "Other",
       "country": "United States",
       "website": "https://sites.nationalacademies.org"
     },
     {
-      "id": 143,
+      "id": 144,
       "name": "Alfred P. Sloan Foundation",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 144,
+      "id": 145,
       "name": "Ashoka",
       "type": "Other",
       "country": null,
       "website": "https://www.ashoka.org"
     },
     {
-      "id": 145,
+      "id": 146,
       "name": "Biotechnology and Biological Sciences Research Council",
       "type": "Government",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 146,
+      "id": 147,
       "name": "Engineering and Physical Sciences Research Council",
       "type": "Government",
       "country": "United Kingdom",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 147,
+      "id": 148,
       "name": "Natural Environment Research Council",
       "type": "Government",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 148,
+      "id": 149,
       "name": "Economic and Social Research Council",
       "type": "Government",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 149,
+      "id": 150,
       "name": "Young African Leaders Initiative",
       "type": "Other",
       "country": "United States",
       "website": "https://yali.state.gov"
     },
     {
-      "id": 150,
+      "id": 151,
       "name": "The Safina Center",
       "type": "Other",
       "country": "United States",
       "website": "http://safinacenter.org"
     },
     {
-      "id": 151,
+      "id": 152,
       "name": "Juilliard School",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 152,
+      "id": 153,
       "name": "Kundiman",
       "type": "Other",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 153,
+      "id": 154,
       "name": "Cave Canem Foundation",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 154,
+      "id": 155,
       "name": "Schmidt Futures",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 155,
+      "id": 156,
       "name": "Australian Research Council",
       "type": "Government",
       "country": "Australia",
       "website": "https://www.arc.gov.au"
     },
     {
-      "id": 156,
+      "id": 157,
       "name": "CantoMundo",
       "type": "Other",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 157,
+      "id": 158,
       "name": "Yale School of the Environment",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 158,
+      "id": 159,
       "name": "American College of Rheumatology",
       "type": "University",
       "country": null,
       "website": "https://www.rheumatology.org"
     },
     {
-      "id": 159,
+      "id": 160,
       "name": "Harvard Graduate School of Design",
       "type": "University",
       "country": "United States",
       "website": "https://loebfellowship.gsd.harvard.edu"
     },
     {
-      "id": 160,
+      "id": 161,
       "name": "Azrieli Foundation",
       "type": "Foundation",
       "country": "Israel",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 161,
+      "id": 162,
       "name": "Academy of American Poets",
       "type": "Other",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 162,
+      "id": 163,
       "name": "Fields Institute",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 163,
+      "id": 164,
       "name": "African Academy of Sciences",
       "type": "Other",
       "country": null,
       "website": "https://www.aasciences.africa"
     },
     {
-      "id": 164,
+      "id": 165,
       "name": "Queensland Government",
       "type": "Government",
       "country": "Australia",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 165,
+      "id": 166,
       "name": "Radcliffe Institute for Advanced Study",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 166,
+      "id": 167,
       "name": "Harvard University Center for Italian Renaissance Studies",
       "type": "University",
       "country": "Italy",
       "website": "http://itatti.harvard.edu"
     },
     {
-      "id": 167,
+      "id": 168,
       "name": "University of California, Davis",
       "type": "University",
       "country": "United States",
       "website": "https://academicaffairs.ucdavis.edu"
     },
     {
-      "id": 168,
+      "id": 169,
       "name": "Ecological Society of America",
       "type": "Foundation",
       "country": "United States",
       "website": "https://www.esa.org"
     },
     {
-      "id": 169,
+      "id": 170,
       "name": "Yad Hanadiv",
       "type": "Other",
       "country": "Israel",
       "website": "https://www.yadhanadiv.org.il"
     },
     {
-      "id": 170,
+      "id": 171,
       "name": "Western Society for French History",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 171,
+      "id": 172,
       "name": "Andrew W. Mellon Foundation",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 172,
+      "id": 173,
       "name": "The Institute for Citizens & Scholars",
       "type": "University",
       "country": "United States",
       "website": "http://woodrow.org"
     },
     {
-      "id": 173,
+      "id": 174,
       "name": "Association of Science and Technology Centers",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 174,
+      "id": 175,
       "name": "United States Department of Defense",
       "type": "Government",
       "country": "United States",
       "website": "https://ndseg.org"
     },
     {
-      "id": 175,
+      "id": 176,
       "name": "Google",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 176,
+      "id": 177,
       "name": "Djerassi Artists Residency",
       "type": "Other",
       "country": "United States",
       "website": "https://djerassi.org"
     },
     {
-      "id": 177,
+      "id": 178,
       "name": "Texas A&M University",
       "type": "University",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 178,
+      "id": 179,
       "name": "United States Association for Computational Mechanics",
       "type": "Other",
       "country": "United States",
       "website": "https://www.usacm.org"
     },
     {
-      "id": 179,
+      "id": 180,
       "name": "MacDowell",
       "type": "Other",
       "country": "United States",
       "website": "https://www.macdowell.org"
     },
     {
-      "id": 180,
+      "id": 181,
       "name": "Emile Berliner",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 181,
+      "id": 182,
       "name": "Bronx Museum of the Arts",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 182,
+      "id": 183,
       "name": "Texas A&M University College of Engineering",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 183,
+      "id": 184,
       "name": "Arts and Humanities Research Council",
       "type": "Government",
       "country": "United Kingdom",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 184,
+      "id": 185,
       "name": "United States Department of Energy",
       "type": "Government",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 185,
+      "id": 186,
       "name": "University of Manchester",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 186,
+      "id": 187,
       "name": "Lower East Side Printshop",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 187,
+      "id": 188,
       "name": "Shakespeare Globe Centre New Zealand",
       "type": "Other",
       "country": "New Zealand",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 188,
+      "id": 189,
       "name": "World Health Organization",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 189,
+      "id": 190,
       "name": "Helmholtz Association of German Research Centres",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 190,
+      "id": 191,
       "name": "Rector of the Vrije Universiteit Brussel",
       "type": "Other",
       "country": "Belgium",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 191,
+      "id": 192,
       "name": "Smithsonian Institution",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 192,
+      "id": 193,
       "name": "Harriman Institute",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 193,
+      "id": 194,
       "name": "Nuffield Foundation",
       "type": "Foundation",
       "country": "United Kingdom",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 194,
+      "id": 195,
       "name": "University of Canterbury",
       "type": "University",
       "country": "New Zealand",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 195,
+      "id": 196,
       "name": "John Carter Brown Library",
       "type": "Other",
       "country": "United States",
       "website": "https://jcblibrary.org"
     },
     {
-      "id": 196,
+      "id": 197,
       "name": "North American Colleges and Teachers of Agriculture",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 197,
+      "id": 198,
       "name": "Natural Sciences and Engineering Research Council of Canada",
       "type": "Government",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 198,
+      "id": 199,
       "name": "National Humanities Center",
       "type": "Other",
       "country": "United States",
       "website": "https://nationalhumanitiescenter.org"
     },
     {
-      "id": 199,
+      "id": 200,
       "name": "Syracuse University Board of Trustees",
       "type": "University",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 200,
+      "id": 201,
       "name": "Ministry of Business, Innovation and Employment",
       "type": "Government",
       "country": "New Zealand",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 201,
+      "id": 202,
       "name": "Leverhulme Trust",
       "type": "Foundation",
       "country": "United Kingdom",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 202,
+      "id": 203,
       "name": "New Zealand Geographical Society",
       "type": "Foundation",
       "country": "New Zealand",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 203,
+      "id": 204,
       "name": "Robert Wood Johnson Foundation",
       "type": "Foundation",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 204,
+      "id": 205,
       "name": "Columbia University",
       "type": "University",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 205,
+      "id": 206,
       "name": "Stiftung Mercator",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 206,
+      "id": 207,
       "name": "Stout Research Centre for New Zealand Studies",
       "type": "Other",
       "country": "New Zealand",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 207,
+      "id": 208,
       "name": "Creative Industries Fund NL",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 208,
+      "id": 209,
       "name": "Arnold and Mabel Beckman Foundation",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 209,
+      "id": 210,
       "name": "Wired",
       "type": "Other",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 210,
+      "id": 211,
       "name": "The American-Scandinavian Foundation",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 211,
+      "id": 212,
       "name": "Yaddo",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 212,
+      "id": 213,
       "name": "Agency for Administration of University and Research",
       "type": "University",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 213,
+      "id": 214,
       "name": "National Library of Wales",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 214,
+      "id": 215,
       "name": "Dorothy and Lewis B. Cullman Center for Scholars and Writers",
       "type": "Other",
       "country": null,
       "website": "https://www.nypl.org"
     },
     {
-      "id": 215,
+      "id": 216,
       "name": "Medical Research Council",
       "type": "Government",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 216,
+      "id": 217,
       "name": "University of Toronto",
       "type": "University",
       "country": "Canada",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 217,
+      "id": 218,
       "name": "African Women in Agricultural Research and Development",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 218,
+      "id": 219,
       "name": "Orthodontic Technicians Association",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 219,
+      "id": 220,
       "name": "Metropolitan Museum of Art",
       "type": "Other",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 220,
+      "id": 221,
       "name": "University of Oklahoma Health Sciences Center",
       "type": "University",
       "country": "United States",
       "website": "https://facdev.ouhsc.edu"
     },
     {
-      "id": 221,
+      "id": 222,
       "name": "Aspen",
       "type": "Other",
       "country": "United States",
       "website": "https://aspen.gov"
     },
     {
-      "id": 222,
+      "id": 223,
       "name": "Aspen Art Museum",
       "type": "Other",
       "country": "United States",
       "website": "https://aspenartmuseum.org"
     },
     {
-      "id": 223,
+      "id": 224,
       "name": "University of Cambridge",
       "type": "University",
       "country": "United Kingdom",
       "website": "https://www.cambridgeinternational.org"
     },
     {
-      "id": 224,
+      "id": 225,
       "name": "Illinois Arts Council",
       "type": "Government",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 225,
+      "id": 226,
       "name": "Sangeet Natak Akademi",
       "type": "Other",
       "country": null,
       "website": "https://sangeetnatak.gov.in"
     },
     {
-      "id": 226,
+      "id": 227,
       "name": "Graz",
       "type": "Other",
       "country": "Austria",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 227,
+      "id": 228,
       "name": "John Simon Guggenheim Memorial Foundation",
       "type": "Foundation",
       "country": "United States",
       "website": "https://www.gf.org"
     },
     {
-      "id": 228,
+      "id": 229,
       "name": "Lyndon B. Johnson",
       "type": "Other",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 229,
+      "id": 230,
       "name": "Intel",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 230,
+      "id": 231,
       "name": "Det Norske Samlaget",
       "type": "Other",
       "country": "Norway",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 231,
+      "id": 232,
       "name": "Harvard University",
       "type": "University",
       "country": "United States",
       "website": "https://nieman.harvard.edu"
     },
     {
-      "id": 232,
+      "id": 233,
       "name": "Alicia Patterson Foundation",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 233,
+      "id": 234,
       "name": "American Academy in Berlin",
       "type": "Other",
       "country": "Germany",
       "website": "https://www.americanacademy.de"
     },
     {
-      "id": 234,
+      "id": 235,
       "name": "University of Otago",
       "type": "University",
       "country": "New Zealand",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 235,
+      "id": 236,
       "name": "Commonwealth Fund",
       "type": "Foundation",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 236,
+      "id": 237,
       "name": "Knight Foundation",
       "type": "Foundation",
       "country": "United States",
       "website": "http://jsk.stanford.edu"
     },
     {
-      "id": 237,
+      "id": 238,
       "name": "Advance HE",
       "type": "Other",
       "country": "United Kingdom",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 238,
+      "id": 239,
       "name": "Pew Center for Arts & Heritage",
       "type": "Other",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 239,
+      "id": 240,
       "name": "Helene Bresslau",
       "type": "Other",
       "country": "United States",
       "website": "http://www.schweitzerfellowship.org"
     },
     {
-      "id": 240,
+      "id": 241,
       "name": "Peter Thiel",
       "type": "Other",
       "country": "United States",
       "website": "http://www.thielfellowship.org"
     },
     {
-      "id": 241,
+      "id": 242,
       "name": "Thomas J. Watson Foundation",
       "type": "Foundation",
       "country": "United States",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 242,
+      "id": 243,
       "name": "Southern Institute of Technology",
       "type": "University",
       "country": "New Zealand",
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 243,
+      "id": 244,
       "name": "United States Poet Laureate",
       "type": "Other",
       "country": null,
       "website": "http://www.loc.gov"
     },
     {
-      "id": 244,
+      "id": 245,
       "name": "European Centre for Disease Prevention and Control",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 245,
+      "id": 246,
       "name": "Berkeley Center for New Media",
       "type": "Other",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 246,
+      "id": 247,
       "name": "Bloomberg L.P.",
       "type": "Other",
       "country": null,
       "website": "https://www.outreachy.org"
-    },
-    {
-      "id": 247,
-      "name": "Universities New Zealand",
-      "type": "Other",
-      "country": "New Zealand",
-      "website": "https://www.wikidata.org"
     },
     {
       "id": 248,
@@ -2499,31 +2499,31 @@
     },
     {
       "id": 258,
-      "name": "Global Kung Fu Alliance",
-      "type": "Other",
-      "country": null,
-      "website": "https://kungfukendra.com"
-    },
-    {
-      "id": 259,
       "name": "Jan van Eyck Academie",
       "type": "Other",
       "country": null,
       "website": "https://janvaneyck.nl"
     },
     {
-      "id": 260,
+      "id": 259,
       "name": "National Science Foundation",
       "type": "Foundation",
       "country": null,
       "website": "https://www.wikidata.org"
     },
     {
-      "id": 261,
+      "id": 260,
       "name": "Advanced Research & Invention Agency",
       "type": "Other",
       "country": null,
       "website": "https://encode.pillar.vc"
+    },
+    {
+      "id": 261,
+      "name": "Global Kung Fu Alliance",
+      "type": "Other",
+      "country": null,
+      "website": "https://kungfukendra.com"
     },
     {
       "id": 262,
@@ -5801,7 +5801,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10002,
@@ -5846,7 +5846,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10003,
@@ -5891,7 +5891,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10004,
@@ -5936,7 +5936,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10005,
@@ -5981,7 +5981,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10006,
@@ -6026,7 +6026,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10007,
@@ -6071,7 +6071,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10008,
@@ -6116,7 +6116,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10009,
@@ -6161,7 +6161,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10010,
@@ -6206,7 +6206,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10011,
@@ -6251,7 +6251,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10012,
@@ -6296,7 +6296,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10013,
@@ -6341,7 +6341,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10014,
@@ -6386,7 +6386,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10015,
@@ -6431,7 +6431,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10016,
@@ -6476,7 +6476,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10017,
@@ -6521,7 +6521,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10018,
@@ -6566,7 +6566,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10019,
@@ -6611,7 +6611,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10020,
@@ -6656,7 +6656,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10021,
@@ -6701,7 +6701,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10022,
@@ -6746,7 +6746,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10023,
@@ -6791,7 +6791,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10024,
@@ -6836,7 +6836,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10025,
@@ -6881,7 +6881,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10026,
@@ -6926,7 +6926,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10027,
@@ -6971,7 +6971,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10028,
@@ -7016,7 +7016,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10029,
@@ -7061,7 +7061,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10030,
@@ -7106,7 +7106,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10031,
@@ -7151,7 +7151,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10032,
@@ -7196,7 +7196,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10033,
@@ -7241,7 +7241,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10034,
@@ -7286,7 +7286,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10035,
@@ -7331,7 +7331,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10036,
@@ -7376,7 +7376,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10037,
@@ -7421,7 +7421,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10038,
@@ -7466,7 +7466,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10039,
@@ -7511,7 +7511,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10040,
@@ -7556,7 +7556,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10041,
@@ -7601,7 +7601,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10042,
@@ -7646,7 +7646,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10043,
@@ -7691,7 +7691,52 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
+    },
+    {
+      "id": 10045,
+      "name": "Hemmung der Interferon-vermittelten Virusabwehr durch das E6-Protein des humanen Papillomvirus 16",
+      "provider": "German Research Foundation",
+      "type": "Foundation",
+      "scope": "International",
+      "hostCountries": [
+        "Not specified"
+      ],
+      "currency": "INR",
+      "amountOriginal": null,
+      "amount": null,
+      "amountNote": "Not provided by this data source - see the official page",
+      "amountPeriod": "Annual",
+      "awards": null,
+      "deadline": null,
+      "deadlineNote": "Not provided by this data source",
+      "educationLevel": [],
+      "fields": [
+        "All Fields"
+      ],
+      "states": [
+        "All India"
+      ],
+      "nationalities": [
+        "Any country"
+      ],
+      "maxIncome": null,
+      "minimumPercentage": null,
+      "category": "Other",
+      "socialCategories": [],
+      "specialEligibility": "",
+      "requires": null,
+      "gender": "All",
+      "description": "Research project",
+      "documents": [],
+      "process": "See the official page for how to apply.",
+      "officialUrl": "https://www.wikidata.org/wiki/Q116073361",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q116073361"
+      ],
+      "lastVerified": null,
+      "dataSource": "wikidata",
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10046,
@@ -7736,7 +7781,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10047,
@@ -7781,7 +7826,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10048,
@@ -7826,7 +7871,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10049,
@@ -7871,7 +7916,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10050,
@@ -7916,7 +7961,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10051,
@@ -7961,7 +8006,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10052,
@@ -8006,7 +8051,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10053,
@@ -8051,7 +8096,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10054,
@@ -8096,7 +8141,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10055,
@@ -8141,7 +8186,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10056,
@@ -8186,7 +8231,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10057,
@@ -8231,7 +8276,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10058,
@@ -8276,7 +8321,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10059,
@@ -8321,7 +8366,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10060,
@@ -8366,7 +8411,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10061,
@@ -8411,7 +8456,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10062,
@@ -8456,7 +8501,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10063,
@@ -8501,7 +8546,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10064,
@@ -8546,7 +8591,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10065,
@@ -8591,7 +8636,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10066,
@@ -8636,7 +8681,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10067,
@@ -8681,7 +8726,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10068,
@@ -8727,7 +8772,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10069,
@@ -8772,7 +8817,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10070,
@@ -8818,7 +8863,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10071,
@@ -8863,7 +8908,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10072,
@@ -8908,7 +8953,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10073,
@@ -8953,7 +8998,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10074,
@@ -8998,7 +9043,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10075,
@@ -9043,7 +9088,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10076,
@@ -9088,7 +9133,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10077,
@@ -9133,7 +9178,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10078,
@@ -9178,7 +9223,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10079,
@@ -9223,7 +9268,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10080,
@@ -9268,7 +9313,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10081,
@@ -9313,7 +9358,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10082,
@@ -9358,7 +9403,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10083,
@@ -9403,7 +9448,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10084,
@@ -9448,7 +9493,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10085,
@@ -9493,7 +9538,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10086,
@@ -9538,7 +9583,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10087,
@@ -9583,7 +9628,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10088,
@@ -9628,7 +9673,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10089,
@@ -9673,7 +9718,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10090,
@@ -9718,7 +9763,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10091,
@@ -9763,97 +9808,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
-    },
-    {
-      "id": 10044,
-      "name": "Sir George Elliot Scholarship",
-      "provider": "Not specified",
-      "type": "Other",
-      "scope": "International",
-      "hostCountries": [
-        "New Zealand"
-      ],
-      "currency": "INR",
-      "amountOriginal": null,
-      "amount": null,
-      "amountNote": "Not provided by this data source - see the official page",
-      "amountPeriod": "Annual",
-      "awards": null,
-      "deadline": null,
-      "deadlineNote": "Not provided by this data source",
-      "educationLevel": [],
-      "fields": [
-        "All Fields"
-      ],
-      "states": [
-        "All India"
-      ],
-      "nationalities": [
-        "Any country"
-      ],
-      "maxIncome": null,
-      "minimumPercentage": null,
-      "category": "Other",
-      "socialCategories": [],
-      "specialEligibility": "",
-      "requires": null,
-      "gender": "All",
-      "description": "New Zealand scholarship Established 1999.",
-      "documents": [],
-      "process": "See the official page for how to apply.",
-      "officialUrl": "https://www.elliottrust.org.nz/",
-      "sources": [
-        "https://www.wikidata.org/wiki/Q115683866"
-      ],
-      "lastVerified": null,
-      "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
-    },
-    {
-      "id": 10092,
-      "name": "Heisenberg scholarship",
-      "provider": "German Research Foundation",
-      "type": "Foundation",
-      "scope": "International",
-      "hostCountries": [
-        "Not specified"
-      ],
-      "currency": "INR",
-      "amountOriginal": null,
-      "amount": null,
-      "amountNote": "Not provided by this data source - see the official page",
-      "amountPeriod": "Annual",
-      "awards": null,
-      "deadline": null,
-      "deadlineNote": "Not provided by this data source",
-      "educationLevel": [],
-      "fields": [
-        "All Fields"
-      ],
-      "states": [
-        "All India"
-      ],
-      "nationalities": [
-        "Any country"
-      ],
-      "maxIncome": null,
-      "minimumPercentage": null,
-      "category": "Other",
-      "socialCategories": [],
-      "specialEligibility": "",
-      "requires": null,
-      "gender": "All",
-      "description": "Scholarship of the Heisenberg Programme",
-      "documents": [],
-      "process": "See the official page for how to apply.",
-      "officialUrl": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/heisenberg",
-      "sources": [
-        "https://www.wikidata.org/wiki/Q62102902"
-      ],
-      "lastVerified": null,
-      "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10093,
@@ -9898,7 +9853,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10094,
@@ -9943,7 +9898,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10095,
@@ -9988,7 +9943,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10096,
@@ -10033,7 +9988,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10097,
@@ -10078,7 +10033,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10098,
@@ -10123,7 +10078,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10099,
@@ -10168,7 +10123,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10100,
@@ -10213,7 +10168,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10101,
@@ -10260,7 +10215,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10102,
@@ -10305,7 +10260,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10103,
@@ -10350,7 +10305,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10104,
@@ -10395,7 +10350,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10105,
@@ -10440,7 +10395,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10106,
@@ -10485,7 +10440,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10107,
@@ -10530,7 +10485,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10108,
@@ -10575,7 +10530,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10109,
@@ -10620,7 +10575,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10110,
@@ -10665,7 +10620,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10111,
@@ -10710,7 +10665,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10112,
@@ -10755,7 +10710,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10113,
@@ -10800,7 +10755,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10114,
@@ -10845,7 +10800,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10115,
@@ -10890,7 +10845,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10116,
@@ -10935,7 +10890,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10117,
@@ -10980,7 +10935,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10118,
@@ -11025,7 +10980,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10119,
@@ -11070,7 +11025,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10120,
@@ -11115,7 +11070,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10121,
@@ -11160,7 +11115,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10122,
@@ -11205,7 +11160,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10123,
@@ -11250,7 +11205,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10124,
@@ -11295,7 +11250,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10125,
@@ -11340,7 +11295,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10508,
@@ -11385,16 +11340,16 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
-      "id": 10045,
-      "name": "Hemmung der Interferon-vermittelten Virusabwehr durch das E6-Protein des humanen Papillomvirus 16",
-      "provider": "German Research Foundation",
-      "type": "Foundation",
+      "id": 10126,
+      "name": "Shirtcliffe Fellowship",
+      "provider": "Universities New Zealand",
+      "type": "Other",
       "scope": "International",
       "hostCountries": [
-        "Not specified"
+        "New Zealand"
       ],
       "currency": "INR",
       "amountOriginal": null,
@@ -11421,16 +11376,61 @@
       "specialEligibility": "",
       "requires": null,
       "gender": "All",
-      "description": "Research project",
+      "description": "New Zealand award for doctoral study in New Zealand or another Commonwealth country Established 1935.",
       "documents": [],
       "process": "See the official page for how to apply.",
-      "officialUrl": "https://www.wikidata.org/wiki/Q116073361",
+      "officialUrl": "https://www.wikidata.org/wiki/Q115395883",
       "sources": [
-        "https://www.wikidata.org/wiki/Q116073361"
+        "https://www.wikidata.org/wiki/Q115395883"
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
+    },
+    {
+      "id": 10044,
+      "name": "Sir George Elliot Scholarship",
+      "provider": "Not specified",
+      "type": "Other",
+      "scope": "International",
+      "hostCountries": [
+        "New Zealand"
+      ],
+      "currency": "INR",
+      "amountOriginal": null,
+      "amount": null,
+      "amountNote": "Not provided by this data source - see the official page",
+      "amountPeriod": "Annual",
+      "awards": null,
+      "deadline": null,
+      "deadlineNote": "Not provided by this data source",
+      "educationLevel": [],
+      "fields": [
+        "All Fields"
+      ],
+      "states": [
+        "All India"
+      ],
+      "nationalities": [
+        "Any country"
+      ],
+      "maxIncome": null,
+      "minimumPercentage": null,
+      "category": "Other",
+      "socialCategories": [],
+      "specialEligibility": "",
+      "requires": null,
+      "gender": "All",
+      "description": "New Zealand scholarship Established 1999.",
+      "documents": [],
+      "process": "See the official page for how to apply.",
+      "officialUrl": "https://www.elliottrust.org.nz/",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q115683866"
+      ],
+      "lastVerified": null,
+      "dataSource": "wikidata",
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10127,
@@ -11475,7 +11475,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10128,
@@ -11520,7 +11520,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10129,
@@ -11565,7 +11565,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10132,
@@ -11610,7 +11610,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10133,
@@ -11655,7 +11655,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10188,
@@ -11700,7 +11700,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10189,
@@ -11745,7 +11745,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10190,
@@ -11790,7 +11790,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10191,
@@ -11835,7 +11835,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10192,
@@ -11880,7 +11880,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10193,
@@ -11925,7 +11925,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10194,
@@ -11970,7 +11970,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10195,
@@ -12015,7 +12015,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10196,
@@ -12060,7 +12060,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10197,
@@ -12105,7 +12105,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10198,
@@ -12150,7 +12150,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10199,
@@ -12195,7 +12195,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10200,
@@ -12240,7 +12240,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10201,
@@ -12285,7 +12285,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10473,
@@ -12330,7 +12330,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10136,
@@ -12375,7 +12375,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10137,
@@ -12420,7 +12420,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10138,
@@ -12465,7 +12465,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10139,
@@ -12510,7 +12510,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10140,
@@ -12555,7 +12555,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10141,
@@ -12600,7 +12600,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10142,
@@ -12645,7 +12645,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10143,
@@ -12690,7 +12690,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10144,
@@ -12735,7 +12735,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10145,
@@ -12780,7 +12780,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10146,
@@ -12825,7 +12825,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10147,
@@ -12870,7 +12870,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10148,
@@ -12915,7 +12915,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10149,
@@ -12960,7 +12960,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10150,
@@ -13005,7 +13005,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10151,
@@ -13050,7 +13050,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10152,
@@ -13095,7 +13095,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10153,
@@ -13140,7 +13140,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10154,
@@ -13185,7 +13185,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10155,
@@ -13230,7 +13230,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10156,
@@ -13275,7 +13275,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10157,
@@ -13320,7 +13320,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10158,
@@ -13365,7 +13365,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10159,
@@ -13410,7 +13410,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10160,
@@ -13455,7 +13455,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10161,
@@ -13500,7 +13500,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10162,
@@ -13545,7 +13545,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10163,
@@ -13590,7 +13590,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10164,
@@ -13635,7 +13635,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10165,
@@ -13680,7 +13680,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10166,
@@ -13725,7 +13725,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10167,
@@ -13770,7 +13770,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10168,
@@ -13815,7 +13815,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10169,
@@ -13860,7 +13860,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10170,
@@ -13905,7 +13905,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10171,
@@ -13950,7 +13950,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10172,
@@ -13995,7 +13995,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10173,
@@ -14040,7 +14040,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10174,
@@ -14085,7 +14085,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10175,
@@ -14130,7 +14130,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10176,
@@ -14175,7 +14175,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10177,
@@ -14220,7 +14220,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10178,
@@ -14265,7 +14265,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10179,
@@ -14310,7 +14310,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10180,
@@ -14355,7 +14355,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10181,
@@ -14400,7 +14400,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10182,
@@ -14445,7 +14445,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10183,
@@ -14490,7 +14490,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10184,
@@ -14535,7 +14535,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10185,
@@ -14580,7 +14580,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10186,
@@ -14625,7 +14625,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10187,
@@ -14670,7 +14670,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10470,
@@ -14715,7 +14715,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10471,
@@ -14760,7 +14760,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10472,
@@ -14805,7 +14805,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10469,
@@ -14850,7 +14850,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10219,
@@ -14895,7 +14895,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10220,
@@ -14940,7 +14940,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10221,
@@ -14985,7 +14985,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10222,
@@ -15030,7 +15030,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10223,
@@ -15075,7 +15075,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10224,
@@ -15120,7 +15120,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10225,
@@ -15165,7 +15165,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10226,
@@ -15210,7 +15210,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10227,
@@ -15255,7 +15255,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10228,
@@ -15300,7 +15300,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10229,
@@ -15345,7 +15345,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10230,
@@ -15390,7 +15390,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10231,
@@ -15435,7 +15435,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10232,
@@ -15480,7 +15480,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10233,
@@ -15525,7 +15525,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10234,
@@ -15570,7 +15570,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10235,
@@ -15615,7 +15615,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10236,
@@ -15660,7 +15660,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10237,
@@ -15705,7 +15705,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10238,
@@ -15750,7 +15750,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10239,
@@ -15795,7 +15795,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10240,
@@ -15840,7 +15840,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10241,
@@ -15885,7 +15885,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10242,
@@ -15930,7 +15930,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10243,
@@ -15975,7 +15975,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10244,
@@ -16020,7 +16020,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10245,
@@ -16065,7 +16065,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10246,
@@ -16110,7 +16110,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10247,
@@ -16155,7 +16155,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10248,
@@ -16200,7 +16200,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10249,
@@ -16245,7 +16245,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10250,
@@ -16290,7 +16290,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10251,
@@ -16335,7 +16335,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10252,
@@ -16380,7 +16380,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10253,
@@ -16425,7 +16425,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10254,
@@ -16470,7 +16470,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10255,
@@ -16515,7 +16515,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10256,
@@ -16560,7 +16560,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10257,
@@ -16605,7 +16605,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10258,
@@ -16650,7 +16650,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10259,
@@ -16695,7 +16695,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10260,
@@ -16740,7 +16740,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10261,
@@ -16785,7 +16785,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10262,
@@ -16830,7 +16830,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10263,
@@ -16876,7 +16876,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10264,
@@ -16921,7 +16921,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10265,
@@ -16966,7 +16966,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10266,
@@ -17011,7 +17011,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10267,
@@ -17056,7 +17056,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10268,
@@ -17101,7 +17101,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10269,
@@ -17146,7 +17146,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10270,
@@ -17191,7 +17191,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10271,
@@ -17236,7 +17236,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10272,
@@ -17281,7 +17281,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10273,
@@ -17326,7 +17326,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10274,
@@ -17371,7 +17371,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10275,
@@ -17416,7 +17416,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10276,
@@ -17461,7 +17461,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10277,
@@ -17506,7 +17506,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10278,
@@ -17551,7 +17551,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10279,
@@ -17596,7 +17596,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10280,
@@ -17641,7 +17641,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10281,
@@ -17686,7 +17686,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10282,
@@ -17731,7 +17731,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10283,
@@ -17776,7 +17776,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10284,
@@ -17821,7 +17821,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10285,
@@ -17866,7 +17866,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10286,
@@ -17911,7 +17911,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10287,
@@ -17956,7 +17956,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10288,
@@ -18001,7 +18001,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10503,
@@ -18046,7 +18046,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10504,
@@ -18091,7 +18091,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10289,
@@ -18136,7 +18136,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10290,
@@ -18181,7 +18181,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10291,
@@ -18226,7 +18226,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10292,
@@ -18271,7 +18271,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10293,
@@ -18316,7 +18316,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10294,
@@ -18361,7 +18361,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10295,
@@ -18406,7 +18406,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10296,
@@ -18451,7 +18451,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10297,
@@ -18496,7 +18496,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10298,
@@ -18541,7 +18541,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10299,
@@ -18586,7 +18586,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10300,
@@ -18631,7 +18631,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10301,
@@ -18676,7 +18676,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10302,
@@ -18721,7 +18721,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10303,
@@ -18766,7 +18766,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10304,
@@ -18811,7 +18811,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10305,
@@ -18856,7 +18856,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10306,
@@ -18901,7 +18901,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10307,
@@ -18946,7 +18946,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10308,
@@ -18991,7 +18991,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10309,
@@ -19036,7 +19036,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10310,
@@ -19081,7 +19081,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10315,
@@ -19126,7 +19126,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10316,
@@ -19171,7 +19171,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10317,
@@ -19216,7 +19216,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10318,
@@ -19261,7 +19261,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10319,
@@ -19306,7 +19306,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10320,
@@ -19351,7 +19351,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10321,
@@ -19396,7 +19396,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10322,
@@ -19441,7 +19441,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10323,
@@ -19486,7 +19486,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10324,
@@ -19531,7 +19531,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10325,
@@ -19576,7 +19576,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10326,
@@ -19621,7 +19621,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10327,
@@ -19666,7 +19666,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10328,
@@ -19711,7 +19711,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10329,
@@ -19756,7 +19756,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10330,
@@ -19801,7 +19801,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10331,
@@ -19846,7 +19846,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10332,
@@ -19891,7 +19891,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10333,
@@ -19936,7 +19936,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10334,
@@ -19981,7 +19981,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10335,
@@ -20026,7 +20026,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10336,
@@ -20071,7 +20071,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10337,
@@ -20116,7 +20116,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10338,
@@ -20161,7 +20161,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10339,
@@ -20206,7 +20206,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10340,
@@ -20251,7 +20251,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10341,
@@ -20296,7 +20296,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10342,
@@ -20341,7 +20341,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10343,
@@ -20386,7 +20386,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10344,
@@ -20431,7 +20431,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10345,
@@ -20476,7 +20476,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10346,
@@ -20521,7 +20521,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10347,
@@ -20566,7 +20566,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10348,
@@ -20611,7 +20611,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10349,
@@ -20656,7 +20656,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10350,
@@ -20701,7 +20701,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10351,
@@ -20746,7 +20746,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10352,
@@ -20791,7 +20791,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10353,
@@ -20836,7 +20836,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10354,
@@ -20881,7 +20881,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10355,
@@ -20926,7 +20926,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10356,
@@ -20971,7 +20971,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10357,
@@ -21016,7 +21016,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10358,
@@ -21061,7 +21061,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10359,
@@ -21106,7 +21106,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10360,
@@ -21151,7 +21151,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10361,
@@ -21196,7 +21196,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10362,
@@ -21241,7 +21241,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10363,
@@ -21286,7 +21286,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10364,
@@ -21331,7 +21331,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10365,
@@ -21376,7 +21376,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10366,
@@ -21421,7 +21421,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10367,
@@ -21466,7 +21466,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10368,
@@ -21511,7 +21511,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10369,
@@ -21556,7 +21556,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10370,
@@ -21601,7 +21601,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10371,
@@ -21646,7 +21646,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10372,
@@ -21691,7 +21691,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10373,
@@ -21736,7 +21736,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10374,
@@ -21781,7 +21781,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10375,
@@ -21826,7 +21826,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10376,
@@ -21871,7 +21871,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10377,
@@ -21916,7 +21916,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10378,
@@ -21961,7 +21961,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10379,
@@ -22006,7 +22006,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10380,
@@ -22051,7 +22051,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10505,
@@ -22096,7 +22096,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10506,
@@ -22141,7 +22141,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10476,
@@ -22186,7 +22186,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10477,
@@ -22231,7 +22231,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10478,
@@ -22276,7 +22276,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10479,
@@ -22321,7 +22321,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10480,
@@ -22366,7 +22366,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10481,
@@ -22411,7 +22411,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10482,
@@ -22456,7 +22456,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10483,
@@ -22501,7 +22501,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10484,
@@ -22546,7 +22546,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10485,
@@ -22591,7 +22591,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10486,
@@ -22636,7 +22636,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10487,
@@ -22681,7 +22681,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10488,
@@ -22726,7 +22726,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10489,
@@ -22771,7 +22771,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10490,
@@ -22816,7 +22816,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10491,
@@ -22861,7 +22861,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10492,
@@ -22906,7 +22906,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10493,
@@ -22951,7 +22951,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10494,
@@ -22996,7 +22996,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10495,
@@ -23041,7 +23041,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10496,
@@ -23086,7 +23086,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10497,
@@ -23131,7 +23131,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10498,
@@ -23176,7 +23176,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10499,
@@ -23221,7 +23221,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10381,
@@ -23266,7 +23266,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10382,
@@ -23311,7 +23311,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10130,
@@ -23356,7 +23356,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10131,
@@ -23401,7 +23401,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10383,
@@ -23446,7 +23446,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10384,
@@ -23491,7 +23491,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10385,
@@ -23536,7 +23536,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10386,
@@ -23581,7 +23581,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10387,
@@ -23626,7 +23626,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10388,
@@ -23671,7 +23671,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10389,
@@ -23716,7 +23716,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10390,
@@ -23761,7 +23761,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10391,
@@ -23806,7 +23806,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10392,
@@ -23851,7 +23851,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10393,
@@ -23896,7 +23896,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10394,
@@ -23941,7 +23941,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10395,
@@ -23986,7 +23986,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10396,
@@ -24031,7 +24031,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10397,
@@ -24076,7 +24076,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10398,
@@ -24121,7 +24121,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10399,
@@ -24166,7 +24166,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10400,
@@ -24211,7 +24211,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10401,
@@ -24256,7 +24256,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10402,
@@ -24301,7 +24301,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10403,
@@ -24346,7 +24346,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10404,
@@ -24391,7 +24391,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10405,
@@ -24436,7 +24436,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10406,
@@ -24481,7 +24481,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10407,
@@ -24526,7 +24526,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10408,
@@ -24571,7 +24571,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10409,
@@ -24616,7 +24616,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10410,
@@ -24661,7 +24661,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10411,
@@ -24706,7 +24706,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10412,
@@ -24751,7 +24751,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10413,
@@ -24796,7 +24796,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10414,
@@ -24841,7 +24841,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10415,
@@ -24886,7 +24886,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10416,
@@ -24931,7 +24931,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10417,
@@ -24976,7 +24976,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10418,
@@ -25021,7 +25021,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10419,
@@ -25066,7 +25066,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10420,
@@ -25111,7 +25111,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10421,
@@ -25156,7 +25156,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10422,
@@ -25201,7 +25201,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10423,
@@ -25246,7 +25246,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10424,
@@ -25291,7 +25291,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10425,
@@ -25336,7 +25336,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10426,
@@ -25381,7 +25381,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10427,
@@ -25426,7 +25426,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10428,
@@ -25471,7 +25471,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10429,
@@ -25516,7 +25516,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10430,
@@ -25561,7 +25561,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10431,
@@ -25606,7 +25606,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10432,
@@ -25651,7 +25651,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10433,
@@ -25696,7 +25696,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10434,
@@ -25741,7 +25741,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10435,
@@ -25786,7 +25786,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10436,
@@ -25831,52 +25831,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
-    },
-    {
-      "id": 10126,
-      "name": "Shirtcliffe Fellowship",
-      "provider": "Universities New Zealand",
-      "type": "Other",
-      "scope": "International",
-      "hostCountries": [
-        "New Zealand"
-      ],
-      "currency": "INR",
-      "amountOriginal": null,
-      "amount": null,
-      "amountNote": "Not provided by this data source - see the official page",
-      "amountPeriod": "Annual",
-      "awards": null,
-      "deadline": null,
-      "deadlineNote": "Not provided by this data source",
-      "educationLevel": [],
-      "fields": [
-        "All Fields"
-      ],
-      "states": [
-        "All India"
-      ],
-      "nationalities": [
-        "Any country"
-      ],
-      "maxIncome": null,
-      "minimumPercentage": null,
-      "category": "Other",
-      "socialCategories": [],
-      "specialEligibility": "",
-      "requires": null,
-      "gender": "All",
-      "description": "New Zealand award for doctoral study in New Zealand or another Commonwealth country Established 1935.",
-      "documents": [],
-      "process": "See the official page for how to apply.",
-      "officialUrl": "https://www.wikidata.org/wiki/Q115395883",
-      "sources": [
-        "https://www.wikidata.org/wiki/Q115395883"
-      ],
-      "lastVerified": null,
-      "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10438,
@@ -25921,7 +25876,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10439,
@@ -25966,7 +25921,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10440,
@@ -26011,7 +25966,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10441,
@@ -26056,7 +26011,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10442,
@@ -26101,7 +26056,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10443,
@@ -26146,7 +26101,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10444,
@@ -26191,7 +26146,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10445,
@@ -26236,7 +26191,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10446,
@@ -26281,7 +26236,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10447,
@@ -26326,7 +26281,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10448,
@@ -26371,7 +26326,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10449,
@@ -26416,7 +26371,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10450,
@@ -26461,7 +26416,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10451,
@@ -26506,7 +26461,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10452,
@@ -26551,7 +26506,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10453,
@@ -26596,7 +26551,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10454,
@@ -26641,7 +26596,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10455,
@@ -26686,7 +26641,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10456,
@@ -26731,7 +26686,52 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
+    },
+    {
+      "id": 10092,
+      "name": "Heisenberg scholarship",
+      "provider": "German Research Foundation",
+      "type": "Foundation",
+      "scope": "International",
+      "hostCountries": [
+        "Not specified"
+      ],
+      "currency": "INR",
+      "amountOriginal": null,
+      "amount": null,
+      "amountNote": "Not provided by this data source - see the official page",
+      "amountPeriod": "Annual",
+      "awards": null,
+      "deadline": null,
+      "deadlineNote": "Not provided by this data source",
+      "educationLevel": [],
+      "fields": [
+        "All Fields"
+      ],
+      "states": [
+        "All India"
+      ],
+      "nationalities": [
+        "Any country"
+      ],
+      "maxIncome": null,
+      "minimumPercentage": null,
+      "category": "Other",
+      "socialCategories": [],
+      "specialEligibility": "",
+      "requires": null,
+      "gender": "All",
+      "description": "Scholarship of the Heisenberg Programme",
+      "documents": [],
+      "process": "See the official page for how to apply.",
+      "officialUrl": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/heisenberg",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q62102902"
+      ],
+      "lastVerified": null,
+      "dataSource": "wikidata",
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10134,
@@ -26776,7 +26776,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10135,
@@ -26821,97 +26821,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
-    },
-    {
-      "id": 10468,
-      "name": "Fairmont Firefighters Scholarship",
-      "provider": "Not specified",
-      "type": "Other",
-      "scope": "International",
-      "hostCountries": [
-        "Not specified"
-      ],
-      "currency": "INR",
-      "amountOriginal": null,
-      "amount": null,
-      "amountNote": "Not provided by this data source - see the official page",
-      "amountPeriod": "Annual",
-      "awards": null,
-      "deadline": null,
-      "deadlineNote": "Not provided by this data source",
-      "educationLevel": [],
-      "fields": [
-        "All Fields"
-      ],
-      "states": [
-        "All India"
-      ],
-      "nationalities": [
-        "Any country"
-      ],
-      "maxIncome": null,
-      "minimumPercentage": null,
-      "category": "Other",
-      "socialCategories": [],
-      "specialEligibility": "",
-      "requires": null,
-      "gender": "All",
-      "description": "Scholarship awarded through Fairmont Dollars for Scholars in Minnesota, United States",
-      "documents": [],
-      "process": "See the official page for how to apply.",
-      "officialUrl": "https://www.wikidata.org/wiki/Q141783677",
-      "sources": [
-        "https://www.wikidata.org/wiki/Q141783677"
-      ],
-      "lastVerified": null,
-      "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
-    },
-    {
-      "id": 10507,
-      "name": "Bonnie Atkins Memorial Scholarship",
-      "provider": "Global Kung Fu Alliance",
-      "type": "Other",
-      "scope": "International",
-      "hostCountries": [
-        "Not specified"
-      ],
-      "currency": "INR",
-      "amountOriginal": null,
-      "amount": null,
-      "amountNote": "Not provided by this data source - see the official page",
-      "amountPeriod": "Annual",
-      "awards": null,
-      "deadline": null,
-      "deadlineNote": "Not provided by this data source",
-      "educationLevel": [],
-      "fields": [
-        "All Fields"
-      ],
-      "states": [
-        "All India"
-      ],
-      "nationalities": [
-        "Any country"
-      ],
-      "maxIncome": null,
-      "minimumPercentage": null,
-      "category": "Other",
-      "socialCategories": [],
-      "specialEligibility": "",
-      "requires": null,
-      "gender": "All",
-      "description": "Quarterly scholarship founded by Wing Chun instructor Kendra Mahon (Kung Fu Kendra)",
-      "documents": [],
-      "process": "See the official page for how to apply.",
-      "officialUrl": "https://kungfukendra.com/global-kung-fu-alliance/",
-      "sources": [
-        "https://www.wikidata.org/wiki/Q141822448"
-      ],
-      "lastVerified": null,
-      "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10474,
@@ -26956,7 +26866,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10462,
@@ -27001,7 +26911,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10463,
@@ -27046,7 +26956,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10464,
@@ -27091,7 +27001,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10465,
@@ -27136,7 +27046,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10466,
@@ -27181,7 +27091,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10467,
@@ -27226,7 +27136,97 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
+    },
+    {
+      "id": 10468,
+      "name": "Fairmont Firefighters Scholarship",
+      "provider": "Not specified",
+      "type": "Other",
+      "scope": "International",
+      "hostCountries": [
+        "Not specified"
+      ],
+      "currency": "INR",
+      "amountOriginal": null,
+      "amount": null,
+      "amountNote": "Not provided by this data source - see the official page",
+      "amountPeriod": "Annual",
+      "awards": null,
+      "deadline": null,
+      "deadlineNote": "Not provided by this data source",
+      "educationLevel": [],
+      "fields": [
+        "All Fields"
+      ],
+      "states": [
+        "All India"
+      ],
+      "nationalities": [
+        "Any country"
+      ],
+      "maxIncome": null,
+      "minimumPercentage": null,
+      "category": "Other",
+      "socialCategories": [],
+      "specialEligibility": "",
+      "requires": null,
+      "gender": "All",
+      "description": "Scholarship awarded through Fairmont Dollars for Scholars in Minnesota, United States",
+      "documents": [],
+      "process": "See the official page for how to apply.",
+      "officialUrl": "https://www.wikidata.org/wiki/Q141783677",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q141783677"
+      ],
+      "lastVerified": null,
+      "dataSource": "wikidata",
+      "fetchedAt": "2026-11-04T09:40:59Z"
+    },
+    {
+      "id": 10507,
+      "name": "Bonnie Atkins Memorial Scholarship",
+      "provider": "Global Kung Fu Alliance",
+      "type": "Other",
+      "scope": "International",
+      "hostCountries": [
+        "Not specified"
+      ],
+      "currency": "INR",
+      "amountOriginal": null,
+      "amount": null,
+      "amountNote": "Not provided by this data source - see the official page",
+      "amountPeriod": "Annual",
+      "awards": null,
+      "deadline": null,
+      "deadlineNote": "Not provided by this data source",
+      "educationLevel": [],
+      "fields": [
+        "All Fields"
+      ],
+      "states": [
+        "All India"
+      ],
+      "nationalities": [
+        "Any country"
+      ],
+      "maxIncome": null,
+      "minimumPercentage": null,
+      "category": "Other",
+      "socialCategories": [],
+      "specialEligibility": "",
+      "requires": null,
+      "gender": "All",
+      "description": "Quarterly scholarship founded by Wing Chun instructor Kendra Mahon (Kung Fu Kendra)",
+      "documents": [],
+      "process": "See the official page for how to apply.",
+      "officialUrl": "https://kungfukendra.com/global-kung-fu-alliance/",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q141822448"
+      ],
+      "lastVerified": null,
+      "dataSource": "wikidata",
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10461,
@@ -27271,7 +27271,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10457,
@@ -27316,7 +27316,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10458,
@@ -27361,7 +27361,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10459,
@@ -27406,7 +27406,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10460,
@@ -27451,7 +27451,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10313,
@@ -27496,7 +27496,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10314,
@@ -27541,7 +27541,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10311,
@@ -27586,7 +27586,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10312,
@@ -27631,7 +27631,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10475,
@@ -27676,7 +27676,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10501,
@@ -27721,7 +27721,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10502,
@@ -27766,7 +27766,52 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
+    },
+    {
+      "id": 10510,
+      "name": "Wexner Heritage Program",
+      "provider": "Not specified",
+      "type": "Other",
+      "scope": "International",
+      "hostCountries": [
+        "Not specified"
+      ],
+      "currency": "INR",
+      "amountOriginal": null,
+      "amount": null,
+      "amountNote": "Not provided by this data source - see the official page",
+      "amountPeriod": "Annual",
+      "awards": null,
+      "deadline": null,
+      "deadlineNote": "Not provided by this data source",
+      "educationLevel": [],
+      "fields": [
+        "All Fields"
+      ],
+      "states": [
+        "All India"
+      ],
+      "nationalities": [
+        "Any country"
+      ],
+      "maxIncome": null,
+      "minimumPercentage": null,
+      "category": "Other",
+      "socialCategories": [],
+      "specialEligibility": "",
+      "requires": null,
+      "gender": "All",
+      "description": "Two-year educational experience",
+      "documents": [],
+      "process": "See the official page for how to apply.",
+      "officialUrl": "https://www.wexnerfoundation.org/programs/wexner-heritage-program/",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q141986233"
+      ],
+      "lastVerified": null,
+      "dataSource": "wikidata",
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10500,
@@ -27811,7 +27856,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10437,
@@ -27856,7 +27901,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10202,
@@ -27901,7 +27946,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10203,
@@ -27946,7 +27991,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10204,
@@ -27991,7 +28036,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10205,
@@ -28036,7 +28081,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10206,
@@ -28081,7 +28126,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10207,
@@ -28126,7 +28171,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10208,
@@ -28171,7 +28216,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10209,
@@ -28216,7 +28261,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10210,
@@ -28261,7 +28306,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10211,
@@ -28306,7 +28351,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10212,
@@ -28351,7 +28396,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10213,
@@ -28396,7 +28441,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10214,
@@ -28441,7 +28486,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10215,
@@ -28486,7 +28531,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10216,
@@ -28531,7 +28576,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10217,
@@ -28576,7 +28621,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     },
     {
       "id": 10218,
@@ -28621,7 +28666,7 @@
       ],
       "lastVerified": null,
       "dataSource": "wikidata",
-      "fetchedAt": "2026-11-02T09:47:49Z"
+      "fetchedAt": "2026-11-04T09:40:59Z"
     }
   ]
 }

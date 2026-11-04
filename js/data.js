@@ -1,7 +1,7 @@
 /* ============================================================
    ScholarConnect - REAL scholarship data (national + international)
    GENERATED from database/generator - mirrors database/seed.sql.
-   563 real scholarships, each with its official URL (officialUrl) and the
+   564 real scholarships, each with its official URL (officialUrl) and the
    page(s) it was checked against (sources). Last verified: 2026-10-18.
    Amounts/deadlines change every cycle; always confirm on officialUrl.
 
@@ -3168,7 +3168,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10002,
@@ -3213,7 +3213,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10003,
@@ -3258,7 +3258,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10004,
@@ -3303,7 +3303,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10005,
@@ -3348,7 +3348,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10006,
@@ -3393,7 +3393,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10007,
@@ -3438,7 +3438,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10008,
@@ -3483,7 +3483,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10009,
@@ -3528,7 +3528,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10010,
@@ -3573,7 +3573,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10011,
@@ -3618,7 +3618,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10012,
@@ -3663,7 +3663,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10013,
@@ -3708,7 +3708,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10014,
@@ -3753,7 +3753,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10015,
@@ -3798,7 +3798,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10016,
@@ -3843,7 +3843,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10017,
@@ -3888,7 +3888,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10018,
@@ -3933,7 +3933,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10019,
@@ -3978,7 +3978,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10020,
@@ -4023,7 +4023,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10021,
@@ -4068,7 +4068,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10022,
@@ -4113,7 +4113,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10023,
@@ -4158,7 +4158,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10024,
@@ -4203,7 +4203,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10025,
@@ -4248,7 +4248,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10026,
@@ -4293,7 +4293,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10027,
@@ -4338,7 +4338,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10028,
@@ -4383,7 +4383,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10029,
@@ -4428,7 +4428,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10030,
@@ -4473,7 +4473,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10031,
@@ -4518,7 +4518,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10032,
@@ -4563,7 +4563,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10033,
@@ -4608,7 +4608,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10034,
@@ -4653,7 +4653,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10035,
@@ -4698,7 +4698,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10036,
@@ -4743,7 +4743,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10037,
@@ -4788,7 +4788,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10038,
@@ -4833,7 +4833,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10039,
@@ -4878,7 +4878,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10040,
@@ -4923,7 +4923,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10041,
@@ -4968,7 +4968,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10042,
@@ -5013,7 +5013,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10043,
@@ -5058,7 +5058,52 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
+  },
+  {
+    "id": 10045,
+    "name": "Hemmung der Interferon-vermittelten Virusabwehr durch das E6-Protein des humanen Papillomvirus 16",
+    "provider": "German Research Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Research project",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116073361",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116073361"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10046,
@@ -5103,7 +5148,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10047,
@@ -5148,7 +5193,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10048,
@@ -5193,7 +5238,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10049,
@@ -5238,7 +5283,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10050,
@@ -5283,7 +5328,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10051,
@@ -5328,7 +5373,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10052,
@@ -5373,7 +5418,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10053,
@@ -5418,7 +5463,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10054,
@@ -5463,7 +5508,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10055,
@@ -5508,7 +5553,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10056,
@@ -5553,7 +5598,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10057,
@@ -5598,7 +5643,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10058,
@@ -5643,7 +5688,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10059,
@@ -5688,7 +5733,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10060,
@@ -5733,7 +5778,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10061,
@@ -5778,7 +5823,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10062,
@@ -5823,7 +5868,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10063,
@@ -5868,7 +5913,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10064,
@@ -5913,7 +5958,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10065,
@@ -5958,7 +6003,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10066,
@@ -6003,7 +6048,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10067,
@@ -6048,7 +6093,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10068,
@@ -6094,7 +6139,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10069,
@@ -6139,7 +6184,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10070,
@@ -6185,7 +6230,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10071,
@@ -6230,7 +6275,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10072,
@@ -6275,7 +6320,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10073,
@@ -6320,7 +6365,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10074,
@@ -6365,7 +6410,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10075,
@@ -6410,7 +6455,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10076,
@@ -6455,7 +6500,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10077,
@@ -6500,7 +6545,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10078,
@@ -6545,7 +6590,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10079,
@@ -6590,7 +6635,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10080,
@@ -6635,7 +6680,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10081,
@@ -6680,7 +6725,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10082,
@@ -6725,7 +6770,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10083,
@@ -6770,7 +6815,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10084,
@@ -6815,7 +6860,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10085,
@@ -6860,7 +6905,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10086,
@@ -6905,7 +6950,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10087,
@@ -6950,7 +6995,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10088,
@@ -6995,7 +7040,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10089,
@@ -7040,7 +7085,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10090,
@@ -7085,7 +7130,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10091,
@@ -7130,97 +7175,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
-  },
-  {
-    "id": 10044,
-    "name": "Sir George Elliot Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "New Zealand scholarship Established 1999.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.elliottrust.org.nz/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q115683866"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
-  },
-  {
-    "id": 10092,
-    "name": "Heisenberg scholarship",
-    "provider": "German Research Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship of the Heisenberg Programme",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/heisenberg",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q62102902"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10093,
@@ -7265,7 +7220,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10094,
@@ -7310,7 +7265,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10095,
@@ -7355,7 +7310,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10096,
@@ -7400,7 +7355,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10097,
@@ -7445,7 +7400,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10098,
@@ -7490,7 +7445,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10099,
@@ -7535,7 +7490,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10100,
@@ -7580,7 +7535,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10101,
@@ -7627,7 +7582,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10102,
@@ -7672,7 +7627,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10103,
@@ -7717,7 +7672,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10104,
@@ -7762,7 +7717,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10105,
@@ -7807,7 +7762,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10106,
@@ -7852,7 +7807,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10107,
@@ -7897,7 +7852,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10108,
@@ -7942,7 +7897,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10109,
@@ -7987,7 +7942,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10110,
@@ -8032,7 +7987,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10111,
@@ -8077,7 +8032,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10112,
@@ -8122,7 +8077,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10113,
@@ -8167,7 +8122,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10114,
@@ -8212,7 +8167,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10115,
@@ -8257,7 +8212,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10116,
@@ -8302,7 +8257,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10117,
@@ -8347,7 +8302,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10118,
@@ -8392,7 +8347,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10119,
@@ -8437,7 +8392,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10120,
@@ -8482,7 +8437,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10121,
@@ -8527,7 +8482,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10122,
@@ -8572,7 +8527,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10123,
@@ -8617,7 +8572,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10124,
@@ -8662,7 +8617,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10125,
@@ -8707,7 +8662,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10508,
@@ -8752,16 +8707,16 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
-    "id": 10045,
-    "name": "Hemmung der Interferon-vermittelten Virusabwehr durch das E6-Protein des humanen Papillomvirus 16",
-    "provider": "German Research Foundation",
-    "type": "Foundation",
+    "id": 10126,
+    "name": "Shirtcliffe Fellowship",
+    "provider": "Universities New Zealand",
+    "type": "Other",
     "scope": "International",
     "hostCountries": [
-      "Not specified"
+      "New Zealand"
     ],
     "currency": "INR",
     "amountOriginal": null,
@@ -8788,16 +8743,61 @@ const SCHOLARSHIPS = [
     "specialEligibility": "",
     "requires": null,
     "gender": "All",
-    "description": "Research project",
+    "description": "New Zealand award for doctoral study in New Zealand or another Commonwealth country Established 1935.",
     "documents": [],
     "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116073361",
+    "officialUrl": "https://www.wikidata.org/wiki/Q115395883",
     "sources": [
-      "https://www.wikidata.org/wiki/Q116073361"
+      "https://www.wikidata.org/wiki/Q115395883"
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
+  },
+  {
+    "id": 10044,
+    "name": "Sir George Elliot Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "New Zealand scholarship Established 1999.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.elliottrust.org.nz/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q115683866"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10127,
@@ -8842,7 +8842,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10128,
@@ -8887,7 +8887,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10129,
@@ -8932,7 +8932,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10132,
@@ -8977,7 +8977,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10133,
@@ -9022,7 +9022,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10188,
@@ -9067,7 +9067,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10189,
@@ -9112,7 +9112,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10190,
@@ -9157,7 +9157,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10191,
@@ -9202,7 +9202,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10192,
@@ -9247,7 +9247,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10193,
@@ -9292,7 +9292,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10194,
@@ -9337,7 +9337,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10195,
@@ -9382,7 +9382,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10196,
@@ -9427,7 +9427,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10197,
@@ -9472,7 +9472,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10198,
@@ -9517,7 +9517,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10199,
@@ -9562,7 +9562,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10200,
@@ -9607,7 +9607,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10201,
@@ -9652,7 +9652,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10473,
@@ -9697,7 +9697,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10136,
@@ -9742,7 +9742,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10137,
@@ -9787,7 +9787,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10138,
@@ -9832,7 +9832,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10139,
@@ -9877,7 +9877,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10140,
@@ -9922,7 +9922,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10141,
@@ -9967,7 +9967,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10142,
@@ -10012,7 +10012,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10143,
@@ -10057,7 +10057,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10144,
@@ -10102,7 +10102,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10145,
@@ -10147,7 +10147,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10146,
@@ -10192,7 +10192,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10147,
@@ -10237,7 +10237,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10148,
@@ -10282,7 +10282,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10149,
@@ -10327,7 +10327,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10150,
@@ -10372,7 +10372,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10151,
@@ -10417,7 +10417,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10152,
@@ -10462,7 +10462,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10153,
@@ -10507,7 +10507,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10154,
@@ -10552,7 +10552,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10155,
@@ -10597,7 +10597,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10156,
@@ -10642,7 +10642,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10157,
@@ -10687,7 +10687,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10158,
@@ -10732,7 +10732,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10159,
@@ -10777,7 +10777,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10160,
@@ -10822,7 +10822,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10161,
@@ -10867,7 +10867,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10162,
@@ -10912,7 +10912,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10163,
@@ -10957,7 +10957,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10164,
@@ -11002,7 +11002,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10165,
@@ -11047,7 +11047,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10166,
@@ -11092,7 +11092,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10167,
@@ -11137,7 +11137,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10168,
@@ -11182,7 +11182,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10169,
@@ -11227,7 +11227,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10170,
@@ -11272,7 +11272,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10171,
@@ -11317,7 +11317,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10172,
@@ -11362,7 +11362,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10173,
@@ -11407,7 +11407,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10174,
@@ -11452,7 +11452,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10175,
@@ -11497,7 +11497,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10176,
@@ -11542,7 +11542,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10177,
@@ -11587,7 +11587,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10178,
@@ -11632,7 +11632,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10179,
@@ -11677,7 +11677,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10180,
@@ -11722,7 +11722,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10181,
@@ -11767,7 +11767,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10182,
@@ -11812,7 +11812,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10183,
@@ -11857,7 +11857,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10184,
@@ -11902,7 +11902,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10185,
@@ -11947,7 +11947,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10186,
@@ -11992,7 +11992,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10187,
@@ -12037,7 +12037,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10470,
@@ -12082,7 +12082,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10471,
@@ -12127,7 +12127,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10472,
@@ -12172,7 +12172,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10469,
@@ -12217,7 +12217,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10219,
@@ -12262,7 +12262,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10220,
@@ -12307,7 +12307,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10221,
@@ -12352,7 +12352,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10222,
@@ -12397,7 +12397,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10223,
@@ -12442,7 +12442,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10224,
@@ -12487,7 +12487,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10225,
@@ -12532,7 +12532,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10226,
@@ -12577,7 +12577,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10227,
@@ -12622,7 +12622,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10228,
@@ -12667,7 +12667,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10229,
@@ -12712,7 +12712,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10230,
@@ -12757,7 +12757,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10231,
@@ -12802,7 +12802,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10232,
@@ -12847,7 +12847,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10233,
@@ -12892,7 +12892,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10234,
@@ -12937,7 +12937,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10235,
@@ -12982,7 +12982,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10236,
@@ -13027,7 +13027,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10237,
@@ -13072,7 +13072,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10238,
@@ -13117,7 +13117,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10239,
@@ -13162,7 +13162,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10240,
@@ -13207,7 +13207,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10241,
@@ -13252,7 +13252,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10242,
@@ -13297,7 +13297,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10243,
@@ -13342,7 +13342,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10244,
@@ -13387,7 +13387,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10245,
@@ -13432,7 +13432,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10246,
@@ -13477,7 +13477,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10247,
@@ -13522,7 +13522,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10248,
@@ -13567,7 +13567,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10249,
@@ -13612,7 +13612,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10250,
@@ -13657,7 +13657,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10251,
@@ -13702,7 +13702,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10252,
@@ -13747,7 +13747,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10253,
@@ -13792,7 +13792,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10254,
@@ -13837,7 +13837,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10255,
@@ -13882,7 +13882,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10256,
@@ -13927,7 +13927,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10257,
@@ -13972,7 +13972,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10258,
@@ -14017,7 +14017,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10259,
@@ -14062,7 +14062,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10260,
@@ -14107,7 +14107,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10261,
@@ -14152,7 +14152,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10262,
@@ -14197,7 +14197,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10263,
@@ -14243,7 +14243,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10264,
@@ -14288,7 +14288,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10265,
@@ -14333,7 +14333,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10266,
@@ -14378,7 +14378,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10267,
@@ -14423,7 +14423,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10268,
@@ -14468,7 +14468,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10269,
@@ -14513,7 +14513,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10270,
@@ -14558,7 +14558,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10271,
@@ -14603,7 +14603,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10272,
@@ -14648,7 +14648,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10273,
@@ -14693,7 +14693,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10274,
@@ -14738,7 +14738,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10275,
@@ -14783,7 +14783,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10276,
@@ -14828,7 +14828,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10277,
@@ -14873,7 +14873,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10278,
@@ -14918,7 +14918,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10279,
@@ -14963,7 +14963,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10280,
@@ -15008,7 +15008,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10281,
@@ -15053,7 +15053,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10282,
@@ -15098,7 +15098,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10283,
@@ -15143,7 +15143,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10284,
@@ -15188,7 +15188,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10285,
@@ -15233,7 +15233,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10286,
@@ -15278,7 +15278,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10287,
@@ -15323,7 +15323,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10288,
@@ -15368,7 +15368,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10503,
@@ -15413,7 +15413,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10504,
@@ -15458,7 +15458,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10289,
@@ -15503,7 +15503,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10290,
@@ -15548,7 +15548,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10291,
@@ -15593,7 +15593,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10292,
@@ -15638,7 +15638,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10293,
@@ -15683,7 +15683,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10294,
@@ -15728,7 +15728,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10295,
@@ -15773,7 +15773,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10296,
@@ -15818,7 +15818,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10297,
@@ -15863,7 +15863,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10298,
@@ -15908,7 +15908,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10299,
@@ -15953,7 +15953,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10300,
@@ -15998,7 +15998,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10301,
@@ -16043,7 +16043,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10302,
@@ -16088,7 +16088,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10303,
@@ -16133,7 +16133,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10304,
@@ -16178,7 +16178,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10305,
@@ -16223,7 +16223,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10306,
@@ -16268,7 +16268,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10307,
@@ -16313,7 +16313,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10308,
@@ -16358,7 +16358,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10309,
@@ -16403,7 +16403,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10310,
@@ -16448,7 +16448,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10315,
@@ -16493,7 +16493,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10316,
@@ -16538,7 +16538,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10317,
@@ -16583,7 +16583,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10318,
@@ -16628,7 +16628,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10319,
@@ -16673,7 +16673,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10320,
@@ -16718,7 +16718,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10321,
@@ -16763,7 +16763,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10322,
@@ -16808,7 +16808,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10323,
@@ -16853,7 +16853,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10324,
@@ -16898,7 +16898,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10325,
@@ -16943,7 +16943,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10326,
@@ -16988,7 +16988,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10327,
@@ -17033,7 +17033,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10328,
@@ -17078,7 +17078,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10329,
@@ -17123,7 +17123,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10330,
@@ -17168,7 +17168,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10331,
@@ -17213,7 +17213,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10332,
@@ -17258,7 +17258,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10333,
@@ -17303,7 +17303,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10334,
@@ -17348,7 +17348,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10335,
@@ -17393,7 +17393,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10336,
@@ -17438,7 +17438,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10337,
@@ -17483,7 +17483,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10338,
@@ -17528,7 +17528,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10339,
@@ -17573,7 +17573,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10340,
@@ -17618,7 +17618,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10341,
@@ -17663,7 +17663,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10342,
@@ -17708,7 +17708,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10343,
@@ -17753,7 +17753,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10344,
@@ -17798,7 +17798,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10345,
@@ -17843,7 +17843,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10346,
@@ -17888,7 +17888,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10347,
@@ -17933,7 +17933,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10348,
@@ -17978,7 +17978,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10349,
@@ -18023,7 +18023,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10350,
@@ -18068,7 +18068,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10351,
@@ -18113,7 +18113,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10352,
@@ -18158,7 +18158,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10353,
@@ -18203,7 +18203,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10354,
@@ -18248,7 +18248,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10355,
@@ -18293,7 +18293,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10356,
@@ -18338,7 +18338,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10357,
@@ -18383,7 +18383,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10358,
@@ -18428,7 +18428,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10359,
@@ -18473,7 +18473,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10360,
@@ -18518,7 +18518,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10361,
@@ -18563,7 +18563,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10362,
@@ -18608,7 +18608,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10363,
@@ -18653,7 +18653,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10364,
@@ -18698,7 +18698,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10365,
@@ -18743,7 +18743,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10366,
@@ -18788,7 +18788,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10367,
@@ -18833,7 +18833,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10368,
@@ -18878,7 +18878,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10369,
@@ -18923,7 +18923,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10370,
@@ -18968,7 +18968,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10371,
@@ -19013,7 +19013,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10372,
@@ -19058,7 +19058,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10373,
@@ -19103,7 +19103,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10374,
@@ -19148,7 +19148,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10375,
@@ -19193,7 +19193,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10376,
@@ -19238,7 +19238,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10377,
@@ -19283,7 +19283,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10378,
@@ -19328,7 +19328,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10379,
@@ -19373,7 +19373,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10380,
@@ -19418,7 +19418,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10505,
@@ -19463,7 +19463,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10506,
@@ -19508,7 +19508,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10476,
@@ -19553,7 +19553,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10477,
@@ -19598,7 +19598,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10478,
@@ -19643,7 +19643,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10479,
@@ -19688,7 +19688,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10480,
@@ -19733,7 +19733,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10481,
@@ -19778,7 +19778,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10482,
@@ -19823,7 +19823,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10483,
@@ -19868,7 +19868,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10484,
@@ -19913,7 +19913,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10485,
@@ -19958,7 +19958,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10486,
@@ -20003,7 +20003,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10487,
@@ -20048,7 +20048,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10488,
@@ -20093,7 +20093,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10489,
@@ -20138,7 +20138,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10490,
@@ -20183,7 +20183,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10491,
@@ -20228,7 +20228,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10492,
@@ -20273,7 +20273,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10493,
@@ -20318,7 +20318,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10494,
@@ -20363,7 +20363,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10495,
@@ -20408,7 +20408,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10496,
@@ -20453,7 +20453,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10497,
@@ -20498,7 +20498,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10498,
@@ -20543,7 +20543,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10499,
@@ -20588,7 +20588,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10381,
@@ -20633,7 +20633,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10382,
@@ -20678,7 +20678,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10130,
@@ -20723,7 +20723,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10131,
@@ -20768,7 +20768,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10383,
@@ -20813,7 +20813,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10384,
@@ -20858,7 +20858,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10385,
@@ -20903,7 +20903,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10386,
@@ -20948,7 +20948,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10387,
@@ -20993,7 +20993,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10388,
@@ -21038,7 +21038,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10389,
@@ -21083,7 +21083,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10390,
@@ -21128,7 +21128,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10391,
@@ -21173,7 +21173,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10392,
@@ -21218,7 +21218,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10393,
@@ -21263,7 +21263,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10394,
@@ -21308,7 +21308,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10395,
@@ -21353,7 +21353,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10396,
@@ -21398,7 +21398,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10397,
@@ -21443,7 +21443,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10398,
@@ -21488,7 +21488,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10399,
@@ -21533,7 +21533,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10400,
@@ -21578,7 +21578,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10401,
@@ -21623,7 +21623,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10402,
@@ -21668,7 +21668,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10403,
@@ -21713,7 +21713,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10404,
@@ -21758,7 +21758,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10405,
@@ -21803,7 +21803,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10406,
@@ -21848,7 +21848,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10407,
@@ -21893,7 +21893,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10408,
@@ -21938,7 +21938,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10409,
@@ -21983,7 +21983,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10410,
@@ -22028,7 +22028,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10411,
@@ -22073,7 +22073,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10412,
@@ -22118,7 +22118,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10413,
@@ -22163,7 +22163,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10414,
@@ -22208,7 +22208,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10415,
@@ -22253,7 +22253,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10416,
@@ -22298,7 +22298,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10417,
@@ -22343,7 +22343,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10418,
@@ -22388,7 +22388,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10419,
@@ -22433,7 +22433,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10420,
@@ -22478,7 +22478,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10421,
@@ -22523,7 +22523,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10422,
@@ -22568,7 +22568,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10423,
@@ -22613,7 +22613,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10424,
@@ -22658,7 +22658,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10425,
@@ -22703,7 +22703,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10426,
@@ -22748,7 +22748,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10427,
@@ -22793,7 +22793,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10428,
@@ -22838,7 +22838,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10429,
@@ -22883,7 +22883,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10430,
@@ -22928,7 +22928,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10431,
@@ -22973,7 +22973,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10432,
@@ -23018,7 +23018,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10433,
@@ -23063,7 +23063,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10434,
@@ -23108,7 +23108,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10435,
@@ -23153,7 +23153,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10436,
@@ -23198,52 +23198,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
-  },
-  {
-    "id": 10126,
-    "name": "Shirtcliffe Fellowship",
-    "provider": "Universities New Zealand",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "New Zealand award for doctoral study in New Zealand or another Commonwealth country Established 1935.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q115395883",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q115395883"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10438,
@@ -23288,7 +23243,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10439,
@@ -23333,7 +23288,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10440,
@@ -23378,7 +23333,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10441,
@@ -23423,7 +23378,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10442,
@@ -23468,7 +23423,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10443,
@@ -23513,7 +23468,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10444,
@@ -23558,7 +23513,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10445,
@@ -23603,7 +23558,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10446,
@@ -23648,7 +23603,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10447,
@@ -23693,7 +23648,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10448,
@@ -23738,7 +23693,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10449,
@@ -23783,7 +23738,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10450,
@@ -23828,7 +23783,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10451,
@@ -23873,7 +23828,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10452,
@@ -23918,7 +23873,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10453,
@@ -23963,7 +23918,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10454,
@@ -24008,7 +23963,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10455,
@@ -24053,7 +24008,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10456,
@@ -24098,7 +24053,52 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
+  },
+  {
+    "id": 10092,
+    "name": "Heisenberg scholarship",
+    "provider": "German Research Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship of the Heisenberg Programme",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/heisenberg",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q62102902"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10134,
@@ -24143,7 +24143,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10135,
@@ -24188,97 +24188,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
-  },
-  {
-    "id": 10468,
-    "name": "Fairmont Firefighters Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship awarded through Fairmont Dollars for Scholars in Minnesota, United States",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141783677",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141783677"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
-  },
-  {
-    "id": 10507,
-    "name": "Bonnie Atkins Memorial Scholarship",
-    "provider": "Global Kung Fu Alliance",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Quarterly scholarship founded by Wing Chun instructor Kendra Mahon (Kung Fu Kendra)",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://kungfukendra.com/global-kung-fu-alliance/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141822448"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10474,
@@ -24323,7 +24233,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10462,
@@ -24368,7 +24278,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10463,
@@ -24413,7 +24323,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10464,
@@ -24458,7 +24368,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10465,
@@ -24503,7 +24413,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10466,
@@ -24548,7 +24458,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10467,
@@ -24593,7 +24503,97 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
+  },
+  {
+    "id": 10468,
+    "name": "Fairmont Firefighters Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship awarded through Fairmont Dollars for Scholars in Minnesota, United States",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141783677",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141783677"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-04T09:40:59Z"
+  },
+  {
+    "id": 10507,
+    "name": "Bonnie Atkins Memorial Scholarship",
+    "provider": "Global Kung Fu Alliance",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Quarterly scholarship founded by Wing Chun instructor Kendra Mahon (Kung Fu Kendra)",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://kungfukendra.com/global-kung-fu-alliance/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141822448"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10461,
@@ -24638,7 +24638,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10457,
@@ -24683,7 +24683,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10458,
@@ -24728,7 +24728,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10459,
@@ -24773,7 +24773,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10460,
@@ -24818,7 +24818,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10313,
@@ -24863,7 +24863,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10314,
@@ -24908,7 +24908,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10311,
@@ -24953,7 +24953,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10312,
@@ -24998,7 +24998,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10475,
@@ -25043,7 +25043,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10501,
@@ -25088,7 +25088,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10502,
@@ -25133,7 +25133,52 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
+  },
+  {
+    "id": 10510,
+    "name": "Wexner Heritage Program",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Two-year educational experience",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wexnerfoundation.org/programs/wexner-heritage-program/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141986233"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10500,
@@ -25178,7 +25223,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10437,
@@ -25223,7 +25268,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10202,
@@ -25268,7 +25313,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10203,
@@ -25313,7 +25358,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10204,
@@ -25358,7 +25403,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10205,
@@ -25403,7 +25448,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10206,
@@ -25448,7 +25493,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10207,
@@ -25493,7 +25538,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10208,
@@ -25538,7 +25583,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10209,
@@ -25583,7 +25628,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10210,
@@ -25628,7 +25673,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10211,
@@ -25673,7 +25718,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10212,
@@ -25718,7 +25763,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10213,
@@ -25763,7 +25808,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10214,
@@ -25808,7 +25853,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10215,
@@ -25853,7 +25898,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10216,
@@ -25898,7 +25943,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10217,
@@ -25943,7 +25988,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   },
   {
     "id": 10218,
@@ -25988,7 +26033,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-02T09:47:49Z"
+    "fetchedAt": "2026-11-04T09:40:59Z"
   }
 ];
 
@@ -25999,7 +26044,7 @@ const CURRENCY_SYMBOLS = {"INR": "₹", "USD": "$", "GBP": "£", "EUR": "€", "
 const DATA_LAST_VERIFIED = "2026-10-18";
 
 /* When the APIs were last synced (null = never) */
-const DATA_LAST_SYNCED = "2026-11-02T09:47:49Z";
+const DATA_LAST_SYNCED = "2026-11-04T09:40:59Z";
 
 /* All Indian states & union territories (for profile forms) */
 const INDIAN_STATES = ["Andaman and Nicobar Islands", "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chandigarh", "Chhattisgarh", "Dadra and Nagar Haveli and Daman and Diu", "Delhi", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jammu and Kashmir", "Jharkhand", "Karnataka", "Kerala", "Ladakh", "Lakshadweep", "Madhya Pradesh", "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha", "Puducherry", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal"];
