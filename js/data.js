@@ -1,7 +1,7 @@
 /* ============================================================
    ScholarConnect - REAL scholarship data (national + international)
    GENERATED from database/generator - mirrors database/seed.sql.
-   566 real scholarships, each with its official URL (officialUrl) and the
+   567 real scholarships, each with its official URL (officialUrl) and the
    page(s) it was checked against (sources). Last verified: 2026-10-18.
    Amounts/deadlines change every cycle; always confirm on officialUrl.
 
@@ -3168,7 +3168,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10002,
@@ -3213,7 +3213,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10003,
@@ -3258,7 +3258,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10004,
@@ -3303,7 +3303,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10005,
@@ -3348,7 +3348,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10006,
@@ -3393,7 +3393,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10007,
@@ -3438,7 +3438,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10008,
@@ -3483,7 +3483,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10009,
@@ -3528,7 +3528,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10010,
@@ -3573,7 +3573,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10011,
@@ -3618,7 +3618,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10012,
@@ -3663,7 +3663,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10013,
@@ -3708,7 +3708,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10014,
@@ -3753,7 +3753,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10015,
@@ -3798,7 +3798,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10016,
@@ -3843,7 +3843,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10017,
@@ -3888,7 +3888,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10018,
@@ -3933,7 +3933,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10019,
@@ -3978,7 +3978,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10020,
@@ -4023,7 +4023,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10021,
@@ -4068,7 +4068,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10022,
@@ -4113,7 +4113,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10023,
@@ -4158,7 +4158,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10024,
@@ -4203,7 +4203,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10025,
@@ -4248,7 +4248,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10026,
@@ -4293,7 +4293,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10027,
@@ -4338,7 +4338,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10028,
@@ -4383,7 +4383,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10029,
@@ -4428,7 +4428,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10030,
@@ -4473,7 +4473,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10031,
@@ -4518,7 +4518,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10032,
@@ -4563,7 +4563,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10033,
@@ -4608,7 +4608,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10034,
@@ -4653,7 +4653,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10035,
@@ -4698,7 +4698,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10036,
@@ -4743,7 +4743,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10037,
@@ -4788,7 +4788,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10038,
@@ -4833,7 +4833,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10039,
@@ -4878,7 +4878,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10040,
@@ -4923,7 +4923,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10041,
@@ -4968,7 +4968,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10042,
@@ -5013,7 +5013,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10043,
@@ -5058,7 +5058,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10046,
@@ -5103,7 +5103,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10047,
@@ -5148,7 +5148,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10048,
@@ -5193,7 +5193,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10049,
@@ -5238,7 +5238,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10050,
@@ -5283,7 +5283,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10051,
@@ -5328,7 +5328,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10052,
@@ -5373,7 +5373,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10053,
@@ -5418,7 +5418,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10054,
@@ -5463,7 +5463,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10055,
@@ -5508,7 +5508,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10056,
@@ -5553,7 +5553,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10057,
@@ -5598,7 +5598,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10058,
@@ -5643,7 +5643,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10059,
@@ -5688,7 +5688,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10060,
@@ -5733,7 +5733,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10061,
@@ -5778,7 +5778,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10062,
@@ -5823,7 +5823,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10063,
@@ -5868,7 +5868,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10064,
@@ -5913,7 +5913,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10065,
@@ -5958,7 +5958,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10066,
@@ -6003,7 +6003,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10067,
@@ -6048,7 +6048,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10068,
@@ -6094,7 +6094,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10069,
@@ -6139,7 +6139,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10070,
@@ -6185,7 +6185,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10071,
@@ -6230,7 +6230,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10072,
@@ -6275,7 +6275,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10073,
@@ -6320,7 +6320,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10074,
@@ -6365,7 +6365,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10075,
@@ -6410,7 +6410,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10076,
@@ -6455,7 +6455,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10077,
@@ -6500,7 +6500,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10078,
@@ -6545,7 +6545,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10079,
@@ -6590,7 +6590,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10080,
@@ -6635,7 +6635,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10081,
@@ -6680,7 +6680,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10082,
@@ -6725,7 +6725,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10083,
@@ -6770,7 +6770,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10084,
@@ -6815,7 +6815,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10085,
@@ -6860,7 +6860,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10086,
@@ -6905,7 +6905,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10087,
@@ -6950,7 +6950,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10088,
@@ -6995,7 +6995,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10089,
@@ -7040,7 +7040,52 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10045,
+    "name": "Hemmung der Interferon-vermittelten Virusabwehr durch das E6-Protein des humanen Papillomvirus 16",
+    "provider": "German Research Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Research project",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116073361",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116073361"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10093,
@@ -7085,7 +7130,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10094,
@@ -7130,7 +7175,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10095,
@@ -7175,7 +7220,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10096,
@@ -7220,7 +7265,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10097,
@@ -7265,7 +7310,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10098,
@@ -7310,7 +7355,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10099,
@@ -7355,7 +7400,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10100,
@@ -7400,7 +7445,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10101,
@@ -7447,7 +7492,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10102,
@@ -7492,7 +7537,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10103,
@@ -7537,7 +7582,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10104,
@@ -7582,7 +7627,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10105,
@@ -7627,7 +7672,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10106,
@@ -7672,7 +7717,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10107,
@@ -7717,7 +7762,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10108,
@@ -7762,7 +7807,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10109,
@@ -7807,7 +7852,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10110,
@@ -7852,7 +7897,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10111,
@@ -7897,7 +7942,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10112,
@@ -7942,7 +7987,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10113,
@@ -7987,7 +8032,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10114,
@@ -8032,7 +8077,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10115,
@@ -8077,7 +8122,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10116,
@@ -8122,7 +8167,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10117,
@@ -8167,7 +8212,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10118,
@@ -8212,7 +8257,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10119,
@@ -8257,7 +8302,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10120,
@@ -8302,7 +8347,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10121,
@@ -8347,7 +8392,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10122,
@@ -8392,7 +8437,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10123,
@@ -8437,7 +8482,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10124,
@@ -8482,7 +8527,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10125,
@@ -8527,7 +8572,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10508,
@@ -8572,7 +8617,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10126,
@@ -8617,7 +8662,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10044,
@@ -8662,52 +8707,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10045,
-    "name": "Hemmung der Interferon-vermittelten Virusabwehr durch das E6-Protein des humanen Papillomvirus 16",
-    "provider": "German Research Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Research project",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116073361",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q116073361"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10127,
@@ -8752,52 +8752,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10129,
-    "name": "Chronology of the Early Bronze Age on the Upper Euphrates based on the ceramic sequence from Norsuntepe (Elazig Province/Turkey). Cultural development…",
-    "provider": "German Research Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116111032",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q116111032"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10128,
@@ -8842,7 +8797,52 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10129,
+    "name": "Chronology of the Early Bronze Age on the Upper Euphrates based on the ceramic sequence from Norsuntepe (Elazig Province/Turkey). Cultural development…",
+    "provider": "German Research Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116111032",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116111032"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10132,
@@ -8887,682 +8887,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10188,
-    "name": "Ramón y Cajal",
-    "provider": "Ministry of Science of Spain",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Spain"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Spanish post-doctoral scholarship Established 2001.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116764016",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q116764016"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10189,
-    "name": "National Achievement Scholarship Program",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "American scholarship program Established 1964.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116868367",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q116868367"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10190,
-    "name": "Core18 Leaders Lab",
-    "provider": "Moshe Zeldman",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Entrepreneurial boot camp for select Jewish leaders ages 19-25",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q117309433",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q117309433"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10191,
-    "name": "résident à La Factorie",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q117350160",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q117350160"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10192,
-    "name": "Junior National Scholarship",
-    "provider": "Government of New Zealand",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Secondary school scholarship in New Zealand established in 1903 Established 1903.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q118255823",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q118255823"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10193,
-    "name": "Senior National Scholarship",
-    "provider": "Government of New Zealand",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "University scholarship in New Zealand established in 1903 Established 1903.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q118255837",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q118255837"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10194,
-    "name": "Juan de la Cierva Scholarship",
-    "provider": "Ministry of Science, Innovation and Universities",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Spain"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Spanish scientific postdoctoral scholarship Established 2004.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q119398901",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q119398901"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10195,
-    "name": "Coca-Cola Scholars Program",
-    "provider": "Coca-Cola Scholars Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "American scholarship program Established 1986.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q121913200",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q121913200"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10196,
-    "name": "Slicher van Bath de Jong Foundation for the advancement of study and research on the history of Latin America",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.cedla.nl/slicher-van-bath-de-jong-fonds",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122418210"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10197,
-    "name": "Horror Writers Association Scholarship",
-    "provider": "Horror Writers Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Grant awarded by The Horror Writers Association",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://horrorscholarships.com",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122609050"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10198,
-    "name": "Mary Wollstonecraft Shelley Scholarship",
-    "provider": "Horror Writers Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Grant awarded by the Horror Writers Association",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122609204"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10199,
-    "name": "Rocky Wood Memorial Scholarship Fund for Non-fiction Writing",
-    "provider": "Horror Writers Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Grant awarded by The Horror Writers Association",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://horrorscholarships.com/rocky-wood-memorial-non-fiction-scholarship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122609814"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10200,
-    "name": "Dark Poetry Scholarship",
-    "provider": "Horror Writers Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Grant awarded by the Horror Writers Association Established 2015.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122609952"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10201,
-    "name": "Dennis Etchison Young Writers Scholarship",
-    "provider": "Horror Writers Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Grant awarded by the Horror Writers Association",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122609987"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10473,
-    "name": "Diversity Grants",
-    "provider": "Horror Writers Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Granted by the Horror Writers Association",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122610017"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10133,
@@ -9607,7 +8932,682 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10188,
+    "name": "Ramón y Cajal",
+    "provider": "Ministry of Science of Spain",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Spain"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Spanish post-doctoral scholarship Established 2001.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116764016",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116764016"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10189,
+    "name": "National Achievement Scholarship Program",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "American scholarship program Established 1964.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116868367",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116868367"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10190,
+    "name": "Core18 Leaders Lab",
+    "provider": "Moshe Zeldman",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Entrepreneurial boot camp for select Jewish leaders ages 19-25",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q117309433",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q117309433"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10191,
+    "name": "résident à La Factorie",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q117350160",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q117350160"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10192,
+    "name": "Junior National Scholarship",
+    "provider": "Government of New Zealand",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Secondary school scholarship in New Zealand established in 1903 Established 1903.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q118255823",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q118255823"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10193,
+    "name": "Senior National Scholarship",
+    "provider": "Government of New Zealand",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "University scholarship in New Zealand established in 1903 Established 1903.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q118255837",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q118255837"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10194,
+    "name": "Juan de la Cierva Scholarship",
+    "provider": "Ministry of Science, Innovation and Universities",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Spain"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Spanish scientific postdoctoral scholarship Established 2004.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q119398901",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q119398901"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10195,
+    "name": "Coca-Cola Scholars Program",
+    "provider": "Coca-Cola Scholars Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "American scholarship program Established 1986.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q121913200",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q121913200"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10196,
+    "name": "Slicher van Bath de Jong Foundation for the advancement of study and research on the history of Latin America",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.cedla.nl/slicher-van-bath-de-jong-fonds",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122418210"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10197,
+    "name": "Horror Writers Association Scholarship",
+    "provider": "Horror Writers Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Grant awarded by The Horror Writers Association",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://horrorscholarships.com",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122609050"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10198,
+    "name": "Mary Wollstonecraft Shelley Scholarship",
+    "provider": "Horror Writers Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Grant awarded by the Horror Writers Association",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122609204"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10199,
+    "name": "Rocky Wood Memorial Scholarship Fund for Non-fiction Writing",
+    "provider": "Horror Writers Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Grant awarded by The Horror Writers Association",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://horrorscholarships.com/rocky-wood-memorial-non-fiction-scholarship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122609814"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10200,
+    "name": "Dark Poetry Scholarship",
+    "provider": "Horror Writers Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Grant awarded by the Horror Writers Association Established 2015.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122609952"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10201,
+    "name": "Dennis Etchison Young Writers Scholarship",
+    "provider": "Horror Writers Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Grant awarded by the Horror Writers Association",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122609987"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10473,
+    "name": "Diversity Grants",
+    "provider": "Horror Writers Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Granted by the Horror Writers Association",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122610017"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10134,
@@ -9652,7 +9652,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10135,
@@ -9697,7 +9697,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10136,
@@ -9742,7 +9742,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10137,
@@ -9787,7 +9787,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10138,
@@ -9832,7 +9832,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10139,
@@ -9877,7 +9877,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10140,
@@ -9922,7 +9922,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10141,
@@ -9967,7 +9967,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10142,
@@ -10012,7 +10012,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10143,
@@ -10057,7 +10057,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10144,
@@ -10102,7 +10102,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10145,
@@ -10147,7 +10147,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10146,
@@ -10192,7 +10192,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10147,
@@ -10237,7 +10237,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10148,
@@ -10282,7 +10282,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10149,
@@ -10327,7 +10327,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10150,
@@ -10372,7 +10372,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10151,
@@ -10417,7 +10417,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10152,
@@ -10462,7 +10462,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10153,
@@ -10507,7 +10507,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10154,
@@ -10552,7 +10552,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10155,
@@ -10597,7 +10597,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10156,
@@ -10642,7 +10642,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10157,
@@ -10687,7 +10687,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10158,
@@ -10732,7 +10732,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10159,
@@ -10777,7 +10777,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10160,
@@ -10822,7 +10822,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10161,
@@ -10867,7 +10867,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10162,
@@ -10912,7 +10912,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10163,
@@ -10957,7 +10957,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10164,
@@ -11002,7 +11002,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10165,
@@ -11047,7 +11047,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10166,
@@ -11092,7 +11092,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10167,
@@ -11137,7 +11137,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10168,
@@ -11182,7 +11182,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10169,
@@ -11227,7 +11227,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10170,
@@ -11272,7 +11272,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10171,
@@ -11317,7 +11317,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10172,
@@ -11362,7 +11362,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10173,
@@ -11407,7 +11407,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10174,
@@ -11452,7 +11452,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10175,
@@ -11497,7 +11497,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10176,
@@ -11542,7 +11542,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10177,
@@ -11587,7 +11587,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10178,
@@ -11632,7 +11632,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10179,
@@ -11677,7 +11677,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10180,
@@ -11722,7 +11722,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10181,
@@ -11767,7 +11767,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10182,
@@ -11812,7 +11812,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10183,
@@ -11857,7 +11857,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10184,
@@ -11902,7 +11902,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10185,
@@ -11947,7 +11947,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10186,
@@ -11992,7 +11992,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10187,
@@ -12037,7 +12037,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10470,
@@ -12082,8378 +12082,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10219,
-    "name": "Royal Society University Research Fellowship",
-    "provider": "Royal Society of London",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Research fellowship awarded to outstanding early career scientists in the United Kingdom who are judged by the Royal Society to have the potential to become leaders in their field",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://royalsociety.org/grants-schemes-awards/grants/university-research/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q28857542"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10220,
-    "name": "National Endowment for the Arts Fellowship",
-    "provider": "National Endowment for the Arts",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q28911895",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q28911895"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10221,
-    "name": "Pew Fellowship in Marine Conservation",
-    "provider": "The Pew Charitable Trusts",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata. Established 1989.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "http://www.pewtrusts.org/en/projects/marine-fellows/about",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q30238527"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10222,
-    "name": "Fellow of the Faculty of Public Health",
-    "provider": "Faculty of Public Health",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q30458765",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q30458765"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10223,
-    "name": "Fellow of the Institute of Biology",
-    "provider": "Institute of Biology",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q30464115",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q30464115"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10224,
-    "name": "Wellcome Trust Principal Research Fellowship",
-    "provider": "Wellcome Trust",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Research fellowship granted by the Wellcome Trust",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q32625952",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q32625952"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10225,
-    "name": "Jane Coffin Childs postdoctoral Fellowship",
-    "provider": "Jane Coffin Childs Memorial Fund for Medical Research",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scientific research fellowship for three years Established 1937.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q39182247",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q39182247"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10226,
-    "name": "3M Teaching Fellow",
-    "provider": "3M",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Canada"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q49000065",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q49000065"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10227,
-    "name": "Bassel Khartabil Free Culture Fellowship",
-    "provider": "Creative Commons",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q51950451",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q51950451"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10228,
-    "name": "Killam Research Fellowship",
-    "provider": "Canada Council for the Arts",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Canada Council research award Established 1968.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q56627685",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q56627685"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10229,
-    "name": "Rutherford Discovery Fellowship",
-    "provider": "Royal Society Te Apārangi",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "New Zealand award giving financial support to early- to mid-career researchers Established 2010.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://royalsociety.org.nz/what-we-do/funds-and-opportunities/rutherford-discovery-fellowships/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q56878278"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10230,
-    "name": "iSTEM Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award name",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q57979232",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q57979232"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10231,
-    "name": "Jefferson Science Fellow",
-    "provider": "United States Agency for International Development",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship Established 2003.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://sites.nationalacademies.org/PGA/Jefferson/index.htm",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q60141383"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10232,
-    "name": "Alfred P. Sloan Fellow",
-    "provider": "Alfred P. Sloan Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Academic fellowship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q60667392",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q60667392"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10233,
-    "name": "Ashoka Fellow",
-    "provider": "Ashoka",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellow of Ashoka organization",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.ashoka.org/en-us/ashoka-fellows",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q60784950"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10234,
-    "name": "Junior Research Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Academic position popular at Oxford and Cambridge",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q60842126",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q60842126"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10235,
-    "name": "Functional analysis of a novel viral RNA binding protein",
-    "provider": "Biotechnology and Biological Sciences Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "PhD studentship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63341474",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63341474"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10236,
-    "name": "Self-Optimising Multiphasic Flow Reactor and Work-up Processing",
-    "provider": "Engineering and Physical Sciences Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "PhD studentship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63341475",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63341475"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10237,
-    "name": "How does the human papillomavirus (HPV) E5 protein control skin cell growth and differentiation during a productive life cycle?",
-    "provider": "Biotechnology and Biological Sciences Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "PhD studentship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63341477",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63341477"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10238,
-    "name": "Liquid Crystal Microdroplets and confined systems for novel shutters",
-    "provider": "Engineering and Physical Sciences Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "PhD studentship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63341478",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63341478"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10239,
-    "name": "The importance of visual impact on public acceptance of renewable and non-conventional energy sources",
-    "provider": "Natural Environment Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "PhD studentship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63341480",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63341480"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10240,
-    "name": "Evaluation of 3D dual-polarised radar-ased hydrometeor classification algorithms over the UK",
-    "provider": "Natural Environment Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "PhD studentship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63341482",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63341482"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10241,
-    "name": "Exploring the impact of the early obesogenic home environment on children's growth and psychological development",
-    "provider": "Economic and Social Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "PhD studentship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63341483",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63341483"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10242,
-    "name": "Canada Council Senior Arts Fellowship",
-    "provider": "Canada Council for the Arts",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Canada"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63412996",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63412996"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10243,
-    "name": "Szent-Györgyi Albert Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Hungary"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship by the Hungarian Ministry of Education for scientific research Established 2004.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63614732",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63614732"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10244,
-    "name": "Mandela Washington Fellowship",
-    "provider": "Young African Leaders Initiative",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata. Established 2014.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://yali.state.gov/mwf/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63838268"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10245,
-    "name": "Safina Center Kalpana Chawla ‘Launchpad’ Fellowship",
-    "provider": "The Safina Center",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship for funding projects Established 2017.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "http://safinacenter.org/programs/safina-center-fellows/safina-center-kalpana-chawla-launchpad-fellows/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63852444"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10246,
-    "name": "Lila Acheson Wallace American Playwrights Fellowship",
-    "provider": "Juilliard School",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Graduate-level playwriting fellowship at the Juilliard School",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q63972666",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q63972666"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10247,
-    "name": "Bass Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q64138369",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q64138369"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10248,
-    "name": "Kundiman Fellowship",
-    "provider": "Kundiman",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Literary fellowship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q64717385",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q64717385"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10249,
-    "name": "Cave Canem fellow",
-    "provider": "Cave Canem Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Literary fellowship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q64736408",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q64736408"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10250,
-    "name": "Fellow of Pew Foundation",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Science award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q64852031",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q64852031"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10251,
-    "name": "Kerala Sahitya Akademi Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "National",
-    "hostCountries": [
-      "India"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "India"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Literary honour Established 1970.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q65087752",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q65087752"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10252,
-    "name": "Schmidt Science Fellows",
-    "provider": "Schmidt Futures",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Postdoctoral fellowship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q65120466",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q65120466"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10253,
-    "name": "Georgina Sweet Australian Laureate Fellowship",
-    "provider": "Australian Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Australia"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata. Established 2010.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.arc.gov.au/policies-strategies/strategy/gender-equality-research/kathleen-fitzpatrick-and-georgina-sweet-australian-laureate-fellows",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q66085136"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10254,
-    "name": "Kathleen Fitzpatrick Australian Laureate Fellowship",
-    "provider": "Australian Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Australia"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata. Established 2010.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.arc.gov.au/policies-strategies/strategy/gender-equality-research/kathleen-fitzpatrick-and-georgina-sweet-australian-laureate-fellows",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q66085137"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10255,
-    "name": "CantoMundo fellow",
-    "provider": "CantoMundo",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Literary fellowship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q66426749",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q66426749"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10256,
-    "name": "Dorothy McCluskey Visiting Fellowship in Conservation",
-    "provider": "Yale School of the Environment",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q66446669",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q66446669"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10257,
-    "name": "ACR Distinguished Fellow Award",
-    "provider": "American College of Rheumatology",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "The ACR Distinguished Fellow Award recognizes clinical and research fellows who are in a rheumatology fellowship training program and have performed meritoriously",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.rheumatology.org/Get-Involved/Awards/ACR-Awards",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q70134157"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10258,
-    "name": "Elise Richter Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award and funding scheme of the Austrian Science Fund for highly qualified female scientists and scholars of any discipline, who strive for an university career.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q73547666",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q73547666"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10259,
-    "name": "Harvard Junior Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q75090471",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q75090471"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10260,
-    "name": "Frank Knox Memorial Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship at Harvard University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://frankknox.harvard.edu/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q76246422"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10261,
-    "name": "Loeb Fellowship",
-    "provider": "Harvard Graduate School of Design",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata. Established 1968.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://loebfellowship.gsd.harvard.edu/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q80835725"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10262,
-    "name": "Azrieli Fellows Program",
-    "provider": "Azrieli Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Israel"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q83987737",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q83987737"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10263,
-    "name": "Fellowship of the Academy of American Poets",
-    "provider": "Academy of American Poets",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "American poetry award (1936-) Established 1936.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94660580",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122710186",
-      "https://www.wikidata.org/wiki/Q94660580"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10264,
-    "name": "Continuing Bass University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94973003",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94973003"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10265,
-    "name": "Fellow of the Fields Institute",
-    "provider": "Fields Institute",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94983882",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94983882"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10266,
-    "name": "Gregory Amadon Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997201",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997201"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10267,
-    "name": "Anonymous Friends University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997202",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997202"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10268,
-    "name": "Gerhard Casper University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997204",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997204"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10269,
-    "name": "Paul Davies Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997205",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997205"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10270,
-    "name": "Duca Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997206",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997206"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10271,
-    "name": "Dunlevie Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997208",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997208"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10272,
-    "name": "Barbara D. Finberg University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997209",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997209"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10273,
-    "name": "Bert and Candace Forbes University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997211",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997211"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10274,
-    "name": "Thomas W. and Susan B. Ford University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997212",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997212"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10275,
-    "name": "Michael Forman University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997213",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997213"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10276,
-    "name": "John A. and Cynthia Fry Gunn University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997217",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997217"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10277,
-    "name": "Mimi and Peter Haas University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997218",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997218"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10278,
-    "name": "Robert and Ruth Halperin University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997220",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997220"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10279,
-    "name": "Rachford and Carlota A. Harris University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997222",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997222"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10280,
-    "name": "Hazy Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997223",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997223"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10281,
-    "name": "Yumi and Yasunori Kaneko Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997225",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997225"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10282,
-    "name": "William and Dorothy Kaye University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997226",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997226"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10283,
-    "name": "William R. and Gretchen B. Kimball University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997227",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997227"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10284,
-    "name": "Kleinheinz Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997229",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997229"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10285,
-    "name": "Landreth Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997232",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997232"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10286,
-    "name": "Martin Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997233",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997233"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10287,
-    "name": "Barbara and Buzz McCoy University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997234",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997234"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10288,
-    "name": "Burton J. and Deedee McMurtry University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997236",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997236"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10503,
-    "name": "Milligan Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997237",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997237"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10504,
-    "name": "John and Lydia Pearce Mitchell University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997239",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997239"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10289,
-    "name": "Olivier & Nomellini Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997240",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997240"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10290,
-    "name": "Robert K. Packard University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997241",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997241"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10291,
-    "name": "Pritzker University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997243",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997243"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10292,
-    "name": "Eleanor Loring Ritch University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997246",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997246"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10293,
-    "name": "Louise and Claude Rosenberg, Jr. University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997247",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997247"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10294,
-    "name": "John Henry Samter University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997249",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997249"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10295,
-    "name": "Sapp Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997251",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997251"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10296,
-    "name": "W. Warren Shelden University Fellow in Undergraduate Education",
-    "provider": "Stanford University",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997252",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997252"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10297,
-    "name": "Stanford Alumni University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997254",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997254"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10298,
-    "name": "Stanford Friends University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997255",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997255"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10299,
-    "name": "William and Lynda Steere University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997257",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997257"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10300,
-    "name": "Sugden Family University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997258",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997258"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10301,
-    "name": "Oswald G. Villard University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997261",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997261"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10302,
-    "name": "J. Frederick and Elisabeth Brewer Weintz University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997262",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997262"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10303,
-    "name": "Akiko Yamazaki and Jerry Yang University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997264",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997264"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10304,
-    "name": "Mr. and Mrs. Frank W. Yeung University Fellow in Undergraduate Education",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed award and administrative appointment for faculty at Stanford University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q94997265",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q94997265"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10305,
-    "name": "African Postdoctoral Training Initiative Fellow",
-    "provider": "African Academy of Sciences",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.aasciences.africa/aesa/programmes/african-postdoctoral-training-initiative-apti",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q96276472"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10306,
-    "name": "Australian Laureate Fellowship",
-    "provider": "Australian Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Australia"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Professorial research fellowship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q96372793",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q96372793"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10307,
-    "name": "Grant McLennan Memorial Fellowship",
-    "provider": "Queensland Government",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Australia"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Music fellowship awarded annually by the Queensland Government Established 2007.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q97016047",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q97016047"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10308,
-    "name": "Putnam Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award for the top five (or six in the case of a tie) participants in the annual William Lowell Putnam Mathematical Competition",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q99486391",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q99486391"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10309,
-    "name": "Radcliffe Institute for Advanced Study Fellowship Program",
-    "provider": "Radcliffe Institute for Advanced Study",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Institution",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q99931814",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q99931814"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10310,
-    "name": "I Tatti Fellowship",
-    "provider": "Harvard University Center for Italian Renaissance Studies",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Italy"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "http://itatti.harvard.edu/fellowships",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q99931905"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10315,
-    "name": "UC Davis Chancellor’s Fellows",
-    "provider": "University of California, Davis",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Program to honor achievements of outstanding early career UC Davis faculty Established 2000.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://academicaffairs.ucdavis.edu/uc-and-campus-awards",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q105950049"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10316,
-    "name": "Ecological Society of America Early Career Fellows",
-    "provider": "Ecological Society of America",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship to honor outstanding early career ecologists",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.esa.org/about/awards/#early-career-fellow",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q105950353"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10317,
-    "name": "Rothschild Fellowship",
-    "provider": "Yad Hanadiv",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Israel"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "The Rothschild Fellowship programme for young scholars of outstanding academic merit Established 1979.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.yadhanadiv.org.il/rothschild-fellows",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q106007699"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10318,
-    "name": "Andrew Carnegie Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellow of the Andrew Carnegie Fellows Program Established 2015.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.carnegie.org/awards/award/andrew-carnegie-fellows/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q106166209"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10319,
-    "name": "Millstone Research Fellowship",
-    "provider": "Western Society for French History",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q106213876",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q106213876"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10320,
-    "name": "New Directions Fellowships",
-    "provider": "Andrew W. Mellon Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Assist faculty members in the humanities and humanistic social sciences who seek to acquire systematic training in cross-disciplinary research Established 2002.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q106292667",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q106292667"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10321,
-    "name": "Woodrow Wilson National Fellowship",
-    "provider": "The Institute for Citizens & Scholars",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "http://woodrow.org",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q106382431"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10322,
-    "name": "Association of Science-Technology Centers Fellow Award for Outstanding Contribution",
-    "provider": "Association of Science and Technology Centers",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Honorary Award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q106388084",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q106388084"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10323,
-    "name": "DoD NDSEG Fellowship",
-    "provider": "United States Department of Defense",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "American science and engineering fellowship Established 1989.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://ndseg.org/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q106880920"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10324,
-    "name": "Google Fellow",
-    "provider": "Google",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q107110818",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q107110818"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10325,
-    "name": "Djerassi Resident Artists Fellowship",
-    "provider": "Djerassi Artists Residency",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship awarded by Djerassi Resident Artists Program Established 1979.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://djerassi.org/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q107309013"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10326,
-    "name": "Charlotte and Walter Buchanan Faculty Fellow",
-    "provider": "Texas A&M University",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Engineering fellowship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q107360523",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q107360523"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10327,
-    "name": "Latinx Artist Fellowship",
-    "provider": "Andrew W. Mellon Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award by Mellon Foundation and Ford Foundation Established 2021.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q107587273",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q107587273"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10328,
-    "name": "USACM Fellows Award",
-    "provider": "United States Association for Computational Mechanics",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Recognizes outstanding contributions to computational mechanics. Winners receive a certificate",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.usacm.org/honors-and-awards-guidelines",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q109347588"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10329,
-    "name": "MacDowell Fellowship",
-    "provider": "MacDowell",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Residency grant in the arts",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.macdowell.org/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q109769379"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10330,
-    "name": "Sarah Berliner Research Fellowship",
-    "provider": "Emile Berliner",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Research grant awarded to female scientists Established 1908.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q110232520",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q110232520"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10331,
-    "name": "Bronx Museum Artist in the Marketplace Fellowship",
-    "provider": "Bronx Museum of the Arts",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Bronx Museum program to support emerging New York City artists Established 1980.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q111442415",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q111442415"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10332,
-    "name": "Herbert H. Richardson Fellow",
-    "provider": "Texas A&M University College of Engineering",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Faculty fellow conferred by College of Engineering at Texas A&M University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q111490556",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q111490556"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10333,
-    "name": "Morris E. Foster Faculty Fellow",
-    "provider": "Texas A&M University",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed faculty fellowship conferred by Texas A&M University in mechanical engineering",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q111501535",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q111501535"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10334,
-    "name": "Ruth and William Neely '52 Dow Jones Chemical Fellow",
-    "provider": "Texas A&M University College of Engineering",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Conferred by Texas A&M University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q111503932",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q111503932"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10335,
-    "name": "Steve Brauer Jr. '02 Faculty Fellow",
-    "provider": "Texas A&M University",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Conferred by Texas A&M University Established 2015.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q111505397",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q111505397"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10336,
-    "name": "William O. and Montine P. Head Faculty Fellow",
-    "provider": "Texas A&M University College of Engineering",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Conferred by Texas A&M University's College of Engineering for outstanding performance",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q111514226",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q111514226"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10337,
-    "name": "Edmund Hillary Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "New Zealand entrepreneurship organisation",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://ehf.org",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q111939263"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10338,
-    "name": "Earth Leadership Program Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.earthleadership.org/fellows-name",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q112132519"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10339,
-    "name": "Arts and Humanities Research Council Fellowship",
-    "provider": "Arts and Humanities Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship awarded by the Arts and Humanities Research Council",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q113144889",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q113144889"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10340,
-    "name": "DOE/Sloan Foundation Postdoctoral Fellowship in Computational Molecular Biology",
-    "provider": "United States Department of Energy",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q113192581",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q113192581"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10341,
-    "name": "Packard Fellowship for Science and Engineering",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Science fellowship Established 1988.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.packard.org/what-we-fund/science/packard-fellowships-for-science-and-engineering/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q113469875"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10342,
-    "name": "Banting Postdoctoral Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Canada"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "The Banting Postdoctoral Fellowships program provides funding to the very best postdoctoral applicants, both nationally and internationally, who will positively contribute to the country's economic, social, and research-based growth. Established 2014.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://banting.fellowships-bourses.gc.ca/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q113513490"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10343,
-    "name": "Berkeley Fellow of the Owens College, Manchester",
-    "provider": "University of Manchester",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award granted by Owens College",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q114218584",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q114218584"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10344,
-    "name": "Lower East Side Printshop Keyholder Residency",
-    "provider": "Lower East Side Printshop",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Year-long residency awarded by the Lower East Side Printshop in New York City",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q114313932",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q114313932"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10345,
-    "name": "Shakespeare’s Globe International Actors’ Fellow",
-    "provider": "Shakespeare Globe Centre New Zealand",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award in New Zealand",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q114755837",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q114755837"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10346,
-    "name": "Dr A.T. Shousha Foundation Prize and Fellowship",
-    "provider": "World Health Organization",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "WHO Public Health Prize Established 1966.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q115978966",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q115978966"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10347,
-    "name": "Francesco Pocchiari Fellowship",
-    "provider": "World Health Organization",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "WHO Public Health Award Established 1991.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://apps.who.int/gb/awards/e/Pocchiari.html",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q116025761"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10348,
-    "name": "Helmholtz International Fellow Award",
-    "provider": "Helmholtz Association of German Research Centres",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116214143",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q116214143"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10349,
-    "name": "Fellowship of the Vrije Universiteit Brussel",
-    "provider": "Rector of the Vrije Universiteit Brussel",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Belgium"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award granted by the Vrije Universiteit Brussel",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116267143",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q116267143"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10350,
-    "name": "John Macphail Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Rugby union award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q116443344",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q116443344"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10351,
-    "name": "Smithsonian Artist Research Fellowship",
-    "provider": "Smithsonian Institution",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q117127514",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q117127514"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10352,
-    "name": "Klebnikov Fellowship",
-    "provider": "Harriman Institute",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q117321458",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q117321458"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10353,
-    "name": "Nuffield Travelling Fellowship",
-    "provider": "Nuffield Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Academic award for Commonwealth scholars to spend time in the UK",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q117839992",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q117839992"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10354,
-    "name": "Erskine Fellowship",
-    "provider": "University of Canterbury",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Teaching fellowship at the University of Canterbury, New Zealand",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q117840800",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q117840800"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10355,
-    "name": "John Carter Brown Library Fellowship",
-    "provider": "John Carter Brown Library",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Annual fellowship to scholars engaged in research on the early Americas Established 1962.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://jcblibrary.org/fellowships",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q118525491"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10356,
-    "name": "Emile Noël Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://jeanmonnetprogram.org/fellows/emile-noel-fellowship-overview/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q119792459"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10357,
-    "name": "Teacher Fellow Award",
-    "provider": "North American Colleges and Teachers of Agriculture",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award by NACTA",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q122199888",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122199888"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10358,
-    "name": "Postdoctoral Fellowship for Excellence in Research and Leadership",
-    "provider": "Natural Sciences and Engineering Research Council of Canada",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scientific award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q122810690",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122810690"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10359,
-    "name": "National Humanities Center Fellowship",
-    "provider": "National Humanities Center",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Residential fellowship in the humanities awarded annually Established 1978.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://nationalhumanitiescenter.org/scholarly-programs",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123155347"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10360,
-    "name": "Harry der Boghosian Endowed Fellowship",
-    "provider": "Syracuse University Board of Trustees",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Endowed academic position at Syracuse University",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q123239193",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123239193"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10361,
-    "name": "New Zealand Mana Tūāpapa Future Leader Fellowship",
-    "provider": "Ministry of Business, Innovation and Employment",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Type of fellowship in New Zealand, part of New Zealand Mana Tūārangi Distinguished Researcher Fellowships Established 2024.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q123398538",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123398538"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10362,
-    "name": "New Zealand Mana Tūānuku Research Leader Fellowship",
-    "provider": "Ministry of Business, Innovation and Employment",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Type of fellowship in New Zealand, part of New Zealand Mana Tūārangi Distinguished Researcher Fellowships Established 2024.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q123398541",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123398541"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10363,
-    "name": "New Zealand Mana Tūārangi Distinguished Researcher Fellowship",
-    "provider": "Ministry of Business, Innovation and Employment",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Type of fellowship in New Zealand, part of New Zealand Mana Tūārangi Distinguished Researcher Fellowships Established 2024.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q123398544",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123398544"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10364,
-    "name": "Leverhulme Fellowship",
-    "provider": "Leverhulme Trust",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship awarded by the Leverhulme Trust",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q123411090",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123411090"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10365,
-    "name": "Honorary Life Fellowship",
-    "provider": "New Zealand Geographical Society",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award made by the New Zealand Geographical Society",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q123432549",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123432549"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10366,
-    "name": "The Caroline Plummer Fellowship in Community Dance",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award conferred by University of Otago in New Zealand Established 2005.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q123458787",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123458787"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10367,
-    "name": "Rutherford Foundation Postdoctoral Fellowship",
-    "provider": "Royal Society Te Apārangi",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Postdoctoral award in New Zealand (cf Rutherford Discovery)",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q123467320",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123467320"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10368,
-    "name": "Ngā Puanga Pūtaiao Fellowship",
-    "provider": "Royal Society Te Apārangi",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Research fellowship in New Zealand, for early and mid-career researchers",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q123842247",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q123842247"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10369,
-    "name": "Max Day Environmental Science Fellowship Award",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.science.org.au/supporting-science/awards-and-opportunities/max-day-environmental-science-fellowship-award",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q124248464"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10370,
-    "name": "the Culture of Health Leaders program of the Robert Wood Johnson Foundation",
-    "provider": "Robert Wood Johnson Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q124257520",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q124257520"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10371,
-    "name": "Minority Postdoctoral Fellowship",
-    "provider": "Columbia University",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award given to a scholar from a historically underrepresented group, presenting the opportunity for the scholar to participate and develop their own research program Established 1996.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q124695874",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q124695874"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10372,
-    "name": "Max Weber Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q124857566",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q124857566"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10373,
-    "name": "Rhodes Visiting Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship by the Rhodes Trust",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q125369845",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q125369845"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10374,
-    "name": "Mercator Fellowship",
-    "provider": "Stiftung Mercator",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Academic fellowship awarded by Stiftung Mercator",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q125454352",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q125454352"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10375,
-    "name": "JD Stout Fellowship in New Zealand Studies",
-    "provider": "Stout Research Centre for New Zealand Studies",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Academic award to reseachers of New Zealand society, history or culture. Established 1985.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q125501807",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q125501807"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10376,
-    "name": "Talent Development Grant Scheme",
-    "provider": "Creative Industries Fund NL",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Dutch talent-development grant scheme for designers and makers",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q125823081",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q125823081"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10377,
-    "name": "Ernst & Young Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q125844872",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q125844872"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10378,
-    "name": "Carnegie Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award and fellowship granted by the Carnegie Corporation of New York Established 2015.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.carnegie.org/awards/award/andrew-carnegie-fellows/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q125860258"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10379,
-    "name": "Charlotte W. Newcombe Doctoral Dissertation Fellowship",
-    "provider": "The Institute for Citizens & Scholars",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q126389698",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q126389698"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10380,
-    "name": "Arnold O. Beckman Postdoctoral Fellowship",
-    "provider": "Arnold and Mabel Beckman Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q127432344",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q127432344"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10505,
-    "name": "Wired Innovation Fellow",
-    "provider": "Wired",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award granted by Wired",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q127515789",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q127515789"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10506,
-    "name": "Echoing Green Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q128810958",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q128810958"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10476,
-    "name": "American-Scandinavian Foundation Fellowship",
-    "provider": "The American-Scandinavian Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Awarded by American-Scandinavian Foundation",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q129167488",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q129167488"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10477,
-    "name": "Yaddo Fellowship",
-    "provider": "Yaddo",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Artist residency",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q130235652",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q130235652"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10478,
-    "name": "Beatriu de Pinós Fellow",
-    "provider": "Agency for Administration of University and Research",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scientific award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q130248610",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q130248610"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10479,
-    "name": "Wilder Green Fellowship in Architecture",
-    "provider": "MacDowell",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship established in 2006 Established 2006.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.macdowell.org/sponsored-fellowships/wilder-green-fellowship",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q130376092"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10480,
-    "name": "Sargeson Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "A New Zealand literary award Established 1987.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q131451286",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q131451286"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10481,
-    "name": "Maxwell Fraser Fellowship",
-    "provider": "National Library of Wales",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q131764321",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q131764321"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10482,
-    "name": "Cullman Fellowship",
-    "provider": "Dorothy and Lewis B. Cullman Center for Scholars and Writers",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International fellowship program at the Dorothy and Lewis B. Cullman Center for Scholars and Writers",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.nypl.org/about/fellowships-institutes/cullman-center-scholars-writers/fellowships",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q132156951"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10483,
-    "name": "Medical Research Council (MRC) Doctoral Training Award",
-    "provider": "Medical Research Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "PhD scholarship awarded by the UK Medical Research Council",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q133818377",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q133818377"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10484,
-    "name": "IBET Momentum Fellowship",
-    "provider": "University of Toronto",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Canada"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship about black engineering Established 2021.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q133847789",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q133847789"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10485,
-    "name": "Doris Duke Fellowship for the Promotion of Child Well-Being",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Doctoral fellowship awarded by the Doris Duke Charitable Foundation for research on child well-being and policy",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q133934781",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q133934781"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10486,
-    "name": "AWARD fellowship",
-    "provider": "African Women in Agricultural Research and Development",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship from the African Women in Agricultural Research and Development",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q134374814",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q134374814"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10487,
-    "name": "Fellowship of the Orthodontic Technicians Association",
-    "provider": "Orthodontic Technicians Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Awarded in order to recognise a member or past member of the Orthodontic Technicians Association for their years of service to orthodontic technology or for their distinguished ability or originality in their field.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q134893066",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q134893066"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10488,
-    "name": "Charlemagne Prize Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship awarded by the Charlemagne Prize Academy for research and academic work",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q134988651",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q134988651"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10489,
-    "name": "Leonard A. Lauder Fellowship in Modern Art at the Metropolitan Museum of Art",
-    "provider": "Metropolitan Museum of Art",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship at the Metropolitan Museum's Leonard A. Lauder Research Center for Modern Art Established 2013.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q135109961",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135109961"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10490,
-    "name": "Faculty Leadership Fellow",
-    "provider": "University of Oklahoma Health Sciences Center",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship for early-career faculty at the University of Oklahoma Health Sciences Center",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://facdev.ouhsc.edu/Certificates-Fellowships/Faculty-Leadership-Program-FLP",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135117304"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10491,
-    "name": "Cultural Vibrancy Fellowship Grant",
-    "provider": "Aspen",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Arts fellowship and grant program awarded by the City of Aspen Established 2025.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://aspen.gov/1696/Cultural-Vibrancy-Fellowship",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135552969"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10492,
-    "name": "Aspen Art Museum Artist Fellowship",
-    "provider": "Aspen Art Museum",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Arts fellowship awarded by the Aspen Art Museum to regional artists Established 2018.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://aspenartmuseum.org/education/artist-fellowship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135553205"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10493,
-    "name": "Policy Leader Fellow",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Italy"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship programme at the European University Institute’s School of Transnational Governance, offering early- and mid-career professionals in policy and international affairs a residential training and networking opportunity in Florence. Established 2017.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.eui.eu/apply?id=policy-leader-fellowship",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135878658"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10494,
-    "name": "NIH F32 NRSA Postdoctoral Fellowship 2025",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Postdoctoral fellowship awarded by the NIH F32 NRSA program",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q135915997",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q135915997"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10495,
-    "name": "AAMC Foundation Engagement Program for International Curators (EPIC) Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship program for international curators organised by the Association of Art Museum Curators Foundation Established 2018.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.artcurators.org/page/EPIC",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q136399778"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10496,
-    "name": "Cambridge Outstanding International Fellowship Award",
-    "provider": "University of Cambridge",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International academic fellowship awarded by the University of Cambridge recognizing outstanding academic achievements",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.cambridgeinternational.org/Images/698184-outstanding-cambridge-learner-awards-guide-for-schools.pdf",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q136439552"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10497,
-    "name": "Andrew Mellon Predoctoral Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q137382398",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q137382398"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10498,
-    "name": "Artist Fellowship of the Illinois Arts Council",
-    "provider": "Illinois Arts Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship to encourage development of the arts throughout Illinois, United States",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q137704793",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q137704793"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10499,
-    "name": "James Harrison Steedman Fellowship in Architecture",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Architecture fellowship in Rome in honor of James Harrison Steedman Established 1926.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q137778360",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q137778360"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10381,
@@ -20498,7 +12127,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10382,
@@ -20543,7 +12172,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10130,
@@ -20588,7 +12217,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10131,
@@ -20633,7 +12262,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10383,
@@ -20678,7 +12307,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10384,
@@ -20723,7 +12352,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10385,
@@ -20768,7 +12397,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10386,
@@ -20813,7 +12442,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10387,
@@ -20858,7 +12487,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10388,
@@ -20903,7 +12532,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10389,
@@ -20948,7 +12577,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10390,
@@ -20993,7 +12622,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10391,
@@ -21038,7 +12667,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10392,
@@ -21083,7 +12712,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10393,
@@ -21128,7 +12757,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10394,
@@ -21173,7 +12802,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10395,
@@ -21218,7 +12847,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10396,
@@ -21263,7 +12892,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10397,
@@ -21308,7 +12937,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10398,
@@ -21353,7 +12982,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10399,
@@ -21398,7 +13027,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10400,
@@ -21443,7 +13072,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10401,
@@ -21488,7 +13117,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10402,
@@ -21533,7 +13162,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10403,
@@ -21578,7 +13207,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10404,
@@ -21623,7 +13252,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10405,
@@ -21668,7 +13297,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10406,
@@ -21713,7 +13342,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10407,
@@ -21758,7 +13387,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10408,
@@ -21803,7 +13432,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10409,
@@ -21848,7 +13477,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10410,
@@ -21893,7 +13522,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10411,
@@ -21938,7 +13567,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10412,
@@ -21983,7 +13612,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10413,
@@ -22028,7 +13657,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10414,
@@ -22073,7 +13702,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10415,
@@ -22118,7 +13747,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10416,
@@ -22163,7 +13792,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10417,
@@ -22208,7 +13837,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10418,
@@ -22253,7 +13882,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10419,
@@ -22298,7 +13927,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10420,
@@ -22343,7 +13972,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10421,
@@ -22388,7 +14017,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10422,
@@ -22433,7 +14062,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10423,
@@ -22478,7 +14107,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10424,
@@ -22523,7 +14152,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10425,
@@ -22568,7 +14197,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10426,
@@ -22613,7 +14242,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10427,
@@ -22658,7 +14287,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10428,
@@ -22703,7 +14332,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10429,
@@ -22748,7 +14377,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10430,
@@ -22793,7 +14422,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10431,
@@ -22838,7 +14467,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10432,
@@ -22883,7 +14512,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10433,
@@ -22928,7 +14557,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10434,
@@ -22973,7 +14602,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10435,
@@ -23018,2257 +14647,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10438,
-    "name": "Monbukagakusho Scholarship",
-    "provider": "Ministry of Education, Culture, Sports, Science and Technology",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Academic scholarship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q45131",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q45131"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10439,
-    "name": "Mandela Rhodes Scholarship",
-    "provider": "Mandela Rhodes Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship for postgraduate study for African citizens Established 2002.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "http://www.mandelarhodes.org",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q6747957"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10440,
-    "name": "National Merit Scholarship Program",
-    "provider": "National Merit Scholarship Corporation",
-    "type": "Private",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "American academic scholarship competition Established 1955.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q6974311",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q6974311"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10441,
-    "name": "Overseas Research Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award for foreign country nationals to undertake research in the United Kingdom Established 1979.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q7113929",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7113929"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10442,
-    "name": "Pitt Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q7199085",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7199085"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10443,
-    "name": "Queen's Scholar",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q7270103",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7270103"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10444,
-    "name": "Robert C. Byrd Honors Scholarship Program",
-    "provider": "Office of Postsecondary Education",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Federally funded and state-administered merit-based scholarship program in the United States Established 1985.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q7342586",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7342586"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10445,
-    "name": "Ronald E. McNair Post-Baccalaureate Achievement Program",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "McNair Scholars: PhD access for underrepresented Established 1989.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://mcnairscholars.com/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7364815"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10446,
-    "name": "Singapore Armed Forces Merit Scholarship",
-    "provider": "Singapore Armed Forces",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Singapore"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Singapore Ministry of Defence scholarship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q7522889",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7522889"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10447,
-    "name": "Singapore Armed Forces Overseas Scholarship",
-    "provider": "Public Service Commission",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Singapore"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q7522893",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7522893"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10448,
-    "name": "Sydney eScholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q7660234",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7660234"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10449,
-    "name": "Vanier Canada Graduate Scholarships",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Canada"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International Postgraduate Award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://vanier.gc.ca/en/home-accueil.html",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7914897"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10450,
-    "name": "Vinerian Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United Kingdom"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship awarded by the University of Oxford",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q7932458",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q7932458"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10451,
-    "name": "Albin Hagström Memorial Award",
-    "provider": "Royal Swedish Academy of Music",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Sweden"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata. Established 1997.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q10404350",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q10404350"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10452,
-    "name": "Asa Kitok Award",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q10419080",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q10419080"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10453,
-    "name": "John Marshall Scholars",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Academic scholarship program",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q6246912",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q6246912"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10454,
-    "name": "John Monash Scholars",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Australia"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Postgraduate scholarship in Australia Established 2001.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "http://www.johnmonash.com",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q6249132"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10455,
-    "name": "Jérôme Lohez 9/11 Scholarship Foundation",
-    "provider": "Dening Wu-Lohez",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Non-profit organization in the United States",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q6320218",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q6320218"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10456,
-    "name": "Oak scholarship",
-    "provider": "Planning and Budgeting Committee",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Israel"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://che.org.il/%D7%97%D7%91%D7%A8%D7%99-%D7%95%D7%A2%D7%93%D7%AA-%D7%9E%D7%9C%D7%92%D7%95%D7%AA-%D7%90%D7%9C%D7%95%D7%9F/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q6628654"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10090,
-    "name": "The custodian of the two holy mosques scholarship program",
-    "provider": "Government of Saudi Arabia",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Saudi Arabia"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship listed on Wikidata.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q60572933",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q60572933"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10091,
-    "name": "Jardine Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Undergraduate award for study at the Universities of Oxford and Cambridge Established 1982.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q60742242",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q60742242"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10092,
-    "name": "Heisenberg scholarship",
-    "provider": "German Research Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship of the Heisenberg Programme",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/heisenberg",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q62102902"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10474,
-    "name": "The Scholarship From Hell",
-    "provider": "Horror Writers Association",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Granted by the Horror Writers Association",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q122610052"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10457,
-    "name": "ARVO Foundation Collaborative Research Fellowship",
-    "provider": "ARVO Foundation for Eye Research",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International ophthalmic research fellowship established in 2009 by the ARVO Foundation Established 2009.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141438316",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141438316"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10458,
-    "name": "RRF Helmerich International Fellowship",
-    "provider": "Retina Research Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Ophthalmology subspecialty training fellowship funded by the Retina Research Foundation",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://retinaresearchfnd.org/research-programs/international-fellowships/icohelmerich/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141438317"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10459,
-    "name": "Squire Scholarship",
-    "provider": "University of Cambridge",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship of the Faculty of Law, University of Cambridge",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141451420",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141451420"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10460,
-    "name": "Pembroke College Foundation Scholarship",
-    "provider": "Pembroke College",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship of Pembroke College, University of Cambridge",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141451423",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141451423"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10461,
-    "name": "Pembroke College Scholarship",
-    "provider": "Pembroke College",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "College scholarship of Pembroke College, University of Cambridge",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141451424",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141451424"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10462,
-    "name": "Henry Arthur Thomas Travel Exhibition",
-    "provider": "University of Cambridge",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Travel award of the University of Cambridge",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141451430",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141451430"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10463,
-    "name": "Limburg Beeldende Kunst Stipendium",
-    "provider": "Jan van Eyck Academie",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Limburg Art Stipend",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://janvaneyck.nl/residency/fellowships-and-other-funded-residencies",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141491233"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10464,
-    "name": "Mahammadali Ibrahimli Scholarship Program (MISP)",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Azerbaijan"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "A scholarship program supporting the education of Azerbaijanis around the world",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://mischolarship.com/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141612016"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10465,
-    "name": "Lester B. Pearson International Scholarship",
-    "provider": "University of Toronto",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Canada"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "International undergraduate award for students to study at the University of Toronto Established 2017.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://future.utoronto.ca/pearson-scholarships",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141634147"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10466,
-    "name": "Robert Noyce Teacher Scholarship",
-    "provider": "National Science Foundation",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "National Science Foundation scholarship for future STEM teachers",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141635989",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141635989"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10467,
-    "name": "Encode: AI for Science Fellowship",
-    "provider": "Advanced Research & Invention Agency",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "UK research fellowship pairing AI researchers with scientists, funded by ARIA and delivered by Pillar VC",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://encode.pillar.vc/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141672105"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10468,
-    "name": "Fairmont Firefighters Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship awarded through Fairmont Dollars for Scholars in Minnesota, United States",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141783677",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141783677"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10507,
-    "name": "Bonnie Atkins Memorial Scholarship",
-    "provider": "Global Kung Fu Alliance",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Quarterly scholarship founded by Wing Chun instructor Kendra Mahon (Kung Fu Kendra)",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://kungfukendra.com/global-kung-fu-alliance/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141822448"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10471,
-    "name": "Austrian State Scholarship for Fine Arts, Photography and Media Art",
-    "provider": "Federal Ministry for Arts, Culture, the Civil Service and Sport",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "Austria"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Austrian federal scholarship for visual artists",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.bmwkms.gv.at/themen/kunst-und-kultur/sparten/bildende-kunst-design-mode-fotografie-medienkunst/foerderungen/stipendien.html",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141276263"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10472,
-    "name": "Plácido Domingo Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Mexico"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship for young Mexican opera singers awarded by SIVAM",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141347667",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141347667"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10469,
-    "name": "Robert Harvey Honor Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship for students at Vanderbilt University from Arkansas Established 2000.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141401096",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141401096"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10475,
-    "name": "IBM Fellow",
-    "provider": "IBM",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q45924",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q45924"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10313,
-    "name": "Hazel Rowley Literary Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Australia"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Australian literary award Established 2011.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "http://hazelrowley.com",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q104911003"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10314,
-    "name": "MBIE Science Whitinga Fellowship",
-    "provider": "Ministry of Business, Innovation and Employment",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Science award in New Zealand Established 2021.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/mbie-science-whitinga-fellowship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q105090765"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10512,
-    "name": "Barbour Scholarship",
-    "provider": "University of Michigan",
-    "type": "University",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship programme at the University of Michigan",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q142073618",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q142073618"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10311,
-    "name": "James Cook Research Fellowship",
-    "provider": "Royal Society Te Apārangi",
-    "type": "Foundation",
-    "scope": "International",
-    "hostCountries": [
-      "New Zealand"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship awarded by the Royal Society of New Zealand",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q104451522",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q104451522"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10312,
-    "name": "Swarnajayanti Fellowship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "National",
-    "hostCountries": [
-      "India"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "India"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Indian research award",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q104852299",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q104852299"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10501,
-    "name": "SEEKCommons Fellowship",
-    "provider": "SEEKCommons",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Research fellowship awarded in 2024 and 2025 by SEEKCommons",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://seekcommons.org/fellowship-application.html",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q140679650"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10502,
-    "name": "British Academy Global Professorship",
-    "provider": "British Academy",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "British Academy fellowship grant bringing researchers based outside the UK to UK universities",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q141641598",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141641598"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10510,
-    "name": "Wexner Heritage Program",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Not specified"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Two-year educational experience",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wexnerfoundation.org/programs/wexner-heritage-program/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q141986233"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10511,
-    "name": "Tier 1 Scholarship",
-    "provider": "Not specified",
-    "type": "Other",
-    "scope": "International",
-    "hostCountries": [
-      "Australia"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Scholarship within the Sport Australia Hall of Fame Scholarship and Mentoring Program",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q142019125",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q142019125"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
-  },
-  {
-    "id": 10500,
-    "name": "Creative Renewal Arts Fellowship",
-    "provider": "Indy Arts Council",
-    "type": "Government",
-    "scope": "International",
-    "hostCountries": [
-      "United States"
-    ],
-    "currency": "INR",
-    "amountOriginal": null,
-    "amount": null,
-    "amountNote": "Not provided by this data source - see the official page",
-    "amountPeriod": "Annual",
-    "awards": null,
-    "deadline": null,
-    "deadlineNote": "Not provided by this data source",
-    "educationLevel": [],
-    "fields": [
-      "All Fields"
-    ],
-    "states": [
-      "All India"
-    ],
-    "nationalities": [
-      "Any country"
-    ],
-    "maxIncome": null,
-    "minimumPercentage": null,
-    "category": "Other",
-    "socialCategories": [],
-    "specialEligibility": "",
-    "requires": null,
-    "gender": "All",
-    "description": "Fellowship for artists and arts administrators to have sabbatical-like experiences Established 1999.",
-    "documents": [],
-    "process": "See the official page for how to apply.",
-    "officialUrl": "https://indyarts.org/grants/creative-renewal-arts-fellowship/",
-    "sources": [
-      "https://www.wikidata.org/wiki/Q138205948"
-    ],
-    "lastVerified": null,
-    "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10436,
@@ -25313,7 +14692,10088 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10311,
+    "name": "James Cook Research Fellowship",
+    "provider": "Royal Society Te Apārangi",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship awarded by the Royal Society of New Zealand",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q104451522",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q104451522"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10312,
+    "name": "Swarnajayanti Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Indian research award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q104852299",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q104852299"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10313,
+    "name": "Hazel Rowley Literary Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Australia"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Australian literary award Established 2011.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "http://hazelrowley.com",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q104911003"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10314,
+    "name": "MBIE Science Whitinga Fellowship",
+    "provider": "Ministry of Business, Innovation and Employment",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Science award in New Zealand Established 2021.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/mbie-science-whitinga-fellowship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q105090765"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10315,
+    "name": "UC Davis Chancellor’s Fellows",
+    "provider": "University of California, Davis",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Program to honor achievements of outstanding early career UC Davis faculty Established 2000.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://academicaffairs.ucdavis.edu/uc-and-campus-awards",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q105950049"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10316,
+    "name": "Ecological Society of America Early Career Fellows",
+    "provider": "Ecological Society of America",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship to honor outstanding early career ecologists",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.esa.org/about/awards/#early-career-fellow",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q105950353"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10317,
+    "name": "Rothschild Fellowship",
+    "provider": "Yad Hanadiv",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Israel"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "The Rothschild Fellowship programme for young scholars of outstanding academic merit Established 1979.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.yadhanadiv.org.il/rothschild-fellows",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q106007699"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10318,
+    "name": "Andrew Carnegie Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellow of the Andrew Carnegie Fellows Program Established 2015.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.carnegie.org/awards/award/andrew-carnegie-fellows/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q106166209"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10319,
+    "name": "Millstone Research Fellowship",
+    "provider": "Western Society for French History",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q106213876",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q106213876"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10320,
+    "name": "New Directions Fellowships",
+    "provider": "Andrew W. Mellon Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Assist faculty members in the humanities and humanistic social sciences who seek to acquire systematic training in cross-disciplinary research Established 2002.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q106292667",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q106292667"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10321,
+    "name": "Woodrow Wilson National Fellowship",
+    "provider": "The Institute for Citizens & Scholars",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "http://woodrow.org",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q106382431"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10322,
+    "name": "Association of Science-Technology Centers Fellow Award for Outstanding Contribution",
+    "provider": "Association of Science and Technology Centers",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Honorary Award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q106388084",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q106388084"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10323,
+    "name": "DoD NDSEG Fellowship",
+    "provider": "United States Department of Defense",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "American science and engineering fellowship Established 1989.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://ndseg.org/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q106880920"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10324,
+    "name": "Google Fellow",
+    "provider": "Google",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q107110818",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q107110818"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10325,
+    "name": "Djerassi Resident Artists Fellowship",
+    "provider": "Djerassi Artists Residency",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship awarded by Djerassi Resident Artists Program Established 1979.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://djerassi.org/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q107309013"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10326,
+    "name": "Charlotte and Walter Buchanan Faculty Fellow",
+    "provider": "Texas A&M University",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Engineering fellowship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q107360523",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q107360523"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10327,
+    "name": "Latinx Artist Fellowship",
+    "provider": "Andrew W. Mellon Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award by Mellon Foundation and Ford Foundation Established 2021.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q107587273",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q107587273"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10328,
+    "name": "USACM Fellows Award",
+    "provider": "United States Association for Computational Mechanics",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Recognizes outstanding contributions to computational mechanics. Winners receive a certificate",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.usacm.org/honors-and-awards-guidelines",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q109347588"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10329,
+    "name": "MacDowell Fellowship",
+    "provider": "MacDowell",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Residency grant in the arts",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.macdowell.org/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q109769379"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10330,
+    "name": "Sarah Berliner Research Fellowship",
+    "provider": "Emile Berliner",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Research grant awarded to female scientists Established 1908.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q110232520",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q110232520"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10331,
+    "name": "Bronx Museum Artist in the Marketplace Fellowship",
+    "provider": "Bronx Museum of the Arts",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Bronx Museum program to support emerging New York City artists Established 1980.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q111442415",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q111442415"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10332,
+    "name": "Herbert H. Richardson Fellow",
+    "provider": "Texas A&M University College of Engineering",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Faculty fellow conferred by College of Engineering at Texas A&M University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q111490556",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q111490556"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10333,
+    "name": "Morris E. Foster Faculty Fellow",
+    "provider": "Texas A&M University",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed faculty fellowship conferred by Texas A&M University in mechanical engineering",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q111501535",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q111501535"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10334,
+    "name": "Ruth and William Neely '52 Dow Jones Chemical Fellow",
+    "provider": "Texas A&M University College of Engineering",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Conferred by Texas A&M University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q111503932",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q111503932"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10335,
+    "name": "Steve Brauer Jr. '02 Faculty Fellow",
+    "provider": "Texas A&M University",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Conferred by Texas A&M University Established 2015.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q111505397",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q111505397"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10336,
+    "name": "William O. and Montine P. Head Faculty Fellow",
+    "provider": "Texas A&M University College of Engineering",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Conferred by Texas A&M University's College of Engineering for outstanding performance",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q111514226",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q111514226"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10337,
+    "name": "Edmund Hillary Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "New Zealand entrepreneurship organisation",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://ehf.org",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q111939263"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10338,
+    "name": "Earth Leadership Program Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.earthleadership.org/fellows-name",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q112132519"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10339,
+    "name": "Arts and Humanities Research Council Fellowship",
+    "provider": "Arts and Humanities Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship awarded by the Arts and Humanities Research Council",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q113144889",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q113144889"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10340,
+    "name": "DOE/Sloan Foundation Postdoctoral Fellowship in Computational Molecular Biology",
+    "provider": "United States Department of Energy",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q113192581",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q113192581"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10341,
+    "name": "Packard Fellowship for Science and Engineering",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Science fellowship Established 1988.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.packard.org/what-we-fund/science/packard-fellowships-for-science-and-engineering/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q113469875"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10342,
+    "name": "Banting Postdoctoral Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Canada"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "The Banting Postdoctoral Fellowships program provides funding to the very best postdoctoral applicants, both nationally and internationally, who will positively contribute to the country's economic, social, and research-based growth. Established 2014.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://banting.fellowships-bourses.gc.ca/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q113513490"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10343,
+    "name": "Berkeley Fellow of the Owens College, Manchester",
+    "provider": "University of Manchester",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award granted by Owens College",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q114218584",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q114218584"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10344,
+    "name": "Lower East Side Printshop Keyholder Residency",
+    "provider": "Lower East Side Printshop",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Year-long residency awarded by the Lower East Side Printshop in New York City",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q114313932",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q114313932"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10345,
+    "name": "Shakespeare’s Globe International Actors’ Fellow",
+    "provider": "Shakespeare Globe Centre New Zealand",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award in New Zealand",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q114755837",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q114755837"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10346,
+    "name": "Dr A.T. Shousha Foundation Prize and Fellowship",
+    "provider": "World Health Organization",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "WHO Public Health Prize Established 1966.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q115978966",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q115978966"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10347,
+    "name": "Francesco Pocchiari Fellowship",
+    "provider": "World Health Organization",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "WHO Public Health Award Established 1991.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://apps.who.int/gb/awards/e/Pocchiari.html",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116025761"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10348,
+    "name": "Helmholtz International Fellow Award",
+    "provider": "Helmholtz Association of German Research Centres",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116214143",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116214143"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10349,
+    "name": "Fellowship of the Vrije Universiteit Brussel",
+    "provider": "Rector of the Vrije Universiteit Brussel",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Belgium"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award granted by the Vrije Universiteit Brussel",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116267143",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116267143"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10350,
+    "name": "John Macphail Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Rugby union award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q116443344",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q116443344"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10351,
+    "name": "Smithsonian Artist Research Fellowship",
+    "provider": "Smithsonian Institution",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q117127514",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q117127514"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10352,
+    "name": "Klebnikov Fellowship",
+    "provider": "Harriman Institute",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q117321458",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q117321458"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10353,
+    "name": "Nuffield Travelling Fellowship",
+    "provider": "Nuffield Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Academic award for Commonwealth scholars to spend time in the UK",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q117839992",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q117839992"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10354,
+    "name": "Erskine Fellowship",
+    "provider": "University of Canterbury",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Teaching fellowship at the University of Canterbury, New Zealand",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q117840800",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q117840800"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10355,
+    "name": "John Carter Brown Library Fellowship",
+    "provider": "John Carter Brown Library",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Annual fellowship to scholars engaged in research on the early Americas Established 1962.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://jcblibrary.org/fellowships",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q118525491"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10356,
+    "name": "Emile Noël Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://jeanmonnetprogram.org/fellows/emile-noel-fellowship-overview/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q119792459"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10357,
+    "name": "Teacher Fellow Award",
+    "provider": "North American Colleges and Teachers of Agriculture",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award by NACTA",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q122199888",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122199888"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10509,
+    "name": "Academy of American Poets Laureate Fellowship",
+    "provider": "Academy of American Poets",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Literary award for poets laureate in the United States",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q122710186",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122710186",
+      "https://www.wikidata.org/wiki/Q94660580"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10358,
+    "name": "Postdoctoral Fellowship for Excellence in Research and Leadership",
+    "provider": "Natural Sciences and Engineering Research Council of Canada",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scientific award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q122810690",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122810690"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10359,
+    "name": "National Humanities Center Fellowship",
+    "provider": "National Humanities Center",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Residential fellowship in the humanities awarded annually Established 1978.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://nationalhumanitiescenter.org/scholarly-programs",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123155347"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10360,
+    "name": "Harry der Boghosian Endowed Fellowship",
+    "provider": "Syracuse University Board of Trustees",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed academic position at Syracuse University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q123239193",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123239193"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10361,
+    "name": "New Zealand Mana Tūāpapa Future Leader Fellowship",
+    "provider": "Ministry of Business, Innovation and Employment",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Type of fellowship in New Zealand, part of New Zealand Mana Tūārangi Distinguished Researcher Fellowships Established 2024.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q123398538",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123398538"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10362,
+    "name": "New Zealand Mana Tūānuku Research Leader Fellowship",
+    "provider": "Ministry of Business, Innovation and Employment",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Type of fellowship in New Zealand, part of New Zealand Mana Tūārangi Distinguished Researcher Fellowships Established 2024.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q123398541",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123398541"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10363,
+    "name": "New Zealand Mana Tūārangi Distinguished Researcher Fellowship",
+    "provider": "Ministry of Business, Innovation and Employment",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Type of fellowship in New Zealand, part of New Zealand Mana Tūārangi Distinguished Researcher Fellowships Established 2024.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q123398544",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123398544"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10364,
+    "name": "Leverhulme Fellowship",
+    "provider": "Leverhulme Trust",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship awarded by the Leverhulme Trust",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q123411090",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123411090"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10365,
+    "name": "Honorary Life Fellowship",
+    "provider": "New Zealand Geographical Society",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award made by the New Zealand Geographical Society",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q123432549",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123432549"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10366,
+    "name": "The Caroline Plummer Fellowship in Community Dance",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award conferred by University of Otago in New Zealand Established 2005.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q123458787",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123458787"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10367,
+    "name": "Rutherford Foundation Postdoctoral Fellowship",
+    "provider": "Royal Society Te Apārangi",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Postdoctoral award in New Zealand (cf Rutherford Discovery)",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q123467320",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123467320"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10368,
+    "name": "Ngā Puanga Pūtaiao Fellowship",
+    "provider": "Royal Society Te Apārangi",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Research fellowship in New Zealand, for early and mid-career researchers",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q123842247",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q123842247"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10369,
+    "name": "Max Day Environmental Science Fellowship Award",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.science.org.au/supporting-science/awards-and-opportunities/max-day-environmental-science-fellowship-award",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q124248464"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10370,
+    "name": "the Culture of Health Leaders program of the Robert Wood Johnson Foundation",
+    "provider": "Robert Wood Johnson Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q124257520",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q124257520"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10371,
+    "name": "Minority Postdoctoral Fellowship",
+    "provider": "Columbia University",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award given to a scholar from a historically underrepresented group, presenting the opportunity for the scholar to participate and develop their own research program Established 1996.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q124695874",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q124695874"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10372,
+    "name": "Max Weber Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q124857566",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q124857566"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10373,
+    "name": "Rhodes Visiting Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship by the Rhodes Trust",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q125369845",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q125369845"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10374,
+    "name": "Mercator Fellowship",
+    "provider": "Stiftung Mercator",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Academic fellowship awarded by Stiftung Mercator",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q125454352",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q125454352"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10375,
+    "name": "JD Stout Fellowship in New Zealand Studies",
+    "provider": "Stout Research Centre for New Zealand Studies",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Academic award to reseachers of New Zealand society, history or culture. Established 1985.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q125501807",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q125501807"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10376,
+    "name": "Talent Development Grant Scheme",
+    "provider": "Creative Industries Fund NL",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Dutch talent-development grant scheme for designers and makers",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q125823081",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q125823081"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10377,
+    "name": "Ernst & Young Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q125844872",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q125844872"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10378,
+    "name": "Carnegie Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award and fellowship granted by the Carnegie Corporation of New York Established 2015.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.carnegie.org/awards/award/andrew-carnegie-fellows/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q125860258"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10379,
+    "name": "Charlotte W. Newcombe Doctoral Dissertation Fellowship",
+    "provider": "The Institute for Citizens & Scholars",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q126389698",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q126389698"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10380,
+    "name": "Arnold O. Beckman Postdoctoral Fellowship",
+    "provider": "Arnold and Mabel Beckman Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q127432344",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q127432344"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10505,
+    "name": "Wired Innovation Fellow",
+    "provider": "Wired",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award granted by Wired",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q127515789",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q127515789"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10506,
+    "name": "Echoing Green Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q128810958",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q128810958"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10476,
+    "name": "American-Scandinavian Foundation Fellowship",
+    "provider": "The American-Scandinavian Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Awarded by American-Scandinavian Foundation",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q129167488",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q129167488"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10477,
+    "name": "Yaddo Fellowship",
+    "provider": "Yaddo",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Artist residency",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q130235652",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q130235652"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10478,
+    "name": "Beatriu de Pinós Fellow",
+    "provider": "Agency for Administration of University and Research",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scientific award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q130248610",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q130248610"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10479,
+    "name": "Wilder Green Fellowship in Architecture",
+    "provider": "MacDowell",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship established in 2006 Established 2006.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.macdowell.org/sponsored-fellowships/wilder-green-fellowship",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q130376092"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10480,
+    "name": "Sargeson Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "A New Zealand literary award Established 1987.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q131451286",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q131451286"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10481,
+    "name": "Maxwell Fraser Fellowship",
+    "provider": "National Library of Wales",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q131764321",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q131764321"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10482,
+    "name": "Cullman Fellowship",
+    "provider": "Dorothy and Lewis B. Cullman Center for Scholars and Writers",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International fellowship program at the Dorothy and Lewis B. Cullman Center for Scholars and Writers",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.nypl.org/about/fellowships-institutes/cullman-center-scholars-writers/fellowships",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q132156951"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10483,
+    "name": "Medical Research Council (MRC) Doctoral Training Award",
+    "provider": "Medical Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "PhD scholarship awarded by the UK Medical Research Council",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q133818377",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q133818377"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10484,
+    "name": "IBET Momentum Fellowship",
+    "provider": "University of Toronto",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Canada"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship about black engineering Established 2021.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q133847789",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q133847789"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10485,
+    "name": "Doris Duke Fellowship for the Promotion of Child Well-Being",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Doctoral fellowship awarded by the Doris Duke Charitable Foundation for research on child well-being and policy",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q133934781",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q133934781"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10486,
+    "name": "AWARD fellowship",
+    "provider": "African Women in Agricultural Research and Development",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship from the African Women in Agricultural Research and Development",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q134374814",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q134374814"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10487,
+    "name": "Fellowship of the Orthodontic Technicians Association",
+    "provider": "Orthodontic Technicians Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Awarded in order to recognise a member or past member of the Orthodontic Technicians Association for their years of service to orthodontic technology or for their distinguished ability or originality in their field.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q134893066",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q134893066"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10488,
+    "name": "Charlemagne Prize Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship awarded by the Charlemagne Prize Academy for research and academic work",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q134988651",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q134988651"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10489,
+    "name": "Leonard A. Lauder Fellowship in Modern Art at the Metropolitan Museum of Art",
+    "provider": "Metropolitan Museum of Art",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship at the Metropolitan Museum's Leonard A. Lauder Research Center for Modern Art Established 2013.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q135109961",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135109961"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10490,
+    "name": "Faculty Leadership Fellow",
+    "provider": "University of Oklahoma Health Sciences Center",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship for early-career faculty at the University of Oklahoma Health Sciences Center",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://facdev.ouhsc.edu/Certificates-Fellowships/Faculty-Leadership-Program-FLP",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135117304"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10491,
+    "name": "Cultural Vibrancy Fellowship Grant",
+    "provider": "Aspen",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Arts fellowship and grant program awarded by the City of Aspen Established 2025.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://aspen.gov/1696/Cultural-Vibrancy-Fellowship",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135552969"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10492,
+    "name": "Aspen Art Museum Artist Fellowship",
+    "provider": "Aspen Art Museum",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Arts fellowship awarded by the Aspen Art Museum to regional artists Established 2018.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://aspenartmuseum.org/education/artist-fellowship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135553205"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10493,
+    "name": "Policy Leader Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Italy"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship programme at the European University Institute’s School of Transnational Governance, offering early- and mid-career professionals in policy and international affairs a residential training and networking opportunity in Florence. Established 2017.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.eui.eu/apply?id=policy-leader-fellowship",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135878658"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10494,
+    "name": "NIH F32 NRSA Postdoctoral Fellowship 2025",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Postdoctoral fellowship awarded by the NIH F32 NRSA program",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q135915997",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q135915997"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10495,
+    "name": "AAMC Foundation Engagement Program for International Curators (EPIC) Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship program for international curators organised by the Association of Art Museum Curators Foundation Established 2018.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.artcurators.org/page/EPIC",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q136399778"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10219,
+    "name": "Royal Society University Research Fellowship",
+    "provider": "Royal Society of London",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Research fellowship awarded to outstanding early career scientists in the United Kingdom who are judged by the Royal Society to have the potential to become leaders in their field",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://royalsociety.org/grants-schemes-awards/grants/university-research/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q28857542"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10220,
+    "name": "National Endowment for the Arts Fellowship",
+    "provider": "National Endowment for the Arts",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q28911895",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q28911895"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10221,
+    "name": "Pew Fellowship in Marine Conservation",
+    "provider": "The Pew Charitable Trusts",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata. Established 1989.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "http://www.pewtrusts.org/en/projects/marine-fellows/about",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q30238527"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10222,
+    "name": "Fellow of the Faculty of Public Health",
+    "provider": "Faculty of Public Health",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q30458765",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q30458765"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10223,
+    "name": "Fellow of the Institute of Biology",
+    "provider": "Institute of Biology",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q30464115",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q30464115"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10224,
+    "name": "Wellcome Trust Principal Research Fellowship",
+    "provider": "Wellcome Trust",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Research fellowship granted by the Wellcome Trust",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q32625952",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q32625952"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10225,
+    "name": "Jane Coffin Childs postdoctoral Fellowship",
+    "provider": "Jane Coffin Childs Memorial Fund for Medical Research",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scientific research fellowship for three years Established 1937.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q39182247",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q39182247"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10226,
+    "name": "3M Teaching Fellow",
+    "provider": "3M",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Canada"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q49000065",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q49000065"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10227,
+    "name": "Bassel Khartabil Free Culture Fellowship",
+    "provider": "Creative Commons",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q51950451",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q51950451"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10228,
+    "name": "Killam Research Fellowship",
+    "provider": "Canada Council for the Arts",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Canada Council research award Established 1968.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q56627685",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q56627685"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10229,
+    "name": "Rutherford Discovery Fellowship",
+    "provider": "Royal Society Te Apārangi",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "New Zealand"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "New Zealand award giving financial support to early- to mid-career researchers Established 2010.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://royalsociety.org.nz/what-we-do/funds-and-opportunities/rutherford-discovery-fellowships/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q56878278"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10230,
+    "name": "iSTEM Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award name",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q57979232",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q57979232"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10231,
+    "name": "Jefferson Science Fellow",
+    "provider": "United States Agency for International Development",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship Established 2003.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://sites.nationalacademies.org/PGA/Jefferson/index.htm",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q60141383"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10232,
+    "name": "Alfred P. Sloan Fellow",
+    "provider": "Alfred P. Sloan Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Academic fellowship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q60667392",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q60667392"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10233,
+    "name": "Ashoka Fellow",
+    "provider": "Ashoka",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellow of Ashoka organization",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.ashoka.org/en-us/ashoka-fellows",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q60784950"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10234,
+    "name": "Junior Research Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Academic position popular at Oxford and Cambridge",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q60842126",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q60842126"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10235,
+    "name": "Functional analysis of a novel viral RNA binding protein",
+    "provider": "Biotechnology and Biological Sciences Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "PhD studentship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63341474",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63341474"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10236,
+    "name": "Self-Optimising Multiphasic Flow Reactor and Work-up Processing",
+    "provider": "Engineering and Physical Sciences Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "PhD studentship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63341475",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63341475"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10237,
+    "name": "How does the human papillomavirus (HPV) E5 protein control skin cell growth and differentiation during a productive life cycle?",
+    "provider": "Biotechnology and Biological Sciences Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "PhD studentship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63341477",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63341477"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10238,
+    "name": "Liquid Crystal Microdroplets and confined systems for novel shutters",
+    "provider": "Engineering and Physical Sciences Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "PhD studentship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63341478",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63341478"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10239,
+    "name": "The importance of visual impact on public acceptance of renewable and non-conventional energy sources",
+    "provider": "Natural Environment Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "PhD studentship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63341480",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63341480"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10240,
+    "name": "Evaluation of 3D dual-polarised radar-ased hydrometeor classification algorithms over the UK",
+    "provider": "Natural Environment Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "PhD studentship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63341482",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63341482"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10241,
+    "name": "Exploring the impact of the early obesogenic home environment on children's growth and psychological development",
+    "provider": "Economic and Social Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "PhD studentship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63341483",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63341483"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10242,
+    "name": "Canada Council Senior Arts Fellowship",
+    "provider": "Canada Council for the Arts",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Canada"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63412996",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63412996"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10243,
+    "name": "Szent-Györgyi Albert Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Hungary"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship by the Hungarian Ministry of Education for scientific research Established 2004.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63614732",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63614732"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10244,
+    "name": "Mandela Washington Fellowship",
+    "provider": "Young African Leaders Initiative",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata. Established 2014.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://yali.state.gov/mwf/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63838268"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10245,
+    "name": "Safina Center Kalpana Chawla ‘Launchpad’ Fellowship",
+    "provider": "The Safina Center",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship for funding projects Established 2017.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "http://safinacenter.org/programs/safina-center-fellows/safina-center-kalpana-chawla-launchpad-fellows/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63852444"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10246,
+    "name": "Lila Acheson Wallace American Playwrights Fellowship",
+    "provider": "Juilliard School",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Graduate-level playwriting fellowship at the Juilliard School",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q63972666",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q63972666"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10247,
+    "name": "Bass Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q64138369",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q64138369"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10248,
+    "name": "Kundiman Fellowship",
+    "provider": "Kundiman",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Literary fellowship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q64717385",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q64717385"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10249,
+    "name": "Cave Canem fellow",
+    "provider": "Cave Canem Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Literary fellowship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q64736408",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q64736408"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10250,
+    "name": "Fellow of Pew Foundation",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Science award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q64852031",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q64852031"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10251,
+    "name": "Kerala Sahitya Akademi Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "National",
+    "hostCountries": [
+      "India"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "India"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Literary honour Established 1970.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q65087752",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q65087752"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10252,
+    "name": "Schmidt Science Fellows",
+    "provider": "Schmidt Futures",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Postdoctoral fellowship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q65120466",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q65120466"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10253,
+    "name": "Georgina Sweet Australian Laureate Fellowship",
+    "provider": "Australian Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Australia"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata. Established 2010.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.arc.gov.au/policies-strategies/strategy/gender-equality-research/kathleen-fitzpatrick-and-georgina-sweet-australian-laureate-fellows",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q66085136"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10254,
+    "name": "Kathleen Fitzpatrick Australian Laureate Fellowship",
+    "provider": "Australian Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Australia"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata. Established 2010.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.arc.gov.au/policies-strategies/strategy/gender-equality-research/kathleen-fitzpatrick-and-georgina-sweet-australian-laureate-fellows",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q66085137"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10255,
+    "name": "CantoMundo fellow",
+    "provider": "CantoMundo",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Literary fellowship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q66426749",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q66426749"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10256,
+    "name": "Dorothy McCluskey Visiting Fellowship in Conservation",
+    "provider": "Yale School of the Environment",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q66446669",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q66446669"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10257,
+    "name": "ACR Distinguished Fellow Award",
+    "provider": "American College of Rheumatology",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "The ACR Distinguished Fellow Award recognizes clinical and research fellows who are in a rheumatology fellowship training program and have performed meritoriously",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.rheumatology.org/Get-Involved/Awards/ACR-Awards",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q70134157"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10258,
+    "name": "Elise Richter Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award and funding scheme of the Austrian Science Fund for highly qualified female scientists and scholars of any discipline, who strive for an university career.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q73547666",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q73547666"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10259,
+    "name": "Harvard Junior Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q75090471",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q75090471"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10260,
+    "name": "Frank Knox Memorial Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship at Harvard University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://frankknox.harvard.edu/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q76246422"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10261,
+    "name": "Loeb Fellowship",
+    "provider": "Harvard Graduate School of Design",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata. Established 1968.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://loebfellowship.gsd.harvard.edu/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q80835725"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10262,
+    "name": "Azrieli Fellows Program",
+    "provider": "Azrieli Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Israel"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q83987737",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q83987737"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10264,
+    "name": "Continuing Bass University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94973003",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94973003"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10265,
+    "name": "Fellow of the Fields Institute",
+    "provider": "Fields Institute",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94983882",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94983882"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10266,
+    "name": "Gregory Amadon Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997201",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997201"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10267,
+    "name": "Anonymous Friends University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997202",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997202"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10268,
+    "name": "Gerhard Casper University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997204",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997204"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10269,
+    "name": "Paul Davies Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997205",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997205"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10270,
+    "name": "Duca Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997206",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997206"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10271,
+    "name": "Dunlevie Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997208",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997208"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10272,
+    "name": "Barbara D. Finberg University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997209",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997209"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10273,
+    "name": "Bert and Candace Forbes University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997211",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997211"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10274,
+    "name": "Thomas W. and Susan B. Ford University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997212",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997212"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10275,
+    "name": "Michael Forman University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997213",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997213"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10276,
+    "name": "John A. and Cynthia Fry Gunn University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997217",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997217"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10277,
+    "name": "Mimi and Peter Haas University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997218",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997218"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10278,
+    "name": "Robert and Ruth Halperin University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997220",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997220"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10279,
+    "name": "Rachford and Carlota A. Harris University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997222",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997222"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10280,
+    "name": "Hazy Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997223",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997223"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10281,
+    "name": "Yumi and Yasunori Kaneko Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997225",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997225"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10282,
+    "name": "William and Dorothy Kaye University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997226",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997226"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10283,
+    "name": "William R. and Gretchen B. Kimball University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997227",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997227"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10284,
+    "name": "Kleinheinz Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997229",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997229"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10285,
+    "name": "Landreth Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997232",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997232"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10286,
+    "name": "Martin Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997233",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997233"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10287,
+    "name": "Barbara and Buzz McCoy University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997234",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997234"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10288,
+    "name": "Burton J. and Deedee McMurtry University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997236",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997236"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10503,
+    "name": "Milligan Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997237",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997237"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10504,
+    "name": "John and Lydia Pearce Mitchell University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997239",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997239"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10289,
+    "name": "Olivier & Nomellini Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997240",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997240"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10290,
+    "name": "Robert K. Packard University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997241",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997241"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10291,
+    "name": "Pritzker University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997243",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997243"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10292,
+    "name": "Eleanor Loring Ritch University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997246",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997246"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10293,
+    "name": "Louise and Claude Rosenberg, Jr. University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997247",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997247"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10294,
+    "name": "John Henry Samter University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997249",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997249"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10295,
+    "name": "Sapp Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997251",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997251"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10296,
+    "name": "W. Warren Shelden University Fellow in Undergraduate Education",
+    "provider": "Stanford University",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997252",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997252"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10297,
+    "name": "Stanford Alumni University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997254",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997254"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10298,
+    "name": "Stanford Friends University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997255",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997255"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10299,
+    "name": "William and Lynda Steere University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997257",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997257"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10300,
+    "name": "Sugden Family University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997258",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997258"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10301,
+    "name": "Oswald G. Villard University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997261",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997261"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10302,
+    "name": "J. Frederick and Elisabeth Brewer Weintz University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997262",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997262"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10303,
+    "name": "Akiko Yamazaki and Jerry Yang University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997264",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997264"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10304,
+    "name": "Mr. and Mrs. Frank W. Yeung University Fellow in Undergraduate Education",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Endowed award and administrative appointment for faculty at Stanford University",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q94997265",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q94997265"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10305,
+    "name": "African Postdoctoral Training Initiative Fellow",
+    "provider": "African Academy of Sciences",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.aasciences.africa/aesa/programmes/african-postdoctoral-training-initiative-apti",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q96276472"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10306,
+    "name": "Australian Laureate Fellowship",
+    "provider": "Australian Research Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Australia"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Professorial research fellowship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q96372793",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q96372793"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10307,
+    "name": "Grant McLennan Memorial Fellowship",
+    "provider": "Queensland Government",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Australia"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Music fellowship awarded annually by the Queensland Government Established 2007.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q97016047",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q97016047"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10308,
+    "name": "Putnam Fellow",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award for the top five (or six in the case of a tie) participants in the annual William Lowell Putnam Mathematical Competition",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q99486391",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q99486391"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10309,
+    "name": "Radcliffe Institute for Advanced Study Fellowship Program",
+    "provider": "Radcliffe Institute for Advanced Study",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Institution",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q99931814",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q99931814"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10310,
+    "name": "I Tatti Fellowship",
+    "provider": "Harvard University Center for Italian Renaissance Studies",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Italy"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "http://itatti.harvard.edu/fellowships",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q99931905"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10438,
+    "name": "Monbukagakusho Scholarship",
+    "provider": "Ministry of Education, Culture, Sports, Science and Technology",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Academic scholarship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q45131",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q45131"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10439,
+    "name": "Mandela Rhodes Scholarship",
+    "provider": "Mandela Rhodes Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship for postgraduate study for African citizens Established 2002.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "http://www.mandelarhodes.org",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q6747957"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10440,
+    "name": "National Merit Scholarship Program",
+    "provider": "National Merit Scholarship Corporation",
+    "type": "Private",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "American academic scholarship competition Established 1955.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q6974311",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q6974311"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10441,
+    "name": "Overseas Research Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award for foreign country nationals to undertake research in the United Kingdom Established 1979.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q7113929",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7113929"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10442,
+    "name": "Pitt Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q7199085",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7199085"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10443,
+    "name": "Queen's Scholar",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q7270103",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7270103"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10444,
+    "name": "Robert C. Byrd Honors Scholarship Program",
+    "provider": "Office of Postsecondary Education",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Federally funded and state-administered merit-based scholarship program in the United States Established 1985.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q7342586",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7342586"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10445,
+    "name": "Ronald E. McNair Post-Baccalaureate Achievement Program",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "McNair Scholars: PhD access for underrepresented Established 1989.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://mcnairscholars.com/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7364815"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10446,
+    "name": "Singapore Armed Forces Merit Scholarship",
+    "provider": "Singapore Armed Forces",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Singapore"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Singapore Ministry of Defence scholarship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q7522889",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7522889"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10447,
+    "name": "Singapore Armed Forces Overseas Scholarship",
+    "provider": "Public Service Commission",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Singapore"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q7522893",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7522893"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10448,
+    "name": "Sydney eScholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q7660234",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7660234"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10449,
+    "name": "Vanier Canada Graduate Scholarships",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Canada"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International Postgraduate Award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://vanier.gc.ca/en/home-accueil.html",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7914897"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10450,
+    "name": "Vinerian Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship awarded by the University of Oxford",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q7932458",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q7932458"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10451,
+    "name": "Albin Hagström Memorial Award",
+    "provider": "Royal Swedish Academy of Music",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Sweden"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata. Established 1997.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q10404350",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q10404350"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10452,
+    "name": "Asa Kitok Award",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q10419080",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q10419080"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10453,
+    "name": "John Marshall Scholars",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Academic scholarship program",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q6246912",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q6246912"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10454,
+    "name": "John Monash Scholars",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Australia"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Postgraduate scholarship in Australia Established 2001.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "http://www.johnmonash.com",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q6249132"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10455,
+    "name": "Jérôme Lohez 9/11 Scholarship Foundation",
+    "provider": "Dening Wu-Lohez",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Non-profit organization in the United States",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q6320218",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q6320218"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10456,
+    "name": "Oak scholarship",
+    "provider": "Planning and Budgeting Committee",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Israel"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://che.org.il/%D7%97%D7%91%D7%A8%D7%99-%D7%95%D7%A2%D7%93%D7%AA-%D7%9E%D7%9C%D7%92%D7%95%D7%AA-%D7%90%D7%9C%D7%95%D7%9F/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q6628654"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10090,
+    "name": "The custodian of the two holy mosques scholarship program",
+    "provider": "Government of Saudi Arabia",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Saudi Arabia"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q60572933",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q60572933"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10091,
+    "name": "Jardine Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Undergraduate award for study at the Universities of Oxford and Cambridge Established 1982.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q60742242",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q60742242"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10092,
+    "name": "Heisenberg scholarship",
+    "provider": "German Research Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship of the Heisenberg Programme",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/heisenberg",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q62102902"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10474,
+    "name": "The Scholarship From Hell",
+    "provider": "Horror Writers Association",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Granted by the Horror Writers Association",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://horrorscholarships.com/hwa-scholarship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q122610052"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10471,
+    "name": "Austrian State Scholarship for Fine Arts, Photography and Media Art",
+    "provider": "Federal Ministry for Arts, Culture, the Civil Service and Sport",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "Austria"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Austrian federal scholarship for visual artists",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.bmwkms.gv.at/themen/kunst-und-kultur/sparten/bildende-kunst-design-mode-fotografie-medienkunst/foerderungen/stipendien.html",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141276263"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10472,
+    "name": "Plácido Domingo Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Mexico"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship for young Mexican opera singers awarded by SIVAM",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141347667",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141347667"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10469,
+    "name": "Robert Harvey Honor Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship for students at Vanderbilt University from Arkansas Established 2000.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141401096",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141401096"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10457,
+    "name": "ARVO Foundation Collaborative Research Fellowship",
+    "provider": "ARVO Foundation for Eye Research",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International ophthalmic research fellowship established in 2009 by the ARVO Foundation Established 2009.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141438316",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141438316"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10458,
+    "name": "RRF Helmerich International Fellowship",
+    "provider": "Retina Research Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Ophthalmology subspecialty training fellowship funded by the Retina Research Foundation",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://retinaresearchfnd.org/research-programs/international-fellowships/icohelmerich/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141438317"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10459,
+    "name": "Squire Scholarship",
+    "provider": "University of Cambridge",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship of the Faculty of Law, University of Cambridge",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141451420",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141451420"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10460,
+    "name": "Pembroke College Foundation Scholarship",
+    "provider": "Pembroke College",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship of Pembroke College, University of Cambridge",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141451423",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141451423"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10461,
+    "name": "Pembroke College Scholarship",
+    "provider": "Pembroke College",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "College scholarship of Pembroke College, University of Cambridge",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141451424",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141451424"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10462,
+    "name": "Henry Arthur Thomas Travel Exhibition",
+    "provider": "University of Cambridge",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Travel award of the University of Cambridge",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141451430",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141451430"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10463,
+    "name": "Limburg Beeldende Kunst Stipendium",
+    "provider": "Jan van Eyck Academie",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Limburg Art Stipend",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://janvaneyck.nl/residency/fellowships-and-other-funded-residencies",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141491233"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10464,
+    "name": "Mahammadali Ibrahimli Scholarship Program (MISP)",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Azerbaijan"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "A scholarship program supporting the education of Azerbaijanis around the world",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://mischolarship.com/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141612016"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10465,
+    "name": "Lester B. Pearson International Scholarship",
+    "provider": "University of Toronto",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Canada"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International undergraduate award for students to study at the University of Toronto Established 2017.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://future.utoronto.ca/pearson-scholarships",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141634147"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10466,
+    "name": "Robert Noyce Teacher Scholarship",
+    "provider": "National Science Foundation",
+    "type": "Foundation",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "National Science Foundation scholarship for future STEM teachers",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141635989",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141635989"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10467,
+    "name": "Encode: AI for Science Fellowship",
+    "provider": "Advanced Research & Invention Agency",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "UK research fellowship pairing AI researchers with scientists, funded by ARIA and delivered by Pillar VC",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://encode.pillar.vc/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141672105"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10475,
+    "name": "IBM Fellow",
+    "provider": "IBM",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Award",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q45924",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q45924"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10437,
@@ -25358,7 +24818,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10202,
@@ -25403,7 +24863,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10203,
@@ -25448,7 +24908,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10204,
@@ -25493,7 +24953,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10205,
@@ -25538,7 +24998,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10206,
@@ -25583,7 +25043,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10207,
@@ -25628,7 +25088,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10208,
@@ -25673,7 +25133,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10209,
@@ -25718,7 +25178,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10210,
@@ -25763,7 +25223,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10211,
@@ -25808,7 +25268,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10212,
@@ -25853,7 +25313,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10213,
@@ -25898,7 +25358,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10214,
@@ -25943,7 +25403,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10215,
@@ -25988,7 +25448,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10216,
@@ -26033,7 +25493,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10217,
@@ -26078,7 +25538,7 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
   },
   {
     "id": 10218,
@@ -26123,7 +25583,592 @@ const SCHOLARSHIPS = [
     ],
     "lastVerified": null,
     "dataSource": "wikidata",
-    "fetchedAt": "2026-11-07T09:03:49Z"
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10468,
+    "name": "Fairmont Firefighters Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship awarded through Fairmont Dollars for Scholars in Minnesota, United States",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141783677",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141783677"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10507,
+    "name": "Bonnie Atkins Memorial Scholarship",
+    "provider": "Global Kung Fu Alliance",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Quarterly scholarship founded by Wing Chun instructor Kendra Mahon (Kung Fu Kendra)",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://kungfukendra.com/global-kung-fu-alliance/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141822448"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10512,
+    "name": "Barbour Scholarship",
+    "provider": "University of Michigan",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship programme at the University of Michigan",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q142073618",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q142073618"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10513,
+    "name": "Carl Duisberg Fellowship for Medical Sciences",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Bayer Foundation fellowship supporting international study and research in medical sciences",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q142075791",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q142075791"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10498,
+    "name": "Artist Fellowship of the Illinois Arts Council",
+    "provider": "Illinois Arts Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship to encourage development of the arts throughout Illinois, United States",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q137704793",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q137704793"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10499,
+    "name": "James Harrison Steedman Fellowship in Architecture",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Architecture fellowship in Rome in honor of James Harrison Steedman Established 1926.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q137778360",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q137778360"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10500,
+    "name": "Creative Renewal Arts Fellowship",
+    "provider": "Indy Arts Council",
+    "type": "Government",
+    "scope": "International",
+    "hostCountries": [
+      "United States"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Fellowship for artists and arts administrators to have sabbatical-like experiences Established 1999.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://indyarts.org/grants/creative-renewal-arts-fellowship/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q138205948"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10501,
+    "name": "SEEKCommons Fellowship",
+    "provider": "SEEKCommons",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Research fellowship awarded in 2024 and 2025 by SEEKCommons",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://seekcommons.org/fellowship-application.html",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q140679650"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10502,
+    "name": "British Academy Global Professorship",
+    "provider": "British Academy",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "British Academy fellowship grant bringing researchers based outside the UK to UK universities",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q141641598",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141641598"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10510,
+    "name": "Wexner Heritage Program",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Two-year educational experience",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wexnerfoundation.org/programs/wexner-heritage-program/",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q141986233"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10511,
+    "name": "Tier 1 Scholarship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Australia"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship within the Sport Australia Hall of Fame Scholarship and Mentoring Program",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q142019125",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q142019125"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10496,
+    "name": "Cambridge Outstanding International Fellowship Award",
+    "provider": "University of Cambridge",
+    "type": "University",
+    "scope": "International",
+    "hostCountries": [
+      "United Kingdom"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "International academic fellowship awarded by the University of Cambridge recognizing outstanding academic achievements",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.cambridgeinternational.org/Images/698184-outstanding-cambridge-learner-awards-guide-for-schools.pdf",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q136439552"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
+  },
+  {
+    "id": 10497,
+    "name": "Andrew Mellon Predoctoral Fellowship",
+    "provider": "Not specified",
+    "type": "Other",
+    "scope": "International",
+    "hostCountries": [
+      "Not specified"
+    ],
+    "currency": "INR",
+    "amountOriginal": null,
+    "amount": null,
+    "amountNote": "Not provided by this data source - see the official page",
+    "amountPeriod": "Annual",
+    "awards": null,
+    "deadline": null,
+    "deadlineNote": "Not provided by this data source",
+    "educationLevel": [],
+    "fields": [
+      "All Fields"
+    ],
+    "states": [
+      "All India"
+    ],
+    "nationalities": [
+      "Any country"
+    ],
+    "maxIncome": null,
+    "minimumPercentage": null,
+    "category": "Other",
+    "socialCategories": [],
+    "specialEligibility": "",
+    "requires": null,
+    "gender": "All",
+    "description": "Scholarship listed on Wikidata.",
+    "documents": [],
+    "process": "See the official page for how to apply.",
+    "officialUrl": "https://www.wikidata.org/wiki/Q137382398",
+    "sources": [
+      "https://www.wikidata.org/wiki/Q137382398"
+    ],
+    "lastVerified": null,
+    "dataSource": "wikidata",
+    "fetchedAt": "2026-11-08T09:20:18Z"
   }
 ];
 
@@ -26134,7 +26179,7 @@ const CURRENCY_SYMBOLS = {"INR": "₹", "USD": "$", "GBP": "£", "EUR": "€", "
 const DATA_LAST_VERIFIED = "2026-10-18";
 
 /* When the APIs were last synced (null = never) */
-const DATA_LAST_SYNCED = "2026-11-07T09:03:49Z";
+const DATA_LAST_SYNCED = "2026-11-08T09:20:18Z";
 
 /* All Indian states & union territories (for profile forms) */
 const INDIAN_STATES = ["Andaman and Nicobar Islands", "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chandigarh", "Chhattisgarh", "Dadra and Nagar Haveli and Daman and Diu", "Delhi", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jammu and Kashmir", "Jharkhand", "Karnataka", "Kerala", "Ladakh", "Lakshadweep", "Madhya Pradesh", "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha", "Puducherry", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal"];
